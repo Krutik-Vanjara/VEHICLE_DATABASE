@@ -16,17 +16,10 @@ The dataset contains the following columns:
 - `transmission`
 - `Owner`
 
-There are four different CSV files included in this dataset.
+There are five different CSV files included in this dataset.
 
 ## Project Structure
 
-The project is organized into the following directories:
-- `/data`: Contains the CSV files and any other data-related files.
-- `/sql`: Contains SQL scripts for creating tables, queries, triggers, and procedures.
-- `/docs`: Contains documentation, reports, and any other project-related documents.
-- `/src`: Contains source code for any automation scripts or the graphical interface.
-- `/tests`: Contains test cases and scripts for testing the database and application.
-
-## Create Users and Roles:
-   - Create the necessary users for managing your information system (e.g., administrator, manager, regular user).
-   - Assign appropriate privileges to each user according to their role (e.g., read-only, modify, delete).
+The project is organized into the following branches:
+- `DATASETS :` This branch contains all the .csv files used to create this database.
+- `Features:`  This branch contains all chapter-wise sections along with related SQL queries, code, and other documents.
