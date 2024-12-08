@@ -1,0 +1,2060 @@
+﻿Spec_ID,Car_ID,Engine,Max Power,Max Torque,Drivetrain
+1,1,1198 cc,87 bhp @ 6000 rpm,109 Nm @ 4500 rpm,FWD
+2,2,1248 cc,74 bhp @ 4000 rpm,190 Nm @ 2000 rpm,FWD
+3,3,1197 cc,79 bhp @ 6000 rpm,112.7619 Nm @ 4000 rpm,FWD
+4,4,1197 cc,82 bhp @ 6000 rpm,113 Nm @ 4200 rpm,FWD
+5,5,2393 cc,148 bhp @ 3400 rpm,343 Nm @ 1400 rpm,RWD
+6,6,1373 cc,91 bhp @ 6000 rpm,130 Nm @ 4000 rpm,FWD
+7,7,1991 cc,181 bhp @ 5500 rpm,300 Nm @ 1200 rpm,FWD
+8,8,1995 cc,188 bhp @ 4000 rpm,400 Nm @ 1750 rpm,AWD
+9,9,1798 cc,177 bhp @ 5100 rpm,250 Nm @ 1250 rpm,FWD
+10,10,1461 cc,84 bhp @ 3750 rpm,200 Nm @ 1900 rpm,FWD
+11,11,1197 cc,82 bhp @ 6000 rpm,115 Nm @ 4000 rpm,FWD
+12,12,999 cc,67 bhp @ 5500 rpm,91 Nm @ 4250 rpm,FWD
+13,13,1462 cc,103 bhp @ 6000 rpm,138 Nm @ 4400 rpm,FWD
+14,14,1956 cc,138 bhp @ 3750 rpm,350 Nm @ 1750 rpm,FWD
+15,15,1197 cc,103 bhp @ 5000 rpm,175 Nm @ 1500 rpm,FWD
+16,16,998 cc,67 bhp @ 6000 rpm,90 Nm @ 3500 rpm,FWD
+17,17,796 cc,47 bhp @ 6000 rpm,69 Nm @ 3500 rpm,FWD
+18,18,1197 cc,82 bhp @ 6000 rpm,113 Nm @ 4200 rpm,FWD
+19,19,1197 cc,82 bhp @ 6000 rpm,113 Nm @ 4200 rpm,FWD
+20,20,1591 cc,122 bhp @ 6400 rpm,154 Nm @ 4850 rpm,FWD
+21,21,998 cc,67 bhp @ 5500 rpm,90 Nm @ 3500 rpm,FWD
+22,22,1197 cc,103 bhp @ 5000 rpm,153 Nm @ 3800 rpm,FWD
+23,23,1086 cc,68 bhp @ 5500 rpm,99 Nm @ 4500 rpm,FWD
+24,24,998 cc,118 bhp @ 6000 rpm,172 Nm @ 1500 rpm,FWD
+25,25,998 cc,58 bhp @ 6000 rpm,78 Nm @ 3500 rpm,FWD
+26,26,1197 cc,85 bhp @ 6000 rpm,113 Nm @ 4500 rpm,FWD
+27,27,1591 cc,122 bhp @ 6400 rpm,154 Nm @ 4850 rpm,FWD
+28,28,1198 cc,87 bhp @ 6000 rpm,109 Nm @ 4500 rpm,FWD
+29,29,1197 cc,82 bhp @ 6000 rpm,115 Nm @ 4000 rpm,FWD
+30,30,1199 cc,89 bhp @ 6000 rpm,110 Nm @ 4800 rpm,FWD
+31,31,998 cc,118 bhp @ 6000 rpm,172 Nm @ 1500 rpm,FWD
+32,32,1582 cc,126 bhp @ 4000 rpm,265 Nm @ 1900 rpm,FWD
+33,33,999 cc,124 bhp @ 6000 rpm,170 Nm @ 1400 rpm,FWD
+34,34,999 cc,124 bhp @ 6000 rpm,,FWD
+35,35,1086 cc,62 bhp @ 5500 rpm,96 Nm @ 3000 rpm,FWD
+36,36,1199 cc,84 bhp @ 6000 rpm,114 Nm @ 3500 rpm,FWD
+37,37,1047 cc,69 bhp @ 4000 rpm,140 Nm @ 1800 rpm,FWD
+38,38,2393 cc,148 bhp @ 3400 rpm,343 Nm @ 1400 rpm,RWD
+39,39,2143 cc,168 bhp @ 3000 rpm,400 Nm @ 1400 rpm,AWD
+40,40,1582 cc,126 bhp @ 4000 rpm,260 Nm @ 1500 rpm,FWD
+41,41,2143 cc,203 bhp @ 4200 rpm,500 Nm @ 1600 rpm,AWD
+42,42,1798 cc,138 bhp @ 6400 rpm,173 Nm @ 4000 rpm,FWD
+43,43,1968 cc,177 bhp @ 4200 rpm,380 Nm @ 1750 rpm,FWD
+44,44,1796 cc,165@5500,240@3000,RWD
+45,45,1197 cc,82 bhp @ 6000 rpm,115 Nm @ 4000 rpm,FWD
+46,46,2498 cc,105 bhp @ 3800 rpm,247 Nm @ 1800 rpm,AWD
+47,47,1197 cc,83 bhp @ 6000 rpm,115 Nm @ 4000 rpm,FWD
+48,48,998 cc,67 bhp @ 6000 rpm,90 Nm @ 3500 rpm,FWD
+49,49,1248 cc,89 bhp @ 4000 rpm,200 Nm @ 1750 rpm,FWD
+50,50,1373 cc,91 bhp @ 6000 rpm,130 Nm @ 4000 rpm,FWD
+51,51,1582 cc,126 bhp @ 4000 rpm,265 Nm @ 1900 rpm,FWD
+52,52,1591 cc,122 bhp @ 6400 rpm,154 Nm @ 4850 rpm,FWD
+53,53,999 cc,67 bhp @ 5500 rpm,91 Nm @ 4250 rpm,FWD
+54,54,1956 cc,169 bhp @ 3750 rpm,350 Nm @ 1750 rpm,FWD
+55,55,1199 cc,84 bhp @ 6000 rpm,114 Nm @ 3500 rpm,FWD
+56,56,2494 cc,101 bhp @ 3600 rpm,200 Nm @ 1200 rpm,RWD
+57,57,1995 cc,190 bhp @ 4000 rpm,400 Nm @ 1750 rpm,AWD
+58,58,1956 cc,171 bhp @ 3750 rpm,350 Nm @ 1750 rpm,AWD
+59,59,2179 cc,120 bhp @ 4000 rpm,290 Nm @ 1800 rpm,RWD
+60,60,1198 cc,87 bhp @ 6000 rpm,109 Nm @ 4500 rpm,FWD
+61,61,1998 cc,181 bhp @ 5000 rpm,270 Nm @ 1350 rpm,RWD
+62,62,1497 cc,117 bhp @ 6600 rpm,145 Nm @ 4600 rpm,FWD
+63,63,1199 cc,74 bhp @ 4200 rpm,180 Nm @ 2000 rpm,FWD
+64,64,1462 cc,103 bhp @ 6000 rpm,138 Nm @ 4400 rpm,FWD
+65,65,1196 cc,73 bhp @ 6000 rpm,101 Nm @ 3000 rpm,RWD
+66,66,1197 cc,79 bhp @ 6000 rpm,112 Nm @ 4000 rpm,FWD
+67,67,1995 cc,184 bhp @ 4000 rpm,380 Nm @ 1750 rpm,AWD
+68,68,2755 cc,174 bhp @ 3400 rpm,450 Nm @ 1600 rpm,RWD
+69,69,1799 cc,130 bhp @ 6300 rpm,171.62 Nm @ 4300 rpm,FWD
+70,70,999 cc,124 bhp @ 6000 rpm,,FWD
+71,71,1197 cc,89 bhp @ 6000 rpm,113 Nm @ 4400 rpm,FWD
+72,72,1493 cc,99 bhp @ 4000 rpm,240 Nm @ 1500 rpm,FWD
+73,73,1968 cc,141 bhp @ 3500 rpm,320 Nm @ 1750 rpm,FWD
+74,74,1497 cc,117 bhp @ 6600 rpm,145 Nm @ 4600 rpm,FWD
+75,75,1399 cc,68 bhp @ 4000 rpm,160 Nm @ 2000 rpm,FWD
+76,76,1199 cc,89 bhp @ 6000 rpm,110 Nm @ 4800 rpm,FWD
+77,77,1198 cc,74 bhp @ 5400 rpm,110 Nm @ 3750 rpm,FWD
+78,78,1498 cc,99 bhp @ 3600 rpm,200 Nm @ 1750 rpm,FWD
+79,79,2494 cc,179 bhp @ 6000 rpm,233 Nm @ 4100 rpm,FWD
+80,80,1997 cc,150 bhp @ 5000 rpm,320 Nm @ 1500 rpm,AWD
+81,81,2143 cc,207@4200,500@1600,RWD
+82,82,1968 cc,184 bhp @ 3500 rpm,380 Nm @ 1750 rpm,AWD
+83,83,1197 cc,83 bhp @ 6000 rpm,115 Nm @ 4000 rpm,FWD
+84,84,1995 cc,184 bhp @ 4000 rpm,350 Nm @ 1750 rpm,RWD
+85,85,1197 cc,83 bhp @ 6000 rpm,115 Nm @ 4000 rpm,FWD
+86,86,1582 cc,126 bhp @ 4000 rpm,265 Nm @ 1900 rpm,FWD
+87,87,1598 cc,103 bhp @ 5250 rpm,153 Nm @ 3800 rpm,FWD
+88,88,2143 cc,170 bhp @ 4200 rpm,400 Nm @ 2800 rpm,RWD
+89,89,2494 cc,202 bhp @ 5700 rpm,270 Nm @ 4500 rpm,FWD
+90,90,1197 cc,89 bhp @ 6000 rpm,113 Nm @ 4400 rpm,FWD
+91,91,1461 cc,108 bhp @ 3900 rpm,248 Nm @ 2250 rpm,FWD
+92,92,998 cc,58 bhp @ 6200 rpm,77 Nm @ 3500 rpm,FWD
+93,93,1248 cc,89 bhp @ 4000 rpm,200 Nm @ 1750 rpm,FWD
+94,94,2993 cc,258 bhp @ 4000 rpm,560 Nm @ 1500 rpm,AWD
+95,95,999 cc,124 bhp @ 6000 rpm,,FWD
+96,96,2995 cc,335 bhp @ 5300 rpm,450 Nm @ 1340 rpm,AWD
+97,97,1991 cc,241 bhp @ 5500 rpm,370 Nm @ 1300 rpm,RWD
+98,98,1197 cc,82 bhp @ 6000 rpm,115 Nm @ 4000 rpm,FWD
+99,99,1591 cc,121 bhp @ 6300 rpm,158 Nm @ 4200 rpm,FWD
+100,100,1198 cc,87 bhp @ 6000 rpm,109 Nm @ 4500 rpm,FWD
+101,101,1798 cc,138 bhp @ 6400 rpm,173 Nm @ 4000 rpm,FWD
+102,102,1197 cc,82 bhp @ 6000 rpm,115 Nm @ 4000 rpm,FWD
+103,103,1197 cc,79 bhp @ 6000 rpm,112 Nm @ 4000 rpm,FWD
+104,104,1591 cc,122 bhp @ 6400 rpm,154 Nm @ 4850 rpm,FWD
+105,105,1968 cc,177 bhp @ 3750 rpm,380 Nm @ 1750 rpm,FWD
+106,106,1995 cc,184 bhp @ 4000 rpm,350 Nm @ 1750 rpm,RWD
+107,107,1497 cc,115 bhp @ 3750 rpm,300 Nm @ 1500 rpm,FWD
+108,108,1248 cc,74 bhp @ 4000 rpm,190 Nm @ 2000 rpm,FWD
+109,109,999 cc,124 bhp @ 6000 rpm,,FWD
+110,110,1997 cc,150 bhp @ 5000 rpm,300 Nm @ 1250 rpm,AWD
+111,111,1497 cc,118@6600,146@4600,FWD
+112,112,2143 cc,204 bhp @ 4200 rpm,500 Nm @ 1600 rpm,RWD
+113,113,2982 cc,169 bhp @ 3600 rpm,360 Nm @ 1400 rpm,RWD
+114,114,1248 cc,74 bhp @ 4000 rpm,190 Nm @ 1750 rpm,FWD
+115,115,1598 cc,104 bhp @ 5250 rpm,153 Nm @ 3800 rpm,FWD
+116,116,796 cc,47 bhp @ 6000 rpm,69 Nm @ 3500 rpm,FWD
+117,117,1248 cc,89 bhp @ 4000 rpm,200 Nm @ 1750 rpm,FWD
+118,118,1086 cc,63@5500,89@3000,FWD
+119,119,1399 cc,68 bhp @ 4000 rpm,160 Nm @ 2000 rpm,FWD
+120,120,1968 cc,141 bhp @ 3500 rpm,320 Nm @ 1750 rpm,FWD
+121,121,1956 cc,168 bhp @ 3750 rpm,350 Nm @ 1750 rpm,FWD
+122,122,998 cc,118 bhp @ 6000 rpm,172 Nm @ 1500 rpm,FWD
+123,123,1197 cc,82 bhp @ 6000 rpm,115 Nm @ 4000 rpm,FWD
+124,124,1199 cc,74 bhp @ 4200 rpm,180 Nm @ 2000 rpm,FWD
+125,125,1197 cc,85 bhp @ 6000 rpm,114 Nm @ 4000 rpm,FWD
+126,126,1086 cc,62 bhp @ 5500 rpm,96 Nm @ 3000 rpm,FWD
+127,127,1197 cc,81 bhp @ 6000 rpm,114 Nm @ 4000 rpm,FWD
+128,128,999 cc,124 bhp @ 6000 rpm,,FWD
+129,129,1353 cc,138 bhp @ 6000 rpm,242 Nm @ 1500 rpm,FWD
+130,130,1984 cc,188 bhp @ 4200 rpm,320 Nm @ 1500 rpm,AWD
+131,131,2967 cc,245 bhp @ 2910 rpm,600 Nm @ 1500 rpm,AWD
+132,132,998 cc,118 bhp @ 6000 rpm,172 Nm @ 1500 rpm,FWD
+133,133,1582 cc,126 bhp @ 4000 rpm,260 Nm @ 1900 rpm,FWD
+134,134,998 cc,67 bhp @ 6200 rpm,90 Nm @ 3500 rpm,FWD
+135,135,1995 cc,184 bhp @ 4000 rpm,380 Nm @ 1750 rpm,RWD
+136,136,2609 cc,116@3800,277@1700,RWD
+137,137,1197 cc,81 bhp @ 6000 rpm,114 Nm @ 4000 rpm,FWD
+138,138,2755 cc,174 bhp @ 3400 rpm,450 Nm @ 1600 rpm,RWD
+139,139,999 cc,124 bhp @ 6000 rpm,,FWD
+140,140,1984 cc,248 bhp @ 5000 rpm,370 Nm @ 1600 rpm,AWD
+141,141,1498 cc,105 bhp @ 5600 rpm,142 Nm @ 4000 rpm,FWD
+142,142,1197 cc,85 bhp @ 6000 rpm,114 Nm @ 4000 rpm,FWD
+143,143,1591 cc,122 bhp @ 6400 rpm,151 Nm @ 4850 rpm,FWD
+144,144,1197 cc,81 bhp @ 6000 rpm,114 Nm @ 4000 rpm,FWD
+145,145,1956 cc,171 bhp @ 3750 rpm,350 Nm @ 1750 rpm,FWD
+146,146,1582 cc,126 bhp @ 4000 rpm,260 Nm @ 1500 rpm,FWD
+147,147,1197 cc,83 bhp @ 6000 rpm,113.796 Nm @ 4000 rpm,FWD
+148,148,999 cc,124 bhp @ 6000 rpm,,FWD
+149,149,1968 cc,190 bhp @ 3800 rpm,400 Nm @ 1750 rpm,FWD
+150,150,1497 cc,121 bhp @ 3500 rpm,300 Nm @ 1750 rpm,FWD
+151,151,1493 cc,113 bhp @ 4000 rpm,250 Nm @ 1500 rpm,FWD
+152,152,1197 cc,83 bhp @ 6000 rpm,115 Nm @ 4000 rpm,FWD
+153,153,1950 cc,192 bhp @ 3800 rpm,400 Nm @ 1600 rpm,RWD
+154,154,1248 cc,89 bhp @ 4000 rpm,200 Nm @ 1750 rpm,FWD
+155,155,1591 cc,121 bhp @ 6300 rpm,158 Nm @ 4200 rpm,FWD
+156,156,1582 cc,126 bhp @ 4000 rpm,260 Nm @ 1900 rpm,FWD
+157,157,1999 cc,177 bhp @ 4000 rpm,430 Nm @ 1750 rpm,AWD
+158,158,2755 cc,174 bhp @ 3400 rpm,450 Nm @ 1600 rpm,RWD
+159,159,2143 cc,201 bhp @ 3800 rpm,500 Nm @ 1600 rpm,AWD
+160,160,1197 cc,81 bhp @ 6000 rpm,114 Nm @ 4000 rpm,FWD
+161,161,4663 cc,453 bhp @ 5250 rpm,700 Nm @ 1800 rpm,RWD
+162,162,1591 cc,122 bhp @ 6400 rpm,151 Nm @ 4850 rpm,FWD
+163,163,1451 cc,141 bhp @ 5000 rpm,250 Nm @ 1600 rpm,FWD
+164,164,1498 cc,108 bhp @ 6000 rpm,144 Nm @ 4400 rpm,FWD
+165,165,2354 cc,152@6000,215@3600,AWD
+166,166,796 cc,47 bhp @ 6000 rpm,69 Nm @ 3500 rpm,FWD
+167,167,1461 cc,84 bhp @ 3750 rpm,200 Nm @ 1900 rpm,FWD
+168,168,1197 cc,81 bhp @ 6000 rpm,114 Nm @ 4000 rpm,FWD
+169,169,1497 cc,117 bhp @ 6600 rpm,145 Nm @ 4600 rpm,FWD
+170,170,1991 cc,181 bhp @ 5500 rpm,300 Nm @ 1200 rpm,RWD
+171,171,1396 cc,89 bhp @ 4000 rpm,220 Nm @ 1500 rpm,FWD
+172,172,1598 cc,105 bhp @ 5250 rpm,153 Nm @ 3800 rpm,FWD
+173,173,1498 cc,103 bhp @ 4400 rpm,250 Nm @ 1500 rpm,FWD
+174,174,998 cc,118 bhp @ 6000 rpm,172 Nm @ 1500 rpm,FWD
+175,175,2179 cc,153 bhp @ 3750 rpm,360 Nm @ 1750 rpm,FWD
+176,176,1995 cc,188 bhp @ 4000 rpm,400 Nm @ 1750 rpm,RWD
+177,177,2143 cc,134 bhp @ 3600 rpm,300 Nm @ 1600 rpm,FWD
+178,178,998 cc,68@6200,90@3500,FWD
+179,179,1968 cc,177 bhp @ 3750 rpm,380 Nm @ 1750 rpm,FWD
+180,180,2179 cc,120 bhp @ 4000 rpm,290 Nm @ 1800 rpm,RWD
+181,181,1995 cc,184 bhp @ 4000 rpm,380 Nm @ 1750 rpm,RWD
+182,182,2982 cc,169 bhp @ 3600 rpm,343 Nm @ 1400 rpm,AWD
+183,183,1197 cc,82 bhp @ 6000 rpm,115 Nm @ 4000 rpm,FWD
+184,184,1498 cc,99 bhp @ 3750 rpm,205 Nm @ 1750 rpm,FWD
+185,185,2967 cc,241 bhp @ 3800 rpm,550 Nm @ 1750 rpm,AWD
+186,186,2143 cc,204 bhp @ 3800 rpm,500 Nm @ 1600 rpm,RWD
+187,187,998 cc,67 bhp @ 5500 rpm,90 Nm @ 3500 rpm,FWD
+188,188,2179 cc,120 bhp @ 4000 rpm,280 Nm @ 1800 rpm,RWD
+189,189,1956 cc,169 bhp @ 3750 rpm,350 Nm @ 1750 rpm,FWD
+190,190,1248 cc,75@4000,190@2000,FWD
+191,191,1248 cc,74 bhp @ 4000 rpm,190 Nm @ 2000 rpm,FWD
+192,192,1497 cc,117 bhp @ 6600 rpm,145 Nm @ 4600 rpm,FWD
+193,193,2494 cc,102@5600,200@1400,FWD
+194,194,1461 cc,108 bhp @ 3900 rpm,248 Nm @ 2250 rpm,FWD
+195,195,1968 cc,174 bhp @ 4200 rpm,380 Nm @ 1750 rpm,AWD
+196,196,2987 cc,234@3800,535@1600,AWD
+197,197,1984 cc,150 bhp @ 3500 rpm,350 Nm @ 1500 rpm,FWD
+198,198,2993 cc,258 bhp @ 4000 rpm,560 Nm @ 1500 rpm,RWD
+199,199,1248 cc,74 bhp @ 4000 rpm,190 Nm @ 2000 rpm,FWD
+200,200,2179 cc,120 bhp @ 4000 rpm,280 Nm @ 1800 rpm,RWD
+201,201,2993 cc,258 bhp @ 4000 rpm,560 Nm @ 1500 rpm,AWD
+202,202,1497 cc,118@6600,146@4600,FWD
+203,203,1796 cc,186 bhp @ 5600 rpm,285 Nm @ 4000 rpm,RWD
+204,204,1582 cc,126 bhp @ 4000 rpm,265 Nm @ 1900 rpm,FWD
+205,205,2987 cc,231@3800,540@1600,RWD
+206,206,2997 cc,254 bhp @ 3600 rpm,619 Nm @ 1600 rpm,AWD
+207,207,796 cc,47 bhp @ 6000 rpm,69 Nm @ 3500 rpm,FWD
+208,208,1336 cc,89 bhp @ 4000 rpm,219.744 Nm @ 1500 rpm,FWD
+209,209,999 cc,109 bhp @ 5000 rpm,175 Nm @ 1750 rpm,FWD
+210,210,1198 cc,108 bhp @ 5000 rpm,170 Nm @ 1750 rpm,FWD
+211,211,1197 cc,85 bhp @ 6000 rpm,114 Nm @ 4000 rpm,FWD
+212,212,1248 cc,74 bhp @ 4000 rpm,190 Nm @ 2000 rpm,FWD
+213,213,1493 cc,113 bhp @ 4000 rpm,250 Nm @ 1500 rpm,FWD
+214,214,1598 cc,104 bhp @ 5200 rpm,153 Nm @ 3750 rpm,FWD
+215,215,4163 cc,444 bhp @ 8250 rpm,430 Nm @ 4000 rpm,AWD
+216,216,1197 cc,82 bhp @ 6000 rpm,114 Nm @ 4000 rpm,FWD
+217,217,3496 cc,272 bhp @ 6000 rpm,350 Nm @ 5000 rpm,AWD
+218,218,2393 cc,148 bhp @ 3400 rpm,343 Nm @ 1400 rpm,RWD
+219,219,1582 cc,126 bhp @ 4000 rpm,265 Nm @ 1900 rpm,FWD
+220,220,2755 cc,174 bhp @ 3400 rpm,450 Nm @ 1600 rpm,RWD
+221,221,1497 cc,118@6600,146@4600,FWD
+222,222,799 cc,53 bhp @ 5678 rpm,72 Nm @ 4386 rpm,FWD
+223,223,1984 cc,180 bhp @ 4000 rpm,320 Nm @ 1500 rpm,FWD
+224,224,1956 cc,168 bhp @ 3750 rpm,350 Nm @ 1750 rpm,FWD
+225,225,1968 cc,177 bhp @ 3750 rpm,380 Nm @ 1750 rpm,FWD
+226,226,1248 cc,75@4000,190@2000,FWD
+227,227,1198 cc,87 bhp @ 6000 rpm,109 Nm @ 4500 rpm,FWD
+228,228,1248 cc,74 bhp @ 4000 rpm,190 Nm @ 2000 rpm,FWD
+229,229,2179 cc,140 bhp @ 3750 rpm,320 Nm @ 1500 rpm,RWD
+230,230,2755 cc,172 bhp @ 3400 rpm,360 Nm @ 1200 rpm,RWD
+231,231,1199 cc,89 bhp @ 6000 rpm,110 Nm @ 4800 rpm,FWD
+232,232,2143 cc,201 bhp @ 3800 rpm,500 Nm @ 1600 rpm,AWD
+233,233,1956 cc,171 bhp @ 3750 rpm,350 Nm @ 1750 rpm,AWD
+234,234,2979 cc,275 bhp @ 4000 rpm,600 Nm @ 2000 rpm,AWD
+235,235,2755 cc,174 bhp @ 3400 rpm,450 Nm @ 1600 rpm,RWD
+236,236,4806 cc,500 bhp @ 6500 rpm,700 Nm @ 2250 rpm,AWD
+237,237,2393 cc,148 bhp @ 3400 rpm,360 Nm @ 1400 rpm,RWD
+238,238,2993 cc,258 bhp @ 4000 rpm,560 Nm @ 1500 rpm,AWD
+239,239,2982 cc,171@3600,343@1400,AWD
+240,240,2967 cc,241 bhp @ 3800 rpm,550 Nm @ 1750 rpm,AWD
+241,241,998 cc,58 bhp @ 5500 rpm,78 Nm @ 3500 rpm,FWD
+242,242,998 cc,67 bhp @ 6000 rpm,90 Nm @ 3500 rpm,FWD
+243,243,1373 cc,91 bhp @ 6000 rpm,130 Nm @ 4000 rpm,FWD
+244,244,1248 cc,74 bhp @ 4000 rpm,190 Nm @ 2000 rpm,FWD
+245,245,1582 cc,126 bhp @ 4000 rpm,260 Nm @ 1900 rpm,FWD
+246,246,2996 cc,362 bhp @ 5500 rpm,520 Nm @ 2000 rpm,RWD
+247,247,2143 cc,203 bhp @ 4200 rpm,500 Nm @ 1600 rpm,RWD
+248,248,1198 cc,108 bhp @ 5000 rpm,170 Nm @ 1750 rpm,FWD
+249,249,796 cc,47 bhp @ 6000 rpm,69 Nm @ 3500 rpm,FWD
+250,250,2179 cc,140 bhp @ 3750 rpm,330 Nm @ 2800 rpm,FWD
+251,251,1956 cc,138 bhp @ 3750 rpm,350 Nm @ 1750 rpm,FWD
+252,252,1498 cc,99 bhp @ 3600 rpm,200 Nm @ 1750 rpm,FWD
+253,253,1199 cc,84 bhp @ 6000 rpm,113 Nm @ 3300 rpm,FWD
+254,254,998 cc,68@6200,90@3500,FWD
+255,255,1197 cc,81 bhp @ 6000 rpm,114 Nm @ 4000 rpm,FWD
+256,256,1497 cc,117 bhp @ 6600 rpm,145 Nm @ 4600 rpm,FWD
+257,257,1248 cc,74 bhp @ 4000 rpm,190 Nm @ 2000 rpm,FWD
+258,258,1999 cc,177 bhp @ 4000 rpm,430 Nm @ 1750 rpm,AWD
+259,259,2993 cc,258 bhp @ 4000 rpm,560 Nm @ 1500 rpm,AWD
+260,260,1997 cc,296 bhp @ 5500 rpm,400 Nm @ 1500 rpm,AWD
+261,261,2982 cc,169 bhp @ 3600 rpm,343 Nm @ 1400 rpm,AWD
+262,262,999 cc,67 bhp @ 5500 rpm,91 Nm @ 4250 rpm,FWD
+263,263,1995 cc,188 bhp @ 4000 rpm,400 Nm @ 1750 rpm,FWD
+264,264,1968 cc,184 bhp @ 3500 rpm,380 Nm @ 1750 rpm,AWD
+265,265,1061 cc,67@6200,84@3500,FWD
+266,266,1197 cc,82 bhp @ 6000 rpm,115 Nm @ 4000 rpm,FWD
+267,267,999 cc,124 bhp @ 6000 rpm,,FWD
+268,268,2179 cc,138 bhp @ 3750 rpm,330 Nm @ 1600 rpm,FWD
+269,269,1197 cc,81 bhp @ 6000 rpm,114 Nm @ 4000 rpm,FWD
+270,270,1197 cc,83 bhp @ 6000 rpm,115 Nm @ 4000 rpm,FWD
+271,271,2967 cc,245 bhp @ 4400 rpm,550 Nm @ 2750 rpm,AWD
+272,272,1461 cc,84 bhp @ 3750 rpm,200 Nm @ 1900 rpm,FWD
+273,273,999 cc,67 bhp @ 5500 rpm,91 Nm @ 4250 rpm,FWD
+274,274,1353 cc,138 bhp @ 6000 rpm,242 Nm @ 1500 rpm,FWD
+275,275,2184 cc,130 bhp @ 3750 rpm,300 Nm @ 1600 rpm,AWD
+276,276,2179 cc,148 bhp @ 4000 rpm,400 Nm @ 1750 rpm,AWD
+277,277,2497 cc,177@4000,400@2000,FWD
+278,278,1197 cc,82 bhp @ 6000 rpm,113 Nm @ 4200 rpm,FWD
+279,279,1591 cc,122 bhp @ 6400 rpm,154 Nm @ 4850 rpm,FWD
+280,280,2393 cc,148 bhp @ 3400 rpm,343 Nm @ 1400 rpm,RWD
+281,281,1198 cc,103 bhp @ 5000 rpm,175 Nm @ 1500 rpm,FWD
+282,282,2999 cc,174 bhp @ 3600 rpm,380 Nm @ 1800 rpm,RWD
+283,283,998 cc,67 bhp @ 6200 rpm,90 Nm @ 3500 rpm,FWD
+284,284,1798 cc,138 bhp @ 6400 rpm,173 Nm @ 4000 rpm,FWD
+285,285,1197 cc,79 bhp @ 6000 rpm,112.7619 Nm @ 4000 rpm,FWD
+286,286,2179 cc,148 bhp @ 4000 rpm,320 Nm @ 1700 rpm,RWD
+287,287,1197 cc,80@5200,111@4000,FWD
+288,288,1591 cc,122 bhp @ 6400 rpm,154 Nm @ 4850 rpm,FWD
+289,289,2987 cc,255 bhp @ 3400 rpm,620 Nm @ 1600 rpm,AWD
+290,290,1968 cc,174 bhp @ 4200 rpm,380 Nm @ 1750 rpm,AWD
+291,291,1198 cc,74 bhp @ 5400 rpm,110 Nm @ 3750 rpm,FWD
+292,292,999 cc,124 bhp @ 6000 rpm,,FWD
+293,293,1999 cc,177 bhp @ 4000 rpm,430 Nm @ 1750 rpm,RWD
+294,294,1948 cc,90@4300,190@3000,FWD
+295,295,1968 cc,174 bhp @ 4200 rpm,380 Nm @ 1750 rpm,AWD
+296,296,796 cc,47@6200,62@3000,FWD
+297,297,999 cc,124 bhp @ 6000 rpm,,FWD
+298,298,1591 cc,121 bhp @ 6300 rpm,158 Nm @ 4200 rpm,FWD
+299,299,998 cc,118 bhp @ 6000 rpm,172 Nm @ 1500 rpm,FWD
+300,300,1248 cc,89 bhp @ 4000 rpm,200 Nm @ 1750 rpm,FWD
+301,301,1995 cc,184 bhp @ 4000 rpm,380 Nm @ 1750 rpm,AWD
+302,302,1199 cc,89 bhp @ 6000 rpm,110 Nm @ 4800 rpm,FWD
+303,303,1995 cc,188 bhp @ 4000 rpm,400 Nm @ 1750 rpm,RWD
+304,304,1498 cc,99 bhp @ 3600 rpm,200 Nm @ 1750 rpm,FWD
+305,305,1956 cc,168 bhp @ 3750 rpm,350 Nm @ 1750 rpm,FWD
+306,306,3436 cc,325 bhp @ 7400 rpm,390 Nm @ 5600 rpm,AWD
+307,307,998 cc,58 bhp @ 6200 rpm,77 Nm @ 3500 rpm,FWD
+308,308,1248 cc,89 bhp @ 4000 rpm,200 Nm @ 1750 rpm,FWD
+309,309,1999 cc,153 bhp @ 6200 rpm,192 Nm @ 4000 rpm,FWD
+310,310,999 cc,124 bhp @ 6000 rpm,,FWD
+311,311,1197 cc,83 bhp @ 6000 rpm,113 Nm @ 4000 rpm,FWD
+312,312,1984 cc,150 bhp @ 3500 rpm,350 Nm @ 1500 rpm,FWD
+313,313,2982 cc,169 bhp @ 3600 rpm,360 Nm @ 1400 rpm,RWD
+314,314,1991 cc,181 bhp @ 5500 rpm,300 Nm @ 1200 rpm,RWD
+315,315,1199 cc,89 bhp @ 6000 rpm,110 Nm @ 4800 rpm,FWD
+316,316,2925 cc,282 bhp @ 3600 rpm,600 Nm @ 1600 rpm,RWD
+317,317,1198 cc,89 bhp @ 6200 rpm,110 Nm @ 4800 rpm,FWD
+318,318,1995 cc,188 bhp @ 4000 rpm,400 Nm @ 1750 rpm,RWD
+319,319,2179 cc,188 bhp @ 3500 rpm,420 Nm @ 1750 rpm,AWD
+320,320,2489 cc,95@3600,220@1400,FWD
+321,321,1493 cc,99 bhp @ 4000 rpm,240 Nm @ 1500 rpm,FWD
+322,322,1197 cc,103 bhp @ 5000 rpm,175 Nm @ 1500 rpm,FWD
+323,323,998 cc,58 bhp @ 6200 rpm,77 Nm @ 3500 rpm,FWD
+324,324,2179 cc,140 bhp @ 3750 rpm,320 Nm @ 1500 rpm,AWD
+325,325,999 cc,124 bhp @ 6000 rpm,,FWD
+326,326,1197 cc,89 bhp @ 6000 rpm,113 Nm @ 4400 rpm,FWD
+327,327,2393 cc,148 bhp @ 3400 rpm,343 Nm @ 1400 rpm,RWD
+328,328,1368 cc,160 bhp @ 5500 rpm,250 Nm @ 2500 rpm,FWD
+329,329,1248 cc,74 bhp @ 4000 rpm,190 Nm @ 2000 rpm,FWD
+330,330,1199 cc,89 bhp @ 6000 rpm,110 Nm @ 4800 rpm,FWD
+331,331,1497 cc,118@6600,146@4600,FWD
+332,332,1197 cc,103 bhp @ 5000 rpm,175 Nm @ 1500 rpm,FWD
+333,333,1198 cc,87 bhp @ 6000 rpm,109 Nm @ 4500 rpm,FWD
+334,334,1498 cc,105 bhp @ 5600 rpm,142 Nm @ 4000 rpm,FWD
+335,335,1995 cc,184 bhp @ 4000 rpm,380 Nm @ 1750 rpm,RWD
+336,336,1498 cc,89 bhp @ 3750 rpm,204 Nm @ 2000 rpm,FWD
+337,337,2179 cc,140 bhp @ 3750 rpm,330 Nm @ 2800 rpm,FWD
+338,338,1998 cc,248 bhp @ 5200 rpm,350 Nm @ 1450 rpm,RWD
+339,339,999 cc,124 bhp @ 6000 rpm,,FWD
+340,340,2179 cc,138 bhp @ 4000 rpm,320 Nm @ 1700 rpm,RWD
+341,341,1353 cc,138 bhp @ 6000 rpm,242 Nm @ 1500 rpm,FWD
+342,342,2967 cc,241 bhp @ 3800 rpm,550 Nm @ 1750 rpm,AWD
+343,343,2993 cc,262 bhp @ 4000 rpm,620 Nm @ 1500 rpm,AWD
+344,344,1498 cc,89 bhp @ 3750 rpm,204 Nm @ 2000 rpm,FWD
+345,345,1197 cc,82 bhp @ 6000 rpm,114 Nm @ 4000 rpm,FWD
+346,346,1396 cc,89 bhp @ 4000 rpm,220 Nm @ 1500 rpm,FWD
+347,347,1798 cc,138 bhp @ 6400 rpm,173 Nm @ 4000 rpm,FWD
+348,348,1797 cc,147 bhp @ 6500 rpm,177 Nm @ 4700 rpm,FWD
+349,349,1968 cc,174 bhp @ 4200 rpm,380 Nm @ 1750 rpm,AWD
+350,350,1197 cc,83 bhp @ 6000 rpm,115 Nm @ 4000 rpm,FWD
+351,351,2179 cc,138 bhp @ 3750 rpm,330 Nm @ 1600 rpm,FWD
+352,352,1997 cc,150 bhp @ 5000 rpm,300 Nm @ 1250 rpm,AWD
+353,353,1197 cc,83 bhp @ 6000 rpm,115 Nm @ 4000 rpm,FWD
+354,354,1248 cc,74 bhp @ 4000 rpm,190 Nm @ 2000 rpm,FWD
+355,355,2982 cc,169 bhp @ 3600 rpm,360 Nm @ 1400 rpm,RWD
+356,356,1995 cc,190 bhp @ 4000 rpm,400 Nm @ 1750 rpm,RWD
+357,357,1498 cc,99 bhp @ 3600 rpm,200 Nm @ 1750 rpm,FWD
+358,358,998 cc,67 bhp @ 6200 rpm,90 Nm @ 3500 rpm,FWD
+359,359,1248 cc,89 bhp @ 4000 rpm,200 Nm @ 1750 rpm,FWD
+360,360,1298 cc,87@6000,113@4500,FWD
+361,361,1368 cc,90@6000,115@4500,FWD
+362,362,1582 cc,126 bhp @ 4000 rpm,260 Nm @ 1500 rpm,FWD
+363,363,1498 cc,119 bhp @ 6600 rpm,145 Nm @ 4300 rpm,FWD
+364,364,1999 cc,153 bhp @ 6200 rpm,192 Nm @ 4000 rpm,FWD
+365,365,2694 cc,164 bhp @ 5200 rpm,245 Nm @ 4000 rpm,RWD
+366,366,1984 cc,208 bhp @ 4300 rpm,350 Nm @ 1600 rpm,AWD
+367,367,1199 cc,84 bhp @ 6000 rpm,114 Nm @ 3500 rpm,FWD
+368,368,1197 cc,83 bhp @ 6000 rpm,115 Nm @ 4000 rpm,FWD
+369,369,1497 cc,117 bhp @ 6600 rpm,145 Nm @ 4600 rpm,FWD
+370,370,796 cc,47 bhp @ 6000 rpm,69 Nm @ 3500 rpm,FWD
+371,371,1968 cc,174 bhp @ 4200 rpm,380 Nm @ 1750 rpm,AWD
+372,372,1991 cc,241 bhp @ 5500 rpm,370 Nm @ 1300 rpm,RWD
+373,373,1199 cc,118 bhp @ 5500 rpm,170 Nm @ 1750 rpm,FWD
+374,374,1498 cc,99 bhp @ 3750 rpm,205 Nm @ 1750 rpm,FWD
+375,375,1199 cc,89 bhp @ 6000 rpm,110 Nm @ 4800 rpm,FWD
+376,376,1197 cc,79 bhp @ 6000 rpm,112.7619 Nm @ 4000 rpm,FWD
+377,377,1198 cc,87 bhp @ 6000 rpm,109 Nm @ 4500 rpm,FWD
+378,378,1956 cc,171 bhp @ 3750 rpm,350 Nm @ 1750 rpm,FWD
+379,379,1497 cc,181 bhp @ 5800 rpm,280 Nm @ 1600 rpm,RWD
+380,380,1197 cc,68 bhp @ 6000 rpm,95 Nm @ 4000 rpm,FWD
+381,381,2755 cc,174 bhp @ 3400 rpm,450 Nm @ 1600 rpm,RWD
+382,382,1497 cc,118@6600,146@4600,FWD
+383,383,1186 cc,74 bhp @ 4000 rpm,190 Nm @ 1750 rpm,FWD
+384,384,1999 cc,177 bhp @ 4000 rpm,430 Nm @ 1750 rpm,AWD
+385,385,1995 cc,190 bhp @ 4000 rpm,400 Nm @ 1750 rpm,AWD
+386,386,1591 cc,122 bhp @ 6400 rpm,154 Nm @ 4850 rpm,FWD
+387,387,2179 cc,140 bhp @ 3750 rpm,320 Nm @ 1500 rpm,AWD
+388,388,1498 cc,108 bhp @ 6000 rpm,144 Nm @ 4400 rpm,FWD
+389,389,2179 cc,120@4000,250@1500,FWD
+390,390,1998 cc,136@5600,182@4000,FWD
+391,391,1364 cc,67 bhp @ 3800 rpm,170 Nm @ 1800 rpm,FWD
+392,392,1498 cc,99 bhp @ 3600 rpm,200 Nm @ 1750 rpm,FWD
+393,393,2179 cc,120 bhp @ 4000 rpm,280 Nm @ 1800 rpm,RWD
+394,394,1798 cc,177 bhp @ 5100 rpm,250 Nm @ 1250 rpm,FWD
+395,395,1396 cc,89 bhp @ 4000 rpm,220 Nm @ 1500 rpm,FWD
+396,396,2997 cc,254 bhp @ 3600 rpm,619 Nm @ 1600 rpm,AWD
+397,397,1373 cc,91 bhp @ 6000 rpm,130 Nm @ 4000 rpm,FWD
+398,398,1950 cc,192 bhp @ 3800 rpm,400 Nm @ 1600 rpm,RWD
+399,399,2184 cc,130 bhp @ 3750 rpm,300 Nm @ 1600 rpm,AWD
+400,400,1498 cc,99 bhp @ 3600 rpm,200 Nm @ 1750 rpm,FWD
+401,401,1498 cc,99 bhp @ 3600 rpm,200 Nm @ 1750 rpm,FWD
+402,402,1197 cc,83 bhp @ 6000 rpm,115 Nm @ 4000 rpm,FWD
+403,403,1984 cc,150 bhp @ 3500 rpm,350 Nm @ 1500 rpm,FWD
+404,404,998 cc,67 bhp @ 6000 rpm,90 Nm @ 3500 rpm,FWD
+405,405,998 cc,67 bhp @ 6200 rpm,90 Nm @ 3500 rpm,FWD
+406,406,998 cc,67 bhp @ 6200 rpm,90 Nm @ 3500 rpm,FWD
+407,407,1061 cc,67@6200,84@3500,FWD
+408,408,1197 cc,83 bhp @ 6000 rpm,115 Nm @ 4000 rpm,FWD
+409,409,999 cc,99 bhp @ 5000 rpm,152 Nm @ 2200 rpm,FWD
+410,410,999 cc,124 bhp @ 6000 rpm,,FWD
+411,411,999 cc,124 bhp @ 6000 rpm,,FWD
+412,412,998 cc,68 bhp @ 6200 rpm,94 Nm @ 3500 rpm,FWD
+413,413,796 cc,47@6200,62@3000,FWD
+414,414,3498 cc,272 bhp @ 6300 rpm,345 Nm @ 4500 rpm,RWD
+415,415,998 cc,58 bhp @ 5500 rpm,78 Nm @ 3500 rpm,FWD
+416,416,2393 cc,148 bhp @ 3400 rpm,343 Nm @ 1400 rpm,RWD
+417,417,1493 cc,114 bhp @ 4000 rpm,250 Nm @ 1500 rpm,FWD
+418,418,1497 cc,113 bhp @ 6300 rpm,144 Nm @ 4500 rpm,FWD
+419,419,1598 cc,105 bhp @ 4400 rpm,250 Nm @ 2500 rpm,FWD
+420,420,1197 cc,82 bhp @ 6000 rpm,115 Nm @ 4000 rpm,FWD
+421,421,1497 cc,118 bhp @ 6600 rpm,145 Nm @ 4600 rpm,FWD
+422,422,1198 cc,108 bhp @ 5000 rpm,170 Nm @ 1750 rpm,FWD
+423,423,1197 cc,83 bhp @ 6000 rpm,115 Nm @ 4000 rpm,FWD
+424,424,2987 cc,255 bhp @ 3400 rpm,620 Nm @ 1600 rpm,AWD
+425,425,4163 cc,444 bhp @ 8250 rpm,430 Nm @ 4000 rpm,AWD
+426,426,999 cc,124 bhp @ 6000 rpm,,FWD
+427,427,2143 cc,168 bhp @ 3000 rpm,400 Nm @ 1400 rpm,AWD
+428,428,1968 cc,174 bhp @ 3600 rpm,350 Nm @ 1500 rpm,FWD
+429,429,796 cc,47 bhp @ 6000 rpm,69 Nm @ 3500 rpm,FWD
+430,430,1196 cc,70 bhp @ 6250 rpm,102 Nm @ 4000 rpm,FWD
+431,431,1197 cc,82 bhp @ 6000 rpm,113 Nm @ 4200 rpm,FWD
+432,432,998 cc,67 bhp @ 6000 rpm,90 Nm @ 3500 rpm,FWD
+433,433,1186 cc,74 bhp @ 4000 rpm,190 Nm @ 1750 rpm,FWD
+434,434,2497 cc,204@6100,245@5000,RWD
+435,435,1498 cc,105 bhp @ 5600 rpm,142 Nm @ 4000 rpm,FWD
+436,436,1998 cc,248 bhp @ 5200 rpm,350 Nm @ 1450 rpm,RWD
+437,437,2179 cc,120 bhp @ 4000 rpm,280 Nm @ 1800 rpm,RWD
+438,438,1591 cc,122 bhp @ 6400 rpm,154 Nm @ 4850 rpm,FWD
+439,439,1248 cc,89 bhp @ 4000 rpm,200 Nm @ 1750 rpm,FWD
+440,440,1248 cc,75@4000,190@2000,FWD
+441,441,1197 cc,81 bhp @ 6000 rpm,114 Nm @ 4000 rpm,FWD
+442,442,1497 cc,117 bhp @ 6600 rpm,145 Nm @ 4600 rpm,FWD
+443,443,3982 cc,463 bhp @ 5250 rpm,700 Nm @ 2000 rpm,RWD
+444,444,1999 cc,177 bhp @ 4000 rpm,430 Nm @ 1750 rpm,AWD
+445,445,1997 cc,138 bhp @ 3750 rpm,320 Nm @ 1600 rpm,FWD
+446,446,2143 cc,136 bhp @ 3200 rpm,300 Nm @ 1400 rpm,FWD
+447,447,1120 cc,71 bhp @ 4000 rpm,160 Nm @ 1500 rpm,FWD
+448,448,998 cc,59@6200,77@3500,FWD
+449,449,1950 cc,192 bhp @ 3800 rpm,400 Nm @ 1600 rpm,RWD
+450,450,999 cc,124 bhp @ 6000 rpm,,FWD
+451,451,2179 cc,154 bhp @ 4000 rpm,400 Nm @ 1700 rpm,RWD
+452,452,1498 cc,99 bhp @ 3750 rpm,205 Nm @ 1750 rpm,FWD
+453,453,1999 cc,177 bhp @ 4000 rpm,430 Nm @ 1750 rpm,AWD
+454,454,2143 cc,134 bhp @ 3600 rpm,300 Nm @ 1600 rpm,FWD
+455,455,2393 cc,148 bhp @ 3400 rpm,360 Nm @ 1400 rpm,RWD
+456,456,1197 cc,83 bhp @ 6000 rpm,115 Nm @ 4000 rpm,FWD
+457,457,1995 cc,112 bhp @,270 Nm @ 1750 rpm,FWD
+458,458,1248 cc,74 bhp @ 4000 rpm,190 Nm @ 2000 rpm,FWD
+459,459,2523 cc,75 bhp @ 3200 rpm,200 Nm @ 1400 rpm,RWD
+460,460,1368 cc,90@6000,116@4750,FWD
+461,461,998 cc,67 bhp @ 6200 rpm,90 Nm @ 3500 rpm,FWD
+462,462,1968 cc,174 bhp @ 4200 rpm,380 Nm @ 1750 rpm,AWD
+463,463,1462 cc,103 bhp @ 6000 rpm,138 Nm @ 4400 rpm,FWD
+464,464,1498 cc,99 bhp @ 3750 rpm,215 Nm @ 1750 rpm,FWD
+465,465,1988 cc,295 bhp @ 6500 rpm,380 Nm @ 1950 rpm,RWD
+466,466,1197 cc,83 bhp @ 6000 rpm,115 Nm @ 4000 rpm,FWD
+467,467,1995 cc,188 bhp @ 4000 rpm,400 Nm @ 1750 rpm,RWD
+468,468,998 cc,58 bhp @ 6200 rpm,77 Nm @ 3500 rpm,FWD
+469,469,1591 cc,121 bhp @ 6300 rpm,155 Nm @ 4200 rpm,FWD
+470,470,998 cc,68 bhp @ 6200 rpm,94 Nm @ 3500 rpm,FWD
+471,471,1995 cc,120@5500,170@3500,AWD
+472,472,1197 cc,79 bhp @ 6000 rpm,112 Nm @ 4000 rpm,FWD
+473,473,1950 cc,241 bhp @ 4200 rpm,500 Nm @ 1600 rpm,AWD
+474,474,1493 cc,100 bhp @ 3750 rpm,240 Nm @ 1600 rpm,RWD
+475,475,1498 cc,99 bhp @ 3600 rpm,200 Nm @ 1750 rpm,FWD
+476,476,1995 cc,184 bhp @ 4000 rpm,350 Nm @ 1750 rpm,RWD
+477,477,1995 cc,184 bhp @ 4000 rpm,350 Nm @ 1750 rpm,RWD
+478,478,999 cc,124 bhp @ 6000 rpm,,FWD
+479,479,1968 cc,177 bhp @ 3750 rpm,380 Nm @ 1750 rpm,FWD
+480,480,1950 cc,192 bhp @ 3800 rpm,400 Nm @ 1600 rpm,AWD
+481,481,1995 cc,184 bhp @ 4000 rpm,380 Nm @ 1750 rpm,RWD
+482,482,2993 cc,258 bhp @ 4000 rpm,560 Nm @ 1500 rpm,AWD
+483,483,1498 cc,119 bhp @ 6600 rpm,145 Nm @ 4300 rpm,FWD
+484,484,3902 cc,660 bhp @ 8000 rpm,760 Nm @ 3000 rpm,RWD
+485,485,1968 cc,141 bhp @ 4000 rpm,340 Nm @ 1750 rpm,AWD
+486,486,2179 cc,190 bhp @ 3500 rpm,420 Nm @ 1750 rpm,AWD
+487,487,998 cc,59@6200,77@3500,FWD
+488,488,999 cc,124 bhp @ 6000 rpm,,FWD
+489,489,999 cc,124 bhp @ 6000 rpm,,FWD
+490,490,2996 cc,362 bhp @ 5500 rpm,520 Nm @ 2000 rpm,AWD
+491,491,998 cc,58 bhp @ 6200 rpm,77 Nm @ 3500 rpm,FWD
+492,492,624 cc,35@5250,48@3000,RWD
+493,493,999 cc,124 bhp @ 6000 rpm,,FWD
+494,494,1248 cc,74 bhp @ 4000 rpm,190 Nm @ 2000 rpm,FWD
+495,495,1591 cc,122 bhp @ 6400 rpm,151 Nm @ 4850 rpm,FWD
+496,496,1950 cc,192 bhp @ 3800 rpm,400 Nm @ 1600 rpm,RWD
+497,497,1798 cc,138 bhp @ 6400 rpm,173 Nm @ 4000 rpm,FWD
+498,498,1248 cc,89 bhp @ 4000 rpm,200 Nm @ 1750 rpm,FWD
+499,499,1197 cc,83 bhp @ 6000 rpm,115 Nm @ 4000 rpm,FWD
+500,500,2477 cc,176 bhp @ 4000 rpm,400 Nm @ 2000 rpm,AWD
+501,501,1197 cc,85 bhp @ 6000 rpm,114 Nm @ 4000 rpm,FWD
+502,502,1248 cc,74 bhp @ 4000 rpm,190 Nm @ 2000 rpm,FWD
+503,503,1968 cc,174 bhp @ 4200 rpm,380 Nm @ 1750 rpm,AWD
+504,504,1197 cc,103 bhp @ 5000 rpm,175 Nm @ 1500 rpm,FWD
+505,505,3198 cc,197 bhp @ 3000 rpm,470 Nm @ 1750 rpm,AWD
+506,506,1047 cc,69 bhp @ 4000 rpm,140 Nm @ 1800 rpm,FWD
+507,507,1198 cc,67 bhp @ 5000 rpm,104 Nm @ 4000 rpm,FWD
+508,508,1497 cc,114 bhp @ 6300 rpm,144 Nm @ 4500 rpm,FWD
+509,509,1995 cc,184 bhp @ 4000 rpm,380 Nm @ 1750 rpm,RWD
+510,510,999 cc,124 bhp @ 6000 rpm,,FWD
+511,511,5204 cc,602 bhp @ 8250 rpm,560 Nm @ 6500 rpm,AWD
+512,512,2143 cc,134 bhp @ 3600 rpm,300 Nm @ 1600 rpm,FWD
+513,513,2143 cc,134 bhp @ 3600 rpm,300 Nm @ 1600 rpm,FWD
+514,514,1950 cc,192 bhp @ 3800 rpm,400 Nm @ 1600 rpm,RWD
+515,515,1197 cc,82 bhp @ 6000 rpm,115 Nm @ 4200 rpm,FWD
+516,516,998 cc,67 bhp @ 6200 rpm,90 Nm @ 3500 rpm,FWD
+517,517,998 cc,59@6200,77@3500,FWD
+518,518,814 cc,55 bhp @ 5500 rpm,75 Nm @ 4000 rpm,FWD
+519,519,998 cc,67 bhp @ 6000 rpm,90 Nm @ 3500 rpm,FWD
+520,520,796 cc,47@6200,62@3000,FWD
+521,521,1950 cc,241 bhp @ 4200 rpm,500 Nm @ 1600 rpm,AWD
+522,522,1968 cc,174 bhp @ 4200 rpm,380 Nm @ 1750 rpm,AWD
+523,523,1197 cc,80@5200,111@4000,FWD
+524,524,796 cc,47 bhp @ 6000 rpm,69 Nm @ 3500 rpm,FWD
+525,525,1197 cc,82 bhp @ 6000 rpm,115 Nm @ 4000 rpm,FWD
+526,526,2993 cc,262 bhp @ 4000 rpm,620 Nm @ 2000 rpm,RWD
+527,527,1353 cc,138 bhp @ 6000 rpm,242 Nm @ 1500 rpm,FWD
+528,528,2179 cc,153 bhp @ 3750 rpm,360 Nm @ 1750 rpm,FWD
+529,529,2953 cc,154 bhp @ 3200 rpm,380 Nm @ 2500 rpm,AWD
+530,530,1995 cc,182 bhp @ 4000 rpm,400 Nm @ 1750 rpm,FWD
+531,531,1496 cc,80 bhp @ 5600 rpm,132 Nm @ 3000 rpm,FWD
+532,532,1598 cc,103 bhp @ 5250 rpm,153 Nm @ 3800 rpm,FWD
+533,533,1248 cc,75@4000,190@2000,FWD
+534,534,2982 cc,169 bhp @ 3600 rpm,343 Nm @ 1400 rpm,RWD
+535,535,1373 cc,91 bhp @ 6000 rpm,130 Nm @ 4000 rpm,FWD
+536,536,1248 cc,89 bhp @ 4000 rpm,200 Nm @ 1750 rpm,FWD
+537,537,1598 cc,118 bhp @ 3750 rpm,320 Nm @ 1750 rpm,FWD
+538,538,999 cc,75 bhp @ 6200 rpm,95 Nm @ 3000 rpm,FWD
+539,539,1198 cc,87 bhp @ 6000 rpm,109 Nm @ 4500 rpm,FWD
+540,540,1968 cc,188 bhp @ 4200 rpm,400 Nm @ 1750 rpm,FWD
+541,541,1499 cc,109 bhp @ 6300 rpm,140 Nm @ 4400 rpm,FWD
+542,542,1497 cc,117 bhp @ 6600 rpm,145 Nm @ 4600 rpm,FWD
+543,543,2925 cc,326 bhp @ 3600 rpm,700 Nm @ 1200 rpm,AWD
+544,544,1956 cc,168 bhp @ 3750 rpm,350 Nm @ 1750 rpm,FWD
+545,545,1995 cc,190 bhp @ 4000 rpm,400 Nm @ 1750 rpm,RWD
+546,546,1995 cc,184 bhp @ 4000 rpm,350 Nm @ 1750 rpm,RWD
+547,547,1995 cc,184 bhp @ 4000 rpm,350 Nm @ 1750 rpm,RWD
+548,548,1497 cc,116 bhp @ 6600 rpm,146 Nm @ 4800 rpm,FWD
+549,549,1995 cc,188 bhp @ 4000 rpm,400 Nm @ 1750 rpm,RWD
+550,550,2987 cc,258 bhp @ 3600 rpm,619 Nm @ 1600 rpm,AWD
+551,551,1497 cc,108 bhp @ 3750 rpm,260 Nm @ 1500 rpm,FWD
+552,552,1497 cc,117 bhp @ 6600 rpm,145 Nm @ 4600 rpm,FWD
+553,553,2179 cc,122@4000,290@1800,AWD
+554,554,1996 cc,215 bhp @ 4000 rpm,480 Nm @ 1500 rpm,AWD
+555,555,1298 cc,87@6000,113@4500,FWD
+556,556,1968 cc,174 bhp @ 4200 rpm,380 Nm @ 1750 rpm,AWD
+557,557,998 cc,67 bhp @ 6200 rpm,90 Nm @ 3500 rpm,FWD
+558,558,999 cc,67 bhp @ 5500 rpm,91 Nm @ 4250 rpm,FWD
+559,559,1995 cc,190 bhp @ 4000 rpm,400 Nm @ 1750 rpm,AWD
+560,560,1248 cc,89 bhp @ 4000 rpm,200 Nm @ 1750 rpm,FWD
+561,561,796 cc,47@6200,62@3000,FWD
+562,562,1248 cc,74 bhp @ 4000 rpm,190 Nm @ 2000 rpm,FWD
+563,563,998 cc,118 bhp @ 6000 rpm,172 Nm @ 1500 rpm,FWD
+564,564,1197 cc,82 bhp @ 6000 rpm,113 Nm @ 4200 rpm,FWD
+565,565,1197 cc,89 bhp @ 6000 rpm,113 Nm @ 4400 rpm,FWD
+566,566,2179 cc,120@4000,250@1500,FWD
+567,567,1493 cc,84 bhp @ 3750 rpm,230 Nm @ 1500 rpm,RWD
+568,568,2494 cc,100 bhp @ 3600 rpm,200 Nm @ 1400 rpm,RWD
+569,569,1968 cc,174 bhp @ 4200 rpm,380 Nm @ 1750 rpm,AWD
+570,570,2179 cc,138 bhp @ 3750 rpm,330 Nm @ 1600 rpm,FWD
+571,571,1396 cc,89 bhp @ 4000 rpm,220 Nm @ 1500 rpm,FWD
+572,572,999 cc,124 bhp @ 6000 rpm,,FWD
+573,573,1248 cc,74 bhp @ 4000 rpm,190 Nm @ 2000 rpm,FWD
+574,574,1998 cc,248 bhp @ 5200 rpm,350 Nm @ 1450 rpm,RWD
+575,575,998 cc,118 bhp @ 6000 rpm,172 Nm @ 1500 rpm,FWD
+576,576,5461 cc,368 bhp @ 6300 rpm,505 Nm @ 4400 rpm,RWD
+577,577,1798 cc,177 bhp @ 5100 rpm,250 Nm @ 1250 rpm,FWD
+578,578,1991 cc,194 bhp @ 5800 rpm,300 Nm @ 1600 rpm,RWD
+579,579,1197 cc,103 bhp @ 5000 rpm,175 Nm @ 1500 rpm,FWD
+580,580,1248 cc,89 bhp @ 4000 rpm,200 Nm @ 1750 rpm,FWD
+581,581,1086 cc,68 bhp @ 5500 rpm,99 Nm @ 4500 rpm,FWD
+582,582,1950 cc,192 bhp @ 3800 rpm,400 Nm @ 1600 rpm,RWD
+583,583,2993 cc,244 bhp @ 4000 rpm,600 Nm @ 2000 rpm,AWD
+584,584,1496 cc,114 bhp @ 4000 rpm,270 Nm @ 1750 rpm,FWD
+585,585,3198 cc,197 bhp @ 3000 rpm,470 Nm @ 1750 rpm,AWD
+586,586,1461 cc,108 bhp @ 3900 rpm,248 Nm @ 2250 rpm,FWD
+587,587,1248 cc,89 bhp @ 4000 rpm,200 Nm @ 1750 rpm,FWD
+588,588,1598 cc,105 bhp @ 4400 rpm,250 Nm @ 2500 rpm,FWD
+589,589,1498 cc,89 bhp @ 3750 rpm,204 Nm @ 2000 rpm,FWD
+590,590,1497 cc,113 bhp @ 6300 rpm,144 Nm @ 4500 rpm,FWD
+591,591,1196 cc,73 bhp @ 6000 rpm,101 Nm @ 3000 rpm,RWD
+592,592,1248 cc,89 bhp @ 4000 rpm,200 Nm @ 1750 rpm,FWD
+593,593,1498 cc,99 bhp @ 3750 rpm,205 Nm @ 1750 rpm,FWD
+594,594,1199 cc,89 bhp @ 6000 rpm,110 Nm @ 4800 rpm,FWD
+595,595,1248 cc,89 bhp @ 4000 rpm,200 Nm @ 1750 rpm,FWD
+596,596,1991 cc,194 bhp @ 5800 rpm,300 Nm @ 1600 rpm,RWD
+597,597,1396 cc,89 bhp @ 4000 rpm,220 Nm @ 1500 rpm,FWD
+598,598,998 cc,67 bhp @ 6200 rpm,90 Nm @ 3500 rpm,FWD
+599,599,1197 cc,83 bhp @ 6000 rpm,115 Nm @ 4000 rpm,FWD
+600,600,1461 cc,108 bhp @ 4000 rpm,240 Nm @ 1850 rpm,FWD
+601,601,1968 cc,188 bhp @ 4200 rpm,400 Nm @ 1750 rpm,FWD
+602,602,1197 cc,85 bhp @ 6000 rpm,114 Nm @ 4000 rpm,FWD
+603,603,1197 cc,83 bhp @ 6000 rpm,115 Nm @ 4000 rpm,FWD
+604,604,1197 cc,81 bhp @ 6000 rpm,114 Nm @ 4000 rpm,FWD
+605,605,999 cc,124 bhp @ 6000 rpm,,FWD
+606,606,1968 cc,141 bhp @ 3500 rpm,320 Nm @ 1750 rpm,FWD
+607,607,1248 cc,74 bhp @ 4000 rpm,190 Nm @ 2000 rpm,FWD
+608,608,1197 cc,82 bhp @ 6000 rpm,114 Nm @ 4000 rpm,FWD
+609,609,2755 cc,174 bhp @ 3400 rpm,420 Nm @ 1600 rpm,RWD
+610,610,1395 cc,148 bhp @ 5000 rpm,250 Nm @ 1500 rpm,FWD
+611,611,1199 cc,89 bhp @ 6000 rpm,110 Nm @ 4800 rpm,FWD
+612,612,1991 cc,194 bhp @ 5500 rpm,320 Nm @ 1650 rpm,RWD
+613,613,999 cc,124 bhp @ 6000 rpm,,FWD
+614,614,2143 cc,201 bhp @ 3800 rpm,500 Nm @ 1600 rpm,AWD
+615,615,2987 cc,258 bhp @ 3600 rpm,619 Nm @ 1600 rpm,AWD
+616,616,998 cc,67 bhp @ 6000 rpm,90 Nm @ 3500 rpm,FWD
+617,617,2184 cc,130 bhp @ 3750 rpm,300 Nm @ 1600 rpm,AWD
+618,618,2755 cc,174 bhp @ 3400 rpm,450 Nm @ 1600 rpm,RWD
+619,619,814 cc,56@5500,75@4000,FWD
+620,620,1197 cc,83 bhp @ 6000 rpm,115 Nm @ 4000 rpm,FWD
+621,621,1493 cc,114 bhp @ 4000 rpm,250 Nm @ 1500 rpm,FWD
+622,622,998 cc,58 bhp @ 5500 rpm,78 Nm @ 3500 rpm,FWD
+623,623,1248 cc,89 bhp @ 4000 rpm,200 Nm @ 1750 rpm,FWD
+624,624,2184 cc,182 bhp @ 3500 rpm,450 Nm @ 1750 rpm,FWD
+625,625,998 cc,58 bhp @ 5500 rpm,78 Nm @ 3500 rpm,FWD
+626,626,1197 cc,81 bhp @ 6000 rpm,114 Nm @ 4000 rpm,FWD
+627,627,1197 cc,87 bhp @ 6000 rpm,115 Nm @ 1500 rpm,FWD
+628,628,1497 cc,118@6600,146@4600,FWD
+629,629,2982 cc,171 @3600,343 @1400,FWD
+630,630,1582 cc,128 bhp @ 4000 rpm,260 Nm @ 1900 rpm,FWD
+631,631,1995 cc,190 bhp @ 4000 rpm,400 Nm @ 1750 rpm,RWD
+632,632,1197 cc,82 bhp @ 6000 rpm,115 Nm @ 4000 rpm,FWD
+633,633,998 cc,67 bhp @ 6000 rpm,90 Nm @ 3500 rpm,FWD
+634,634,999 cc,124 bhp @ 6000 rpm,,FWD
+635,635,1462 cc,103 bhp @ 6000 rpm,138 Nm @ 4400 rpm,FWD
+636,636,1995 cc,188 bhp @ 4000 rpm,400 Nm @ 1750 rpm,FWD
+637,637,2987 cc,258 bhp @ 3600 rpm,619 Nm @ 1600 rpm,AWD
+638,638,1353 cc,138 bhp @ 6000 rpm,242 Nm @ 1500 rpm,FWD
+639,639,998 cc,67 bhp @ 6000 rpm,90 Nm @ 3500 rpm,FWD
+640,640,999 cc,124 bhp @ 6000 rpm,,FWD
+641,641,1197 cc,83 bhp @ 6000 rpm,115 Nm @ 4000 rpm,FWD
+642,642,1798 cc,138 bhp @ 6400 rpm,173 Nm @ 4000 rpm,FWD
+643,643,999 cc,124 bhp @ 6000 rpm,,FWD
+644,644,2995 cc,335 bhp @ 5200 rpm,500 Nm @ 1370 rpm,AWD
+645,645,998 cc,67 bhp @ 6200 rpm,90 Nm @ 3500 rpm,FWD
+646,646,2179 cc,138 bhp @ 3750 rpm,330 Nm @ 1600 rpm,FWD
+647,647,1248 cc,89 bhp @ 4000 rpm,200 Nm @ 1750 rpm,FWD
+648,648,1197 cc,85 bhp @ 6000 rpm,114 Nm @ 4000 rpm,FWD
+649,649,999 cc,124 bhp @ 6000 rpm,,FWD
+650,650,998 cc,67 bhp @ 6200 rpm,90 Nm @ 3500 rpm,FWD
+651,651,1998 cc,189 bhp @ 5000 rpm,280 Nm @ 1350 rpm,FWD
+652,652,1797 cc,147 bhp @ 6500 rpm,177 Nm @ 4700 rpm,FWD
+653,653,1498 cc,99 bhp @ 3600 rpm,200 Nm @ 1750 rpm,FWD
+654,654,1373 cc,91 bhp @ 6000 rpm,130 Nm @ 4000 rpm,FWD
+655,655,1198 cc,76 bhp @ 6000 rpm,104 Nm @ 4400 rpm,FWD
+656,656,1248 cc,74 bhp @ 4000 rpm,190 Nm @ 2000 rpm,FWD
+657,657,1396 cc,89 bhp @ 4000 rpm,220 Nm @ 1500 rpm,FWD
+658,658,1984 cc,188 bhp @ 4200 rpm,320 Nm @ 1500 rpm,AWD
+659,659,2393 cc,148 bhp @ 3400 rpm,343 Nm @ 1400 rpm,RWD
+660,660,2143 cc,134 bhp @ 3600 rpm,300 Nm @ 1600 rpm,FWD
+661,661,1197 cc,83 bhp @ 6000 rpm,115 Nm @ 4000 rpm,FWD
+662,662,1582 cc,126 bhp @ 4000 rpm,260 Nm @ 1500 rpm,FWD
+663,663,998 cc,68 bhp @ 6200 rpm,94 Nm @ 3500 rpm,FWD
+664,664,1497 cc,116 bhp @ 6600 rpm,146 Nm @ 4800 rpm,FWD
+665,665,2143 cc,134 bhp @ 3600 rpm,300 Nm @ 1400 rpm,FWD
+666,666,1248 cc,74 bhp @ 4000 rpm,190 Nm @ 2000 rpm,FWD
+667,667,1396 cc,89 bhp @ 4000 rpm,220 Nm @ 1500 rpm,FWD
+668,668,2987 cc,255 bhp @ 3600 rpm,620 Nm @ 1600 rpm,RWD
+669,669,1968 cc,190 bhp @ 3800 rpm,400 Nm @ 1750 rpm,FWD
+670,670,1582 cc,126 bhp @ 4000 rpm,260 Nm @ 1500 rpm,FWD
+671,671,1999 cc,157 bhp @ 6500 rpm,191 Nm @ 4500 rpm,FWD
+672,672,1199 cc,89 bhp @ 6000 rpm,110 Nm @ 4800 rpm,FWD
+673,673,1373 cc,94 bhp @ 6000 rpm,130 Nm @ 4000 rpm,FWD
+674,674,1199 cc,89 bhp @ 6000 rpm,110 Nm @ 4800 rpm,FWD
+675,675,1995 cc,188 bhp @ 4000 rpm,400 Nm @ 1750 rpm,RWD
+676,676,1991 cc,184 bhp @ 5500 rpm,300 Nm @ 1200 rpm,RWD
+677,677,1497 cc,117 bhp @ 6600 rpm,145 Nm @ 4600 rpm,FWD
+678,678,2179 cc,188 bhp @ 3500 rpm,420 Nm @ 1750 rpm,AWD
+679,679,1199 cc,89 bhp @ 6000 rpm,110 Nm @ 4800 rpm,FWD
+680,680,1968 cc,174 bhp @ 4200 rpm,380 Nm @ 1750 rpm,AWD
+681,681,1497 cc,115 bhp @ 3750 rpm,300 Nm @ 1500 rpm,FWD
+682,682,1999 cc,177 bhp @ 4000 rpm,430 Nm @ 1750 rpm,RWD
+683,683,1991 cc,201 bhp @ 5800 rpm,300 Nm @ 1200 rpm,RWD
+684,684,1956 cc,168 bhp @ 3750 rpm,350 Nm @ 1750 rpm,AWD
+685,685,1451 cc,141 bhp @ 5000 rpm,250 Nm @ 1600 rpm,FWD
+686,686,2982 cc,169 bhp @ 3600 rpm,343 Nm @ 1400 rpm,AWD
+687,687,1364 cc,67 bhp @ 3800 rpm,170 Nm @ 1800 rpm,FWD
+688,688,2179 cc,138 bhp @ 3750 rpm,330 Nm @ 1600 rpm,FWD
+689,689,1197 cc,80@5200,111@4000,FWD
+690,690,2179 cc,138 bhp @ 3750 rpm,330 Nm @ 1600 rpm,FWD
+691,691,2179 cc,120 bhp @ 4000 rpm,290 Nm @ 1800 rpm,RWD
+692,692,2993 cc,289 bhp @ 4000 rpm,600 Nm @ 2000 rpm,AWD
+693,693,1497 cc,117 bhp @ 6600 rpm,145 Nm @ 4600 rpm,FWD
+694,694,1798 cc,170 bhp @ 3800 rpm,320 Nm @ 1400 rpm,FWD
+695,695,1198 cc,87 bhp @ 6000 rpm,109 Nm @ 4500 rpm,FWD
+696,696,1998 cc,164 bhp @ 3800 rpm,380 Nm @ 2000 rpm,FWD
+697,697,1582 cc,126 bhp @ 4000 rpm,260 Nm @ 1500 rpm,FWD
+698,698,1248 cc,89 bhp @ 4000 rpm,200 Nm @ 1750 rpm,FWD
+699,699,2143 cc,134 bhp @ 3600 rpm,300 Nm @ 1600 rpm,FWD
+700,700,1991 cc,142@4000,323@2000,FWD
+701,701,1197 cc,82 bhp @ 6000 rpm,113 Nm @ 4200 rpm,FWD
+702,702,2755 cc,172 bhp @ 3400 rpm,360 Nm @ 1200 rpm,RWD
+703,703,1498 cc,79 bhp @ 3600 rpm,160 Nm @ 1750 rpm,FWD
+704,704,2694 cc,164 bhp @ 5200 rpm,245 Nm @ 4000 rpm,RWD
+705,705,1199 cc,89 bhp @ 6000 rpm,110 Nm @ 4800 rpm,FWD
+706,706,1196 cc,87 bhp @ 6300 rpm,112 Nm @ 4000 rpm,FWD
+707,707,1248 cc,75@4000,190@2000,FWD
+708,708,1498 cc,94 bhp @ 4000 rpm,225 Nm @ 1500 rpm,FWD
+709,709,998 cc,67 bhp @ 6000 rpm,90 Nm @ 3500 rpm,FWD
+710,710,1462 cc,103 bhp @ 6000 rpm,138 Nm @ 4400 rpm,FWD
+711,711,1396 cc,89 bhp @ 4000 rpm,224 Nm @ 1500 rpm,FWD
+712,712,1968 cc,141 bhp @ 3500 rpm,320 Nm @ 1750 rpm,FWD
+713,713,2179 cc,138 bhp @ 3750 rpm,330 Nm @ 1600 rpm,AWD
+714,714,1086 cc,68 bhp @ 5500 rpm,99.081 Nm @ 4500 rpm,FWD
+715,715,1591 cc,121 bhp @ 6300 rpm,158 Nm @ 4200 rpm,FWD
+716,716,1493 cc,70 bhp @ 3600 rpm,195 Nm @ 1400 rpm,RWD
+717,717,1396 cc,89 bhp @ 4000 rpm,220 Nm @ 1500 rpm,FWD
+718,718,1968 cc,177 bhp @ 4200 rpm,380 Nm @ 1750 rpm,FWD
+719,719,1968 cc,141 bhp @ 3500 rpm,320 Nm @ 1750 rpm,FWD
+720,720,1598 cc,105 bhp @ 4400 rpm,250 Nm @ 2500 rpm,FWD
+721,721,1197 cc,81 bhp @ 6000 rpm,114 Nm @ 4000 rpm,FWD
+722,722,1798 cc,178 bhp @ 5100 rpm,250 Nm @ 150 rpm,FWD
+723,723,999 cc,124 bhp @ 6000 rpm,,FWD
+724,724,2143 cc,168 bhp @ 3000 rpm,400 Nm @ 1400 rpm,RWD
+725,725,2179 cc,120 bhp @ 4000 rpm,280 Nm @ 1800 rpm,RWD
+726,726,2982 cc,169 bhp @ 3600 rpm,360 Nm @ 1400 rpm,RWD
+727,727,2987 cc,255 bhp @ 3400 rpm,620 Nm @ 1600 rpm,RWD
+728,728,999 cc,124 bhp @ 6000 rpm,,FWD
+729,729,1968 cc,177 bhp @ 3750 rpm,380 Nm @ 1750 rpm,FWD
+730,730,999 cc,124 bhp @ 6000 rpm,,FWD
+731,731,2835 cc,118 bhp @ 4000 rpm,292 Nm @ 2000 rpm,AWD
+732,732,1496 cc,90 bhp @ 5600 rpm,132 Nm @ 3000 rpm,FWD
+733,733,1497 cc,121 bhp @ 3500 rpm,300 Nm @ 1750 rpm,FWD
+734,734,2967 cc,245 bhp @ 4000 rpm,500 Nm @ 1400 rpm,AWD
+735,735,1968 cc,141 bhp @ 3500 rpm,320 Nm @ 1750 rpm,FWD
+736,736,2494 cc,100 bhp @ 3600 rpm,200 Nm @ 1400 rpm,RWD
+737,737,1461 cc,84 bhp @ 3750 rpm,200 Nm @ 1900 rpm,FWD
+738,738,1197 cc,79 bhp @ 6000 rpm,112 Nm @ 4000 rpm,FWD
+739,739,2755 cc,174 bhp @ 3400 rpm,450 Nm @ 1600 rpm,AWD
+740,740,1198 cc,67 bhp @ 5000 rpm,104 Nm @ 4000 rpm,FWD
+741,741,1991 cc,150@4000,327@2600,FWD
+742,742,1353 cc,138 bhp @ 6000 rpm,242 Nm @ 1500 rpm,FWD
+743,743,2993 cc,262 bhp @ 4000 rpm,620 Nm @ 1500 rpm,AWD
+744,744,1950 cc,192 bhp @ 3800 rpm,400 Nm @ 1600 rpm,RWD
+745,745,1984 cc,150 bhp @ 3500 rpm,350 Nm @ 1500 rpm,FWD
+746,746,1086 cc,68 bhp @ 5500 rpm,99 Nm @ 4500 rpm,FWD
+747,747,1497 cc,117 bhp @ 6600 rpm,145 Nm @ 4600 rpm,FWD
+748,748,1998 cc,189 bhp @,280 Nm @ 1250 rpm,FWD
+749,749,1493 cc,100 bhp @ 3750 rpm,240 Nm @ 1600 rpm,RWD
+750,750,999 cc,67 bhp @ 5500 rpm,91 Nm @ 4250 rpm,FWD
+751,751,1950 cc,241 bhp @ 4200 rpm,500 Nm @ 1600 rpm,AWD
+752,752,1582 cc,126 bhp @ 4000 rpm,265 Nm @ 1900 rpm,FWD
+753,753,1197 cc,89 bhp @ 6000 rpm,113 Nm @ 4400 rpm,FWD
+754,754,1995 cc,184 bhp @ 4000 rpm,350 Nm @ 1750 rpm,RWD
+755,755,2184 cc,130 bhp @ 3750 rpm,300 Nm @ 1600 rpm,AWD
+756,756,1199 cc,84 bhp @ 6000 rpm,114 Nm @ 3500 rpm,FWD
+757,757,2148 cc,170@3700,410@2000,RWD
+758,758,1996 cc,215 bhp @ 4000 rpm,480 Nm @ 1500 rpm,AWD
+759,759,1396 cc,89 bhp @ 4000 rpm,220 Nm @ 1500 rpm,FWD
+760,760,1995 cc,184 bhp @ 4000 rpm,350 Nm @ 1750 rpm,RWD
+761,761,2143 cc,231 bhp @ 3000 rpm,400 Nm @ 2800 rpm,RWD
+762,762,999 cc,67 bhp @ 5500 rpm,91 Nm @ 4250 rpm,FWD
+763,763,1248 cc,89 bhp @ 4000 rpm,200 Nm @ 1750 rpm,FWD
+764,764,1248 cc,74 bhp @ 4000 rpm,190 Nm @ 2000 rpm,FWD
+765,765,1968 cc,177 bhp @ 3750 rpm,380 Nm @ 1750 rpm,FWD
+766,766,1497 cc,117 bhp @ 6600 rpm,145 Nm @ 4600 rpm,FWD
+767,767,1086 cc,68 bhp @ 5500 rpm,99 Nm @ 4500 rpm,FWD
+768,768,2179 cc,140 bhp @ 3750 rpm,320 Nm @ 1500 rpm,RWD
+769,769,1197 cc,81 bhp @ 6000 rpm,114 Nm @ 4000 rpm,FWD
+770,770,1498 cc,99 bhp @ 3600 rpm,200 Nm @ 1750 rpm,FWD
+771,771,1197 cc,83 bhp @ 6000 rpm,115 Nm @ 4000 rpm,FWD
+772,772,1995 cc,188 bhp @ 4000 rpm,400 Nm @ 1750 rpm,RWD
+773,773,2987 cc,231@3800,540@1600,RWD
+774,774,1968 cc,174 bhp @ 4200 rpm,380 Nm @ 1750 rpm,AWD
+775,775,2993 cc,258 bhp @ 4000 rpm,560 Nm @ 1500 rpm,AWD
+776,776,2143 cc,204 bhp @ 4200 rpm,500 Nm @ 1600 rpm,RWD
+777,777,2967 cc,245 bhp @ 2910 rpm,600 Nm @ 1500 rpm,AWD
+778,778,1461 cc,85 bhp @ 3750 rpm,200 Nm @ 2000 rpm,FWD
+779,779,1497 cc,121 bhp @ 6500 rpm,150 Nm @ 4500 rpm,FWD
+780,780,1995 cc,188 bhp @ 4000 rpm,400 Nm @ 1750 rpm,RWD
+781,781,2184 cc,130 bhp @ 3750 rpm,300 Nm @ 1600 rpm,AWD
+782,782,1197 cc,83 bhp @ 6000 rpm,115 Nm @ 4000 rpm,FWD
+783,783,1395 cc,148 bhp @ 5000 rpm,250 Nm @ 1500 rpm,FWD
+784,784,1373 cc,94 bhp @ 6000 rpm,130 Nm @ 4000 rpm,FWD
+785,785,1591 cc,122 bhp @ 6400 rpm,151 Nm @ 4850 rpm,FWD
+786,786,1988 cc,295 bhp @ 6500 rpm,380 Nm @ 2150 rpm,RWD
+787,787,1995 cc,188 bhp @ 4000 rpm,400 Nm @ 1750 rpm,RWD
+788,788,1493 cc,113 bhp @ 4000 rpm,250 Nm @ 1500 rpm,FWD
+789,789,2179 cc,140 bhp @ 3750 rpm,330 Nm @ 2800 rpm,FWD
+790,790,1950 cc,192 bhp @ 3800 rpm,400 Nm @ 1600 rpm,AWD
+791,791,1197 cc,82 bhp @ 6000 rpm,113 Nm @ 4200 rpm,FWD
+792,792,998 cc,67 bhp @ 6200 rpm,90 Nm @ 3500 rpm,FWD
+793,793,1198 cc,87 bhp @ 6000 rpm,109 Nm @ 4500 rpm,FWD
+794,794,2993 cc,289 bhp @ 4000 rpm,600 Nm @ 2000 rpm,AWD
+795,795,1950 cc,241 bhp @ 4200 rpm,500 Nm @ 1600 rpm,AWD
+796,796,1197 cc,82 bhp @ 6000 rpm,113 Nm @ 4200 rpm,FWD
+797,797,1582 cc,126 bhp @ 4000 rpm,265 Nm @ 1900 rpm,FWD
+798,798,1999 cc,177 bhp @ 4000 rpm,430 Nm @ 1750 rpm,AWD
+799,799,1197 cc,82 bhp @ 6000 rpm,115 Nm @ 4000 rpm,FWD
+800,800,1956 cc,168 bhp @ 3750 rpm,350 Nm @ 1750 rpm,FWD
+801,801,1798 cc,177 bhp @ 4500 rpm,250 Nm @ 1250 rpm,FWD
+802,802,1968 cc,190 bhp @ 3800 rpm,400 Nm @ 1750 rpm,FWD
+803,803,1582 cc,126 bhp @ 4000 rpm,265 Nm @ 1900 rpm,FWD
+804,804,2498 cc,105 bhp @ 3800 rpm,247 Nm @ 1800 rpm,AWD
+805,805,1968 cc,174 bhp @ 4200 rpm,380 Nm @ 1750 rpm,AWD
+806,806,1248 cc,89 bhp @ 4000 rpm,200 Nm @ 1750 rpm,FWD
+807,807,1373 cc,91 bhp @ 6000 rpm,130 Nm @ 4000 rpm,FWD
+808,808,2143 cc,134 bhp @ 3600 rpm,300 Nm @ 1600 rpm,FWD
+809,809,1196 cc,73 bhp @ 6000 rpm,101 Nm @ 3000 rpm,RWD
+810,810,999 cc,124 bhp @ 6000 rpm,,FWD
+811,811,2995 cc,335 bhp @ 6500 rpm,450 Nm @ 3500 rpm,RWD
+812,812,1950 cc,192 bhp @ 3800 rpm,400 Nm @ 1600 rpm,RWD
+813,813,1198 cc,74 bhp @ 5400 rpm,110 Nm @ 3750 rpm,FWD
+814,814,2993 cc,262 bhp @ 4000 rpm,620 Nm @ 2000 rpm,RWD
+815,815,999 cc,124 bhp @ 6000 rpm,,FWD
+816,816,999 cc,67 bhp @ 5500 rpm,91 Nm @ 4250 rpm,FWD
+817,817,1995 cc,182 bhp @ 4000 rpm,400 Nm @ 1750 rpm,FWD
+818,818,1336 cc,89 bhp @ 4000 rpm,219.744 Nm @ 1500 rpm,FWD
+819,819,1461 cc,85 bhp @ 3750 rpm,200 Nm @ 2000 rpm,FWD
+820,820,2179 cc,190 bhp @ 3500 rpm,420 Nm @ 1750 rpm,AWD
+821,821,1373 cc,82 bhp @ 6000 rpm,110 Nm @ 4000 rpm,FWD
+822,822,814 cc,55 bhp @ 5500 rpm,75 Nm @ 4000 rpm,FWD
+823,823,1197 cc,81 bhp @ 6000 rpm,114 Nm @ 4000 rpm,FWD
+824,824,1798 cc,138 bhp @ 6400 rpm,173 Nm @ 4000 rpm,FWD
+825,825,999 cc,124 bhp @ 6000 rpm,,FWD
+826,826,1197 cc,83 bhp @ 6000 rpm,115 Nm @ 4000 rpm,FWD
+827,827,1373 cc,91 bhp @ 6000 rpm,130 Nm @ 4000 rpm,FWD
+828,828,1798 cc,177 bhp @ 5100 rpm,250 Nm @ 1250 rpm,FWD
+829,829,1997 cc,245 bhp @ 5500 rpm,365 Nm @ 1500 rpm,AWD
+830,830,1497 cc,117 bhp @ 6600 rpm,145 Nm @ 4600 rpm,FWD
+831,831,1950 cc,192 bhp @ 3800 rpm,400 Nm @ 1600 rpm,RWD
+832,832,799 cc,53 bhp @ 5678 rpm,72 Nm @ 4386 rpm,FWD
+833,833,1248 cc,89 bhp @ 4000 rpm,200 Nm @ 1750 rpm,FWD
+834,834,1984 cc,150 bhp @ 3500 rpm,350 Nm @ 1500 rpm,FWD
+835,835,1197 cc,83 bhp @ 6000 rpm,115 Nm @ 4000 rpm,FWD
+836,836,1998 cc,189 bhp @,280 Nm @ 1250 rpm,FWD
+837,837,1364 cc,68 bhp @ 3600 rpm,170 Nm @ 2400 rpm,FWD
+838,838,999 cc,124 bhp @ 6000 rpm,,FWD
+839,839,2143 cc,201 bhp @ 3800 rpm,500 Nm @ 1600 rpm,AWD
+840,840,1950 cc,147 bhp @ 3400 rpm,320 Nm @ 1400 rpm,FWD
+841,841,2987 cc,255 bhp @ 3400 rpm,620 Nm @ 1600 rpm,AWD
+842,842,1591 cc,122 bhp @ 6400 rpm,151 Nm @ 4850 rpm,FWD
+843,843,1497 cc,117 bhp @ 6600 rpm,145 Nm @ 4600 rpm,FWD
+844,844,1197 cc,83 bhp @ 6000 rpm,115 Nm @ 4000 rpm,FWD
+845,845,1396 cc,89 bhp @ 4000 rpm,220 Nm @ 1500 rpm,FWD
+846,846,1199 cc,89 bhp @ 6000 rpm,110 Nm @ 4800 rpm,FWD
+847,847,3498 cc,272@6000,350@2400,RWD
+848,848,1197 cc,82 bhp @ 6000 rpm,114 Nm @ 4000 rpm,FWD
+849,849,1061 cc,64@6200,84@3500,FWD
+850,850,1197 cc,82 bhp @ 6000 rpm,115 Nm @ 4000 rpm,FWD
+851,851,2179 cc,120 bhp @ 4000 rpm,290 Nm @ 1800 rpm,RWD
+852,852,2967 cc,245 bhp @ 2910 rpm,600 Nm @ 1500 rpm,AWD
+853,853,2755 cc,172 bhp @ 3400 rpm,360 Nm @ 1200 rpm,RWD
+854,854,2696 cc,184 bhp @ 4000 rpm,402 Nm @ 3000 rpm,AWD
+855,855,2993 cc,218@4000,480@1750,AWD
+856,856,1198 cc,87 bhp @ 6000 rpm,109 Nm @ 4500 rpm,FWD
+857,857,1995 cc,188 bhp @ 4000 rpm,400 Nm @ 1750 rpm,RWD
+858,858,2967 cc,245 bhp @ 2910 rpm,600 Nm @ 1500 rpm,AWD
+859,859,1582 cc,126 bhp @ 4000 rpm,259 Nm @ 1900 rpm,FWD
+860,860,2999 cc,174 bhp @ 3600 rpm,380 Nm @ 1800 rpm,RWD
+861,861,1196 cc,73 bhp @ 6000 rpm,101 Nm @ 3000 rpm,RWD
+862,862,1984 cc,188 bhp @ 4200 rpm,320 Nm @ 1450 rpm,FWD
+863,863,1798 cc,138 bhp @ 6400 rpm,173 Nm @ 4000 rpm,FWD
+864,864,1197 cc,81 bhp @ 6000 rpm,114 Nm @ 4000 rpm,FWD
+865,865,1199 cc,84 bhp @ 6000 rpm,114 Nm @ 3500 rpm,FWD
+866,866,1950 cc,192 bhp @ 3800 rpm,400 Nm @ 1600 rpm,RWD
+867,867,1950 cc,192 bhp @ 3800 rpm,400 Nm @ 1600 rpm,RWD
+868,868,1598 cc,103 bhp @ 5250 rpm,153 Nm @ 3800 rpm,FWD
+869,869,1995 cc,217 bhp @ 4400 rpm,450 Nm @ 1500 rpm,RWD
+870,870,1950 cc,192 bhp @ 3800 rpm,400 Nm @ 1600 rpm,RWD
+871,871,2967 cc,241 bhp @ 3800 rpm,550 Nm @ 1750 rpm,AWD
+872,872,1995 cc,188 bhp @ 4000 rpm,400 Nm @ 1750 rpm,RWD
+873,873,2993 cc,258 bhp @ 4000 rpm,560 Nm @ 1500 rpm,AWD
+874,874,1461 cc,84 bhp @ 3750 rpm,200 Nm @ 1900 rpm,FWD
+875,875,3498 cc,272@6000,350@2400,RWD
+876,876,2993 cc,265 bhp @ 4000 rpm,620 Nm @ 2000 rpm,RWD
+877,877,2982 cc,171@3600,343@1400,AWD
+878,878,998 cc,58 bhp @ 6200 rpm,77 Nm @ 3500 rpm,FWD
+879,879,1199 cc,89 bhp @ 6000 rpm,110 Nm @ 4800 rpm,FWD
+880,880,999 cc,124 bhp @ 6000 rpm,,FWD
+881,881,1956 cc,171 bhp @ 3750 rpm,350 Nm @ 1750 rpm,FWD
+882,882,1196 cc,73 bhp @ 6000 rpm,101 Nm @ 3000 rpm,RWD
+883,883,1197 cc,82 bhp @ 6000 rpm,115 Nm @ 4000 rpm,FWD
+884,884,1248 cc,74 bhp @ 4000 rpm,190 Nm @ 2000 rpm,FWD
+885,885,999 cc,124 bhp @ 6000 rpm,,FWD
+886,886,1197 cc,85 bhp @ 6000 rpm,114 Nm @ 4000 rpm,FWD
+887,887,999 cc,75 bhp @ 6200 rpm,95 Nm @ 3000 rpm,FWD
+888,888,998 cc,67 bhp @ 6000 rpm,90 Nm @ 3500 rpm,FWD
+889,889,1364 cc,87 bhp @ 3800 rpm,205 Nm @ 1800 rpm,FWD
+890,890,1248 cc,89 bhp @ 4000 rpm,200 Nm @ 1750 rpm,FWD
+891,891,998 cc,46 bhp @ 6200 rpm,85 Nm @ 3500 rpm,FWD
+892,892,2523 cc,75 bhp @ 3200 rpm,200 Nm @ 1400 rpm,RWD
+893,893,1497 cc,118@6600,146@4600,FWD
+894,894,1368 cc,160 bhp @ 5500 rpm,250 Nm @ 2500 rpm,FWD
+895,895,1197 cc,79 bhp @ 6000 rpm,112.7619 Nm @ 4000 rpm,FWD
+896,896,999 cc,124 bhp @ 6000 rpm,,FWD
+897,897,2967 cc,241 bhp @ 3800 rpm,550 Nm @ 1750 rpm,AWD
+898,898,1373 cc,91 bhp @ 6000 rpm,130 Nm @ 4000 rpm,FWD
+899,899,999 cc,124 bhp @ 6000 rpm,,FWD
+900,900,1794 cc,132@6000,170@4200,FWD
+901,901,1995 cc,177@4000,350@1750,RWD
+902,902,1984 cc,241 bhp @ 5000 rpm,370 Nm @ 1600 rpm,FWD
+903,903,1969 cc,235 bhp @ 4250 rpm,480 Nm @ 1750 rpm,AWD
+904,904,1248 cc,89 bhp @ 4000 rpm,200 Nm @ 1750 rpm,FWD
+905,905,999 cc,124 bhp @ 6000 rpm,,FWD
+906,906,1997 cc,120 bhp @ 4000 rpm,280 Nm @ 1800 rpm,RWD
+907,907,998 cc,67 bhp @ 6200 rpm,90 Nm @ 3500 rpm,FWD
+908,908,1198 cc,87 bhp @ 6000 rpm,109 Nm @ 4500 rpm,FWD
+909,909,2755 cc,174 bhp @ 3400 rpm,450 Nm @ 1600 rpm,AWD
+910,910,999 cc,124 bhp @ 6000 rpm,,FWD
+911,911,1968 cc,141 bhp @ 3500 rpm,320 Nm @ 1750 rpm,FWD
+912,912,1197 cc,81 bhp @ 6000 rpm,114 Nm @ 4000 rpm,FWD
+913,913,1996 cc,168 bhp @ 3500 rpm,420 Nm @ 2000 rpm,RWD
+914,914,2143 cc,168 bhp @ 3000 rpm,400 Nm @ 1400 rpm,AWD
+915,915,1186 cc,74 bhp @ 4000 rpm,190 Nm @ 1750 rpm,FWD
+916,916,799 cc,53 bhp @ 5678 rpm,72 Nm @ 4386 rpm,FWD
+917,917,2696 cc,162 bhp @ 4000 rpm,340 Nm @ 3250 rpm,AWD
+918,918,1497 cc,117 bhp @ 6600 rpm,145 Nm @ 4600 rpm,FWD
+919,919,1995 cc,190 bhp @ 4000 rpm,400 Nm @ 1750 rpm,AWD
+920,920,2982 cc,169 bhp @ 3600 rpm,360 Nm @ 1400 rpm,RWD
+921,921,999 cc,67 bhp @ 5500 rpm,91 Nm @ 4250 rpm,FWD
+922,922,1086 cc,68 bhp @ 5500 rpm,99.08 Nm @ 4500 rpm,FWD
+923,923,1396 cc,100@5500,137@4200,FWD
+924,924,799 cc,53 bhp @ 5678 rpm,72 Nm @ 4386 rpm,FWD
+925,925,1497 cc,117 bhp @ 6600 rpm,145 Nm @ 4600 rpm,FWD
+926,926,1197 cc,82 bhp @ 6000 rpm,113 Nm @ 4200 rpm,FWD
+927,927,1582 cc,126 bhp @ 4000 rpm,265 Nm @ 1900 rpm,FWD
+928,928,2393 cc,148 bhp @ 3400 rpm,343 Nm @ 1400 rpm,RWD
+929,929,1995 cc,188 bhp @ 4000 rpm,400 Nm @ 1750 rpm,RWD
+930,930,1197 cc,82 bhp @ 6000 rpm,113 Nm @ 4200 rpm,FWD
+931,931,1582 cc,126 bhp @ 4000 rpm,260 Nm @ 1900 rpm,FWD
+932,932,1199 cc,74 bhp @ 4200 rpm,180 Nm @ 2000 rpm,FWD
+933,933,1984 cc,150 bhp @ 3500 rpm,350 Nm @ 1500 rpm,FWD
+934,934,999 cc,71 bhp @ 6250 rpm,96 Nm @ 3500 rpm,FWD
+935,935,998 cc,67 bhp @ 6000 rpm,90 Nm @ 3500 rpm,FWD
+936,936,1493 cc,113 bhp @ 4000 rpm,250 Nm @ 1500 rpm,FWD
+937,937,1086 cc,68 bhp @ 5500 rpm,99 Nm @ 4500 rpm,FWD
+938,938,999 cc,124 bhp @ 6000 rpm,,FWD
+939,939,2993 cc,289 bhp @ 4000 rpm,600 Nm @ 2000 rpm,AWD
+940,940,2393 cc,148 bhp @ 3400 rpm,343 Nm @ 1400 rpm,RWD
+941,941,1995 cc,188 bhp @ 4000 rpm,400 Nm @ 1750 rpm,RWD
+942,942,1197 cc,82 bhp @ 6000 rpm,113 Nm @ 4200 rpm,FWD
+943,943,2179 cc,138 bhp @ 4000 rpm,320 Nm @ 1700 rpm,RWD
+944,944,1991 cc,184 bhp @ 5500 rpm,300 Nm @ 1200 rpm,RWD
+945,945,1995 cc,188 bhp @ 4000 rpm,400 Nm @ 1750 rpm,RWD
+946,946,1197 cc,85 bhp @ 6000 rpm,114 Nm @ 4000 rpm,FWD
+947,947,1248 cc,75 bhp @ 4000 rpm,197 Nm @ 1750 rpm,FWD
+948,948,1968 cc,150 bhp @ 3500 rpm,340 Nm @ 1750 rpm,FWD
+949,949,1199 cc,89 bhp @ 6000 rpm,110 Nm @ 4800 rpm,FWD
+950,950,1950 cc,241 bhp @ 4200 rpm,500 Nm @ 1600 rpm,RWD
+951,951,1968 cc,141 bhp @ 3500 rpm,320 Nm @ 1750 rpm,FWD
+952,952,1991 cc,181 bhp @ 5500 rpm,300 Nm @ 1200 rpm,FWD
+953,953,1497 cc,117 bhp @ 6600 rpm,145 Nm @ 4600 rpm,FWD
+954,954,1197 cc,81 bhp @ 6000 rpm,114 Nm @ 4000 rpm,FWD
+955,955,1248 cc,89 bhp @ 4000 rpm,200 Nm @ 1750 rpm,FWD
+956,956,1968 cc,190 bhp @ 3800 rpm,400 Nm @ 1750 rpm,FWD
+957,957,1196 cc,73 bhp @ 6000 rpm,101 Nm @ 3000 rpm,RWD
+958,958,2184 cc,182 bhp @ 3500 rpm,450 Nm @ 1750 rpm,AWD
+959,959,2967 cc,241 bhp @ 4000 rpm,500 Nm @ 1400 rpm,AWD
+960,960,1497 cc,116 bhp @ 6600 rpm,146 Nm @ 4800 rpm,FWD
+961,961,2967 cc,241 bhp @ 3800 rpm,550 Nm @ 1750 rpm,AWD
+962,962,1197 cc,81 bhp @ 6000 rpm,114 Nm @ 4000 rpm,FWD
+963,963,2179 cc,148 bhp @ 4000 rpm,400 Nm @ 1750 rpm,AWD
+964,964,2755 cc,174 bhp @ 3400 rpm,450 Nm @ 1600 rpm,RWD
+965,965,1248 cc,74 bhp @ 4000 rpm,190 Nm @ 2000 rpm,FWD
+966,966,1582 cc,126 bhp @ 4000 rpm,265 Nm @ 1900 rpm,FWD
+967,967,1248 cc,89 bhp @ 4000 rpm,200 Nm @ 1750 rpm,FWD
+968,968,1086 cc,68 bhp @ 5500 rpm,99 Nm @ 4500 rpm,FWD
+969,969,998 cc,118 bhp @ 6000 rpm,172 Nm @ 1500 rpm,FWD
+970,970,1498 cc,119 bhp @ 6600 rpm,145 Nm @ 4300 rpm,FWD
+971,971,1493 cc,113 bhp @ 4000 rpm,250 Nm @ 1500 rpm,FWD
+972,972,1591 cc,121 bhp @ 6300 rpm,158 Nm @ 4200 rpm,FWD
+973,973,999 cc,124 bhp @ 6000 rpm,,FWD
+974,974,1248 cc,74 bhp @ 4000 rpm,190 Nm @ 2000 rpm,FWD
+975,975,1598 cc,103 bhp @ 4400 rpm,250 Nm @ 1500 rpm,FWD
+976,976,1497 cc,118 bhp @ 6600 rpm,145 Nm @ 4600 rpm,FWD
+977,977,2755 cc,172 bhp @ 3400 rpm,360 Nm @ 1200 rpm,RWD
+978,978,6592 cc,570 bhp @ 5250 rpm,780 Nm @ 1500 rpm,RWD
+979,979,1968 cc,174 bhp @ 4200 rpm,380 Nm @ 1750 rpm,AWD
+980,980,1798 cc,177 bhp @ 5100 rpm,250 Nm @ 1250 rpm,FWD
+981,981,1968 cc,184 bhp @ 3500 rpm,380 Nm @ 1750 rpm,AWD
+982,982,1498 cc,89 bhp @ 4200 rpm,230 Nm @ 1500 rpm,FWD
+983,983,1497 cc,117 bhp @ 6600 rpm,145 Nm @ 4600 rpm,FWD
+984,984,1582 cc,126 bhp @ 4000 rpm,260 Nm @ 1500 rpm,FWD
+985,985,1197 cc,82 bhp @ 6000 rpm,115 Nm @ 4000 rpm,FWD
+986,986,1497 cc,115 bhp @ 3750 rpm,300 Nm @ 1500 rpm,FWD
+987,987,814 cc,55 bhp @ 5500 rpm,75 Nm @ 4000 rpm,FWD
+988,988,1198 cc,108 bhp @ 5000 rpm,170 Nm @ 1750 rpm,FWD
+989,989,1582 cc,126 bhp @ 4000 rpm,260 Nm @ 1900 rpm,FWD
+990,990,1197 cc,85 bhp @ 6000 rpm,114 Nm @ 4000 rpm,FWD
+991,991,1999 cc,177 bhp @ 4000 rpm,430 Nm @ 1750 rpm,AWD
+992,992,999 cc,124 bhp @ 6000 rpm,,FWD
+993,993,1497 cc,117 bhp @ 6600 rpm,145 Nm @ 4600 rpm,FWD
+994,994,1498 cc,99 bhp @ 3750 rpm,215 Nm @ 1750 rpm,FWD
+995,995,1197 cc,82 bhp @ 6000 rpm,113 Nm @ 4200 rpm,FWD
+996,996,1991 cc,181 bhp @ 5500 rpm,300 Nm @ 1200 rpm,RWD
+997,997,1493 cc,113 bhp @ 4000 rpm,250 Nm @ 1500 rpm,FWD
+998,998,1497 cc,117 bhp @ 6600 rpm,145 Nm @ 4600 rpm,FWD
+999,999,2199 cc,194 bhp @ 3800 rpm,437 Nm @ 1800 rpm,AWD
+1000,1000,2755 cc,172 bhp @ 3400 rpm,360 Nm @ 1200 rpm,RWD
+1001,1001,1197 cc,82 bhp @ 6000 rpm,113 Nm @ 4200 rpm,FWD
+1002,1002,1197 cc,82 bhp @ 6000 rpm,113 Nm @ 4200 rpm,FWD
+1003,1003,2199 cc,194 bhp @ 3800 rpm,437 Nm @ 1800 rpm,AWD
+1004,1004,2393 cc,148 bhp @ 3400 rpm,343 Nm @ 1400 rpm,RWD
+1005,1005,1968 cc,177 bhp @ 3750 rpm,380 Nm @ 1750 rpm,FWD
+1006,1006,1197 cc,85 bhp @ 6000 rpm,114 Nm @ 4000 rpm,FWD
+1007,1007,2494 cc,194 bhp @ 5700 rpm,210 Nm @ 4200 rpm,AWD
+1008,1008,2393 cc,148 bhp @ 3400 rpm,360 Nm @ 1400 rpm,RWD
+1009,1009,1991 cc,194 bhp @ 5500 rpm,320 Nm @ 1650 rpm,RWD
+1010,1010,1248 cc,89 bhp @ 4000 rpm,200 Nm @ 1750 rpm,FWD
+1011,1011,1086 cc,62 bhp @ 5500 rpm,96 Nm @ 3000 rpm,FWD
+1012,1012,1197 cc,82 bhp @ 6000 rpm,115 Nm @ 4000 rpm,FWD
+1013,1013,1497 cc,118@6600,146@4600,FWD
+1014,1014,1461 cc,108 bhp @ 3900 rpm,248 Nm @ 2250 rpm,FWD
+1015,1015,999 cc,114 bhp @ 5000 rpm,178 Nm @ 1750 rpm,FWD
+1016,1016,998 cc,67 bhp @ 6200 rpm,90 Nm @ 3500 rpm,FWD
+1017,1017,1396 cc,89 bhp @ 4000 rpm,220 Nm @ 1500 rpm,FWD
+1018,1018,1451 cc,141 bhp @ 5000 rpm,250 Nm @ 1600 rpm,FWD
+1019,1019,799 cc,53 bhp @ 5678 rpm,72 Nm @ 4386 rpm,FWD
+1020,1020,1995 cc,184 bhp @ 4000 rpm,380 Nm @ 1750 rpm,RWD
+1021,1021,2993 cc,245 bhp @ 4000 rpm,600 Nm @ 2000 rpm,AWD
+1022,1022,2184 cc,130 bhp @ 3750 rpm,300 Nm @ 1600 rpm,AWD
+1023,1023,1497 cc,116 bhp @ 6600 rpm,146 Nm @ 4800 rpm,FWD
+1024,1024,1197 cc,82 bhp @ 6000 rpm,115 Nm @ 4000 rpm,FWD
+1025,1025,2982 cc,169 bhp @ 3600 rpm,343 Nm @ 1400 rpm,AWD
+1026,1026,2199 cc,195 bhp @ 4000 rpm,436 Nm @ 1800 rpm,AWD
+1027,1027,2523 cc,75 bhp @ 3200 rpm,200 Nm @ 1400 rpm,RWD
+1028,1028,1991 cc,181 bhp @ 5500 rpm,300 Nm @ 1200 rpm,RWD
+1029,1029,1968 cc,174 bhp @ 4200 rpm,380 Nm @ 1750 rpm,AWD
+1030,1030,1591 cc,121 bhp @ 6300 rpm,158 Nm @ 4200 rpm,FWD
+1031,1031,999 cc,67 bhp @ 5500 rpm,91 Nm @ 4250 rpm,FWD
+1032,1032,1956 cc,168 bhp @ 3750 rpm,350 Nm @ 1750 rpm,FWD
+1033,1033,2498 cc,105@3800,247@1800,AWD
+1034,1034,999 cc,124 bhp @ 6000 rpm,,FWD
+1035,1035,1395 cc,148 bhp @ 5000 rpm,250 Nm @ 1500 rpm,FWD
+1036,1036,4951 cc,396 bhp @ 6500 rpm,515 Nm @ 4250 rpm,RWD
+1037,1037,1999 cc,177 bhp @ 4000 rpm,430 Nm @ 1750 rpm,AWD
+1038,1038,1248 cc,75@4000,190@2000,FWD
+1039,1039,796 cc,39 bhp @ 6200 rpm,54 Nm @ 3000 rpm,FWD
+1040,1040,1197 cc,82 bhp @ 6000 rpm,113 Nm @ 4200 rpm,FWD
+1041,1041,1598 cc,104 bhp @ 5200 rpm,153 Nm @ 3750 rpm,FWD
+1042,1042,1798 cc,158 bhp @ 4500 rpm,250 Nm @ 1500 rpm,FWD
+1043,1043,1496 cc,114 bhp @ 4000 rpm,270 Nm @ 1750 rpm,FWD
+1044,1044,2755 cc,174 bhp @ 3400 rpm,450 Nm @ 1600 rpm,RWD
+1045,1045,2489 cc,95@3600,220@1400,FWD
+1046,1046,1248 cc,89 bhp @ 4000 rpm,200 Nm @ 1750 rpm,FWD
+1047,1047,999 cc,124 bhp @ 6000 rpm,,FWD
+1048,1048,1984 cc,165 bhp @ 3500 rpm,400 Nm @ 2750 rpm,FWD
+1049,1049,1248 cc,89 bhp @ 4000 rpm,200 Nm @ 1750 rpm,FWD
+1050,1050,2995 cc,349 bhp @ 5400 rpm,480 Nm @ 1360 rpm,AWD
+1051,1051,2755 cc,174 bhp @ 3400 rpm,450 Nm @ 1600 rpm,RWD
+1052,1052,998 cc,67 bhp @ 6200 rpm,90 Nm @ 3500 rpm,FWD
+1053,1053,1984 cc,248 bhp @ 5000 rpm,370 Nm @ 1600 rpm,AWD
+1054,1054,1197 cc,83 bhp @ 6000 rpm,115 Nm @ 4000 rpm,FWD
+1055,1055,1196 cc,73 bhp @ 6000 rpm,101 Nm @ 3000 rpm,RWD
+1056,1056,1197 cc,83 bhp @ 6000 rpm,115 Nm @ 4000 rpm,FWD
+1057,1057,998 cc,67 bhp @ 6200 rpm,90 Nm @ 3500 rpm,FWD
+1058,1058,1373 cc,94 bhp @ 6000 rpm,130 Nm @ 4000 rpm,FWD
+1059,1059,998 cc,58 bhp @ 6200 rpm,77 Nm @ 3500 rpm,FWD
+1060,1060,1197 cc,82 bhp @ 6000 rpm,113 Nm @ 4200 rpm,FWD
+1061,1061,1197 cc,79 bhp @ 6000 rpm,112.7619 Nm @ 4000 rpm,FWD
+1062,1062,999 cc,124 bhp @ 6000 rpm,,FWD
+1063,1063,1248 cc,74 bhp @ 4000 rpm,190 Nm @ 2000 rpm,FWD
+1064,1064,999 cc,124 bhp @ 6000 rpm,,FWD
+1065,1065,1248 cc,89 bhp @ 4000 rpm,200 Nm @ 1750 rpm,FWD
+1066,1066,998 cc,67 bhp @ 5500 rpm,90 Nm @ 3500 rpm,FWD
+1067,1067,796 cc,47 bhp @ 6000 rpm,69 Nm @ 3500 rpm,FWD
+1068,1068,1598 cc,105 bhp @ 4400 rpm,250 Nm @ 2500 rpm,FWD
+1069,1069,2982 cc,169 bhp @ 3600 rpm,360 Nm @ 1400 rpm,RWD
+1070,1070,1968 cc,141 bhp @ 3500 rpm,320 Nm @ 1750 rpm,FWD
+1071,1071,1368 cc,160 bhp @ 5500 rpm,250 Nm @ 2500 rpm,FWD
+1072,1072,2143 cc,203 bhp @ 4200 rpm,500 Nm @ 1600 rpm,AWD
+1073,1073,1197 cc,82 bhp @ 6000 rpm,115 Nm @ 4000 rpm,FWD
+1074,1074,1197 cc,83 bhp @ 6000 rpm,115 Nm @ 4000 rpm,FWD
+1075,1075,999 cc,124 bhp @ 6000 rpm,,FWD
+1076,1076,999 cc,124 bhp @ 6000 rpm,,FWD
+1077,1077,1197 cc,83 bhp @ 6000 rpm,115 Nm @ 4000 rpm,FWD
+1078,1078,999 cc,124 bhp @ 6000 rpm,,FWD
+1079,1079,1197 cc,80@5200,112@4000,FWD
+1080,1080,1197 cc,83 bhp @ 6000 rpm,113.796 Nm @ 4000 rpm,FWD
+1081,1081,1995 cc,184 bhp @ 4000 rpm,380 Nm @ 1750 rpm,RWD
+1082,1082,2143 cc,201 bhp @ 3800 rpm,500 Nm @ 1600 rpm,AWD
+1083,1083,1968 cc,174 bhp @ 4200 rpm,380 Nm @ 1750 rpm,AWD
+1084,1084,1353 cc,138 bhp @ 6000 rpm,242 Nm @ 1500 rpm,FWD
+1085,1085,1999 cc,150 bhp @ 6200 rpm,192 Nm @ 4000 rpm,FWD
+1086,1086,998 cc,68@6200,90@3500,FWD
+1087,1087,1495 cc,94 bhp @ 5500 rpm,125 Nm @ 3500 rpm,FWD
+1088,1088,999 cc,124 bhp @ 6000 rpm,,FWD
+1089,1089,1582 cc,126 bhp @ 4000 rpm,260 Nm @ 1500 rpm,FWD
+1090,1090,1197 cc,79 bhp @ 6000 rpm,112.7619 Nm @ 4000 rpm,FWD
+1091,1091,998 cc,67 bhp @ 5500 rpm,90 Nm @ 3500 rpm,FWD
+1092,1092,2393 cc,148 bhp @ 3400 rpm,343 Nm @ 1400 rpm,RWD
+1093,1093,2487 cc,176 bhp @ 5700 rpm,221 Nm @ 3600 rpm,FWD
+1094,1094,1197 cc,83 bhp @ 6000 rpm,115 Nm @ 4000 rpm,FWD
+1095,1095,1197 cc,82 bhp @ 6000 rpm,115 Nm @ 4000 rpm,FWD
+1096,1096,999 cc,124 bhp @ 6000 rpm,,FWD
+1097,1097,1968 cc,184 bhp @ 3500 rpm,380 Nm @ 1750 rpm,AWD
+1098,1098,2179 cc,120 bhp @ 4000 rpm,280 Nm @ 1800 rpm,RWD
+1099,1099,1373 cc,91 bhp @ 6000 rpm,130 Nm @ 4000 rpm,FWD
+1100,1100,1461 cc,84 bhp @ 3750 rpm,200 Nm @ 1900 rpm,FWD
+1101,1101,998 cc,67 bhp @ 5500 rpm,90 Nm @ 3500 rpm,FWD
+1102,1102,1998 cc,189 bhp @ 4400 rpm,280 Nm @ 1350 rpm,FWD
+1103,1103,1497 cc,116 bhp @ 6600 rpm,146 Nm @ 4800 rpm,FWD
+1104,1104,2982 cc,169 bhp @ 3600 rpm,343 Nm @ 1400 rpm,RWD
+1105,1105,2694 cc,164 bhp @ 5200 rpm,245 Nm @ 4000 rpm,RWD
+1106,1106,998 cc,68 bhp @ 6200 rpm,94 Nm @ 3500 rpm,FWD
+1107,1107,999 cc,124 bhp @ 6000 rpm,,FWD
+1108,1108,1498 cc,99 bhp @ 3600 rpm,200 Nm @ 1750 rpm,FWD
+1109,1109,1197 cc,82 bhp @ 6000 rpm,113 Nm @ 4200 rpm,FWD
+1110,1110,1997 cc,120 bhp @ 4000 rpm,280 Nm @ 1800 rpm,RWD
+1111,1111,1197 cc,81 bhp @ 6000 rpm,114 Nm @ 4000 rpm,FWD
+1112,1112,1196 cc,73 bhp @ 6000 rpm,101 Nm @ 3000 rpm,RWD
+1113,1113,1950 cc,192 bhp @ 3800 rpm,400 Nm @ 1600 rpm,RWD
+1114,1114,1197 cc,82 bhp @ 6000 rpm,115 Nm @ 4000 rpm,FWD
+1115,1115,1995 cc,190 bhp @ 4000 rpm,400 Nm @ 1750 rpm,RWD
+1116,1116,1968 cc,177 bhp @ 4200 rpm,380 Nm @ 1750 rpm,FWD
+1117,1117,1497 cc,117 bhp @ 6600 rpm,145 Nm @ 4600 rpm,FWD
+1118,1118,1197 cc,82 bhp @ 6000 rpm,113 Nm @ 4200 rpm,FWD
+1119,1119,1197 cc,85 bhp @ 6000 rpm,114 Nm @ 4000 rpm,FWD
+1120,1120,1196 cc,72 bhp @ 6000 rpm,98 Nm @ 3000 rpm,RWD
+1121,1121,814 cc,55 bhp @ 5500 rpm,75 Nm @ 4000 rpm,FWD
+1122,1122,1197 cc,81 bhp @ 6000 rpm,114 Nm @ 4000 rpm,FWD
+1123,1123,1984 cc,188 bhp @ 4200 rpm,320 Nm @ 1450 rpm,FWD
+1124,1124,1248 cc,74 bhp @ 4000 rpm,190 Nm @ 2000 rpm,FWD
+1125,1125,1499 cc,109 bhp @ 6300 rpm,140 Nm @ 4400 rpm,FWD
+1126,1126,1461 cc,108 bhp @ 3900 rpm,248 Nm @ 2250 rpm,FWD
+1127,1127,2993 cc,258 bhp @ 4000 rpm,560 Nm @ 1500 rpm,AWD
+1128,1128,1999 cc,177 bhp @ 4000 rpm,430 Nm @ 1750 rpm,RWD
+1129,1129,2987 cc,255 bhp @ 3400 rpm,620 Nm @ 1600 rpm,AWD
+1130,1130,1198 cc,74 bhp @ 5400 rpm,110 Nm @ 3750 rpm,FWD
+1131,1131,998 cc,67 bhp @ 6000 rpm,90 Nm @ 3500 rpm,FWD
+1132,1132,1496 cc,106 bhp @ 6000 rpm,140 Nm @ 4200 rpm,FWD
+1133,1133,1199 cc,89 bhp @ 6000 rpm,110 Nm @ 4800 rpm,FWD
+1134,1134,1995 cc,184 bhp @ 4000 rpm,350 Nm @ 1750 rpm,RWD
+1135,1135,2179 cc,140 bhp @ 3750 rpm,320 Nm @ 1500 rpm,RWD
+1136,1136,1198 cc,87 bhp @ 6000 rpm,109 Nm @ 4500 rpm,FWD
+1137,1137,1462 cc,103 bhp @ 6000 rpm,138 Nm @ 4400 rpm,FWD
+1138,1138,1998 cc,248 bhp @ 5200 rpm,350 Nm @ 1450 rpm,RWD
+1139,1139,1197 cc,81 bhp @ 6000 rpm,114 Nm @ 4000 rpm,FWD
+1140,1140,1995 cc,188 bhp @ 4000 rpm,400 Nm @ 1750 rpm,FWD
+1141,1141,1248 cc,89 bhp @ 4000 rpm,200 Nm @ 1750 rpm,FWD
+1142,1142,1598 cc,103 bhp @ 4400 rpm,250 Nm @ 1500 rpm,FWD
+1143,1143,1199 cc,84 bhp @ 6000 rpm,114 Nm @ 3500 rpm,FWD
+1144,1144,1999 cc,177 bhp @ 4000 rpm,430 Nm @ 1750 rpm,AWD
+1145,1145,2179 cc,120 bhp @ 4000 rpm,290 Nm @ 1800 rpm,RWD
+1146,1146,2143 cc,168 bhp @ 3000 rpm,400 Nm @ 1400 rpm,AWD
+1147,1147,2993 cc,258 bhp @ 4000 rpm,560 Nm @ 1500 rpm,RWD
+1148,1148,1197 cc,103 bhp @ 5000 rpm,175 Nm @ 1500 rpm,FWD
+1149,1149,2987 cc,234@3800,535@1600,AWD
+1150,1150,1999 cc,237 bhp @ 4000 rpm,430 Nm @ 1400 rpm,AWD
+1151,1151,1399 cc,68@4000,160@2000,FWD
+1152,1152,1496 cc,114 bhp @ 4000 rpm,270 Nm @ 1750 rpm,FWD
+1153,1153,1794 cc,132@6000,170@4200,FWD
+1154,1154,1591 cc,121 bhp @ 6300 rpm,158 Nm @ 4200 rpm,FWD
+1155,1155,2494 cc,115 bhp @ 4700 rpm,198 Nm @ 2800 rpm,AWD
+1156,1156,998 cc,67 bhp @ 6000 rpm,90 Nm @ 3500 rpm,FWD
+1157,1157,1797 cc,147 bhp @ 6500 rpm,177 Nm @ 4700 rpm,FWD
+1158,1158,1497 cc,117 bhp @ 6600 rpm,145 Nm @ 4600 rpm,FWD
+1159,1159,1461 cc,84 bhp @ 3750 rpm,200 Nm @ 1900 rpm,FWD
+1160,1160,998 cc,67 bhp @ 6000 rpm,90 Nm @ 3500 rpm,FWD
+1161,1161,1497 cc,113 bhp @ 6300 rpm,144 Nm @ 4500 rpm,FWD
+1162,1162,2993 cc,271 bhp @ 4000 rpm,600 Nm @ 2000 rpm,RWD
+1163,1163,1582 cc,126 bhp @ 4000 rpm,260 Nm @ 1900 rpm,FWD
+1164,1164,1591 cc,121 bhp @ 6300 rpm,158 Nm @ 4200 rpm,FWD
+1165,1165,2995 cc,335 bhp @ 5000 rpm,500 Nm @ 1370 rpm,AWD
+1166,1166,1197 cc,89 bhp @ 6000 rpm,113 Nm @ 4400 rpm,FWD
+1167,1167,2993 cc,260 bhp @ 4000 rpm,620 Nm @ 2000 rpm,AWD
+1168,1168,1197 cc,79 bhp @ 6000 rpm,112.7619 Nm @ 4000 rpm,FWD
+1169,1169,1497 cc,117 bhp @ 6600 rpm,145 Nm @ 4600 rpm,FWD
+1170,1170,1248 cc,74 bhp @ 4000 rpm,190 Nm @ 2000 rpm,FWD
+1171,1171,1956 cc,168 bhp @ 3750 rpm,350 Nm @ 1750 rpm,FWD
+1172,1172,1368 cc,161 bhp @ 5500 rpm,250 Nm @ 2500 rpm,FWD
+1173,1173,1582 cc,126 bhp @ 4000 rpm,260 Nm @ 1900 rpm,FWD
+1174,1174,999 cc,124 bhp @ 6000 rpm,,FWD
+1175,1175,1598 cc,104 bhp @ 5200 rpm,153 Nm @ 3750 rpm,FWD
+1176,1176,1582 cc,126 bhp @ 4000 rpm,260 Nm @ 1900 rpm,FWD
+1177,1177,1591 cc,122 bhp @ 6400 rpm,154 Nm @ 4850 rpm,FWD
+1178,1178,1995 cc,217 bhp @ 4400 rpm,450 Nm @ 1500 rpm,RWD
+1179,1179,2998 cc,335 bhp @ 5500 rpm,450 Nm @ 1500 rpm,AWD
+1180,1180,1462 cc,103 bhp @ 6000 rpm,138 Nm @ 4400 rpm,FWD
+1181,1181,1199 cc,84 bhp @ 6000 rpm,113 Nm @ 3300 rpm,FWD
+1182,1182,1582 cc,126 bhp @ 4000 rpm,260 Nm @ 1900 rpm,FWD
+1183,1183,1968 cc,190 bhp @ 3800 rpm,400 Nm @ 1750 rpm,FWD
+1184,1184,1591 cc,122 bhp @ 6400 rpm,151 Nm @ 4850 rpm,FWD
+1185,1185,1197 cc,83 bhp @ 6000 rpm,113.796 Nm @ 4000 rpm,FWD
+1186,1186,1498 cc,99 bhp @ 3600 rpm,200 Nm @ 1750 rpm,FWD
+1187,1187,1968 cc,141 bhp @ 3500 rpm,320 Nm @ 1750 rpm,FWD
+1188,1188,1197 cc,83 bhp @ 6000 rpm,115 Nm @ 4000 rpm,FWD
+1189,1189,1462 cc,103 bhp @ 6000 rpm,138 Nm @ 4400 rpm,FWD
+1190,1190,2179 cc,153 bhp @ 3750 rpm,360 Nm @ 1750 rpm,FWD
+1191,1191,1197 cc,82 bhp @ 6000 rpm,115 Nm @ 4000 rpm,FWD
+1192,1192,2498 cc,105@3800,247@1800,AWD
+1193,1193,1197 cc,87 bhp @ 6000 rpm,115 Nm @ 1500 rpm,FWD
+1194,1194,1493 cc,113 bhp @ 4000 rpm,250 Nm @ 1500 rpm,FWD
+1195,1195,1968 cc,141 bhp @ 4200 rpm,320 Nm @ 1750 rpm,FWD
+1196,1196,1995 cc,184 bhp @ 4000 rpm,380 Nm @ 1750 rpm,AWD
+1197,1197,1995 cc,188 bhp @ 4000 rpm,400 Nm @ 1750 rpm,RWD
+1198,1198,1396 cc,89 bhp @ 4000 rpm,224 Nm @ 1500 rpm,FWD
+1199,1199,2967 cc,245 bhp @ 2910 rpm,600 Nm @ 1500 rpm,AWD
+1200,1200,1493 cc,99 bhp @ 4000 rpm,240 Nm @ 1500 rpm,FWD
+1201,1201,2179 cc,138 bhp @ 3750 rpm,330 Nm @ 1600 rpm,FWD
+1202,1202,1198 cc,67 bhp @ 5000 rpm,104 Nm @ 4000 rpm,FWD
+1203,1203,998 cc,118 bhp @ 6000 rpm,172 Nm @ 1500 rpm,FWD
+1204,1204,1197 cc,87 bhp @ 6000 rpm,115 Nm @ 1500 rpm,FWD
+1205,1205,1199 cc,89 bhp @ 6000 rpm,110 Nm @ 4800 rpm,FWD
+1206,1206,1396 cc,90@4000,220@1750,FWD
+1207,1207,1248 cc,74 bhp @ 4000 rpm,190 Nm @ 2000 rpm,FWD
+1208,1208,1968 cc,174 bhp @ 4200 rpm,380 Nm @ 1750 rpm,AWD
+1209,1209,999 cc,114 bhp @ 5000 rpm,178 Nm @ 1750 rpm,FWD
+1210,1210,1591 cc,121 bhp @ 6300 rpm,158 Nm @ 4200 rpm,FWD
+1211,1211,2477 cc,176 bhp @ 4000 rpm,350 Nm @ 1800 rpm,RWD
+1212,1212,1396 cc,89 bhp @ 4000 rpm,220 Nm @ 1500 rpm,FWD
+1213,1213,1956 cc,169 bhp @ 3750 rpm,350 Nm @ 1750 rpm,FWD
+1214,1214,1493 cc,113 bhp @ 4000 rpm,250 Nm @ 1500 rpm,FWD
+1215,1215,1197 cc,83 bhp @ 6000 rpm,115 Nm @ 4000 rpm,FWD
+1216,1216,1496 cc,106 bhp @ 6000 rpm,140 Nm @ 4200 rpm,FWD
+1217,1217,1798 cc,177 bhp @ 5100 rpm,250 Nm @ 1250 rpm,FWD
+1218,1218,1197 cc,82 bhp @ 6000 rpm,113 Nm @ 4200 rpm,FWD
+1219,1219,1591 cc,122 bhp @ 6400 rpm,154 Nm @ 4850 rpm,FWD
+1220,1220,1995 cc,184 bhp @ 4000 rpm,380 Nm @ 1750 rpm,RWD
+1221,1221,2198 cc,158 bhp @ 3200 rpm,385 Nm @ 1600 rpm,RWD
+1222,1222,1995 cc,188 bhp @ 4000 rpm,400 Nm @ 1750 rpm,RWD
+1223,1223,1248 cc,89 bhp @ 4000 rpm,200 Nm @ 1750 rpm,FWD
+1224,1224,1497 cc,117 bhp @ 6600 rpm,145 Nm @ 4600 rpm,FWD
+1225,1225,998 cc,58 bhp @ 6200 rpm,77 Nm @ 3500 rpm,FWD
+1226,1226,1197 cc,79 bhp @ 6000 rpm,112.7619 Nm @ 4000 rpm,FWD
+1227,1227,1499 cc,109 bhp @ 6300 rpm,140 Nm @ 4400 rpm,FWD
+1228,1228,1968 cc,190 bhp @ 3800 rpm,400 Nm @ 1750 rpm,FWD
+1229,1229,1461 cc,108 bhp @ 3900 rpm,248 Nm @ 2250 rpm,FWD
+1230,1230,1248 cc,89 bhp @ 4000 rpm,200 Nm @ 1750 rpm,FWD
+1231,1231,1197 cc,83 bhp @ 6000 rpm,115 Nm @ 4000 rpm,FWD
+1232,1232,2993 cc,271 bhp @ 4000 rpm,600 Nm @ 2000 rpm,RWD
+1233,1233,1582 cc,126 bhp @ 4000 rpm,265 Nm @ 1900 rpm,FWD
+1234,1234,1248 cc,89 bhp @ 4000 rpm,200 Nm @ 1750 rpm,FWD
+1235,1235,1248 cc,74 bhp @ 4000 rpm,190 Nm @ 2000 rpm,FWD
+1236,1236,1996 cc,168 bhp @ 3500 rpm,420 Nm @ 2000 rpm,AWD
+1237,1237,1995 cc,188 bhp @ 4000 rpm,400 Nm @ 1750 rpm,RWD
+1238,1238,999 cc,114 bhp @ 5000 rpm,178 Nm @ 1750 rpm,FWD
+1239,1239,1493 cc,113 bhp @ 4000 rpm,250 Nm @ 1500 rpm,FWD
+1240,1240,1968 cc,141 bhp @ 4000 rpm,340 Nm @ 1750 rpm,AWD
+1241,1241,1798 cc,177 bhp @ 5100 rpm,250 Nm @ 1250 rpm,FWD
+1242,1242,1968 cc,174 bhp @ 3600 rpm,350 Nm @ 1500 rpm,FWD
+1243,1243,1197 cc,83 bhp @ 6000 rpm,115 Nm @ 4000 rpm,FWD
+1244,1244,1498 cc,99 bhp @ 3600 rpm,200 Nm @ 1750 rpm,FWD
+1245,1245,796 cc,47 bhp @ 6000 rpm,69 Nm @ 3500 rpm,FWD
+1246,1246,998 cc,67 bhp @ 6200 rpm,90 Nm @ 3500 rpm,FWD
+1247,1247,6592 cc,570 bhp @ 5250 rpm,780 Nm @ 1500 rpm,RWD
+1248,1248,2143 cc,170 bhp @ 4200 rpm,400 Nm @ 2800 rpm,RWD
+1249,1249,2199 cc,194 bhp @ 3800 rpm,437 Nm @ 1800 rpm,AWD
+1250,1250,1086 cc,58 bhp @ 5500 rpm,84 Nm @ 4500 rpm,FWD
+1251,1251,2148 cc,170@3700,410@2000,RWD
+1252,1252,1197 cc,83 bhp @ 6000 rpm,115 Nm @ 4000 rpm,FWD
+1253,1253,998 cc,67 bhp @ 6000 rpm,90 Nm @ 3500 rpm,FWD
+1254,1254,998 cc,58 bhp @ 5500 rpm,78 Nm @ 3500 rpm,FWD
+1255,1255,1995 cc,184 bhp @ 4000 rpm,380 Nm @ 1750 rpm,RWD
+1256,1256,1197 cc,79 bhp @ 6000 rpm,112.7619 Nm @ 4000 rpm,FWD
+1257,1257,1197 cc,89 bhp @ 6000 rpm,113 Nm @ 4400 rpm,FWD
+1258,1258,799 cc,53 bhp @ 5678 rpm,72 Nm @ 4386 rpm,FWD
+1259,1259,1598 cc,118 bhp @ 3750 rpm,320 Nm @ 1750 rpm,FWD
+1260,1260,1197 cc,83 bhp @ 6000 rpm,115 Nm @ 4000 rpm,FWD
+1261,1261,1368 cc,160 bhp @ 5500 rpm,250 Nm @ 2500 rpm,FWD
+1262,1262,1999 cc,177 bhp @ 4000 rpm,430 Nm @ 1750 rpm,AWD
+1263,1263,1582 cc,126 bhp @ 4000 rpm,265 Nm @ 1900 rpm,FWD
+1264,1264,1794 cc,132@6000,170@4200,FWD
+1265,1265,1373 cc,91 bhp @ 6000 rpm,130 Nm @ 4000 rpm,FWD
+1266,1266,1353 cc,138 bhp @ 6000 rpm,242 Nm @ 1500 rpm,FWD
+1267,1267,998 cc,67 bhp @ 6000 rpm,90 Nm @ 3500 rpm,FWD
+1268,1268,1248 cc,75@4000,190@2000,FWD
+1269,1269,1061 cc,67@6200,84@3500,FWD
+1270,1270,2143 cc,134 bhp @ 3600 rpm,300 Nm @ 1600 rpm,FWD
+1271,1271,1248 cc,89 bhp @ 4000 rpm,200 Nm @ 1750 rpm,FWD
+1272,1272,1498 cc,99 bhp @ 3600 rpm,200 Nm @ 1750 rpm,FWD
+1273,1273,1498 cc,99 bhp @ 3600 rpm,200 Nm @ 1750 rpm,FWD
+1274,1274,1248 cc,74 bhp @ 4000 rpm,190 Nm @ 2000 rpm,FWD
+1275,1275,1998 cc,189 bhp @ 5000 rpm,280 Nm @ 1350 rpm,FWD
+1276,1276,1988 cc,295 bhp @ 6500 rpm,380 Nm @ 2150 rpm,RWD
+1277,1277,1298 cc,87@6000,113@4500,FWD
+1278,1278,998 cc,67 bhp @ 6000 rpm,90 Nm @ 3500 rpm,FWD
+1279,1279,999 cc,124 bhp @ 6000 rpm,,FWD
+1280,1280,1399 cc,69@4000,160@2000,FWD
+1281,1281,1582 cc,126 bhp @ 4000 rpm,265 Nm @ 1900 rpm,FWD
+1282,1282,1497 cc,117 bhp @ 6600 rpm,145 Nm @ 4600 rpm,FWD
+1283,1283,1950 cc,192 bhp @ 3800 rpm,400 Nm @ 1600 rpm,RWD
+1284,1284,2993 cc,258 bhp @ 4000 rpm,560 Nm @ 1500 rpm,AWD
+1285,1285,1199 cc,89 bhp @ 6000 rpm,110 Nm @ 4800 rpm,FWD
+1286,1286,1995 cc,184 bhp @ 4000 rpm,350 Nm @ 1750 rpm,RWD
+1287,1287,796 cc,47 bhp @ 6000 rpm,69 Nm @ 3500 rpm,FWD
+1288,1288,1197 cc,83 bhp @ 6000 rpm,115 Nm @ 4000 rpm,FWD
+1289,1289,1248 cc,89 bhp @ 4000 rpm,200 Nm @ 1750 rpm,FWD
+1290,1290,1364 cc,67 bhp @ 3800 rpm,170 Nm @ 1800 rpm,FWD
+1291,1291,1591 cc,121 bhp @ 6400 rpm,151 Nm @ 4850 rpm,FWD
+1292,1292,2143 cc,168 bhp @ 3000 rpm,400 Nm @ 1400 rpm,RWD
+1293,1293,2982 cc,169 bhp @ 3600 rpm,343 Nm @ 1400 rpm,RWD
+1294,1294,1086 cc,67@5500,99@2800,FWD
+1295,1295,1995 cc,217 bhp @ 4400 rpm,450 Nm @ 1500 rpm,RWD
+1296,1296,2755 cc,174 bhp @ 3400 rpm,450 Nm @ 1600 rpm,RWD
+1297,1297,2494 cc,202 bhp @ 5700 rpm,213 Nm @ 4500 rpm,RWD
+1298,1298,1598 cc,118 bhp @ 3750 rpm,320 Nm @ 1750 rpm,FWD
+1299,1299,2993 cc,258 bhp @ 4000 rpm,560 Nm @ 1500 rpm,AWD
+1300,1300,1493 cc,100 bhp @ 3750 rpm,240 Nm @ 1600 rpm,RWD
+1301,1301,1396 cc,89 bhp @ 4000 rpm,220 Nm @ 1500 rpm,FWD
+1302,1302,1950 cc,192 bhp @ 3800 rpm,400 Nm @ 1600 rpm,RWD
+1303,1303,998 cc,67 bhp @ 6200 rpm,90 Nm @ 3500 rpm,FWD
+1304,1304,2143 cc,134 bhp @ 3600 rpm,300 Nm @ 1600 rpm,FWD
+1305,1305,1493 cc,100 bhp @ 3750 rpm,240 Nm @ 1600 rpm,RWD
+1306,1306,2993 cc,244 bhp @ 4000 rpm,600 Nm @ 2000 rpm,AWD
+1307,1307,1996 cc,168 bhp @ 3500 rpm,420 Nm @ 2000 rpm,AWD
+1308,1308,1451 cc,141 bhp @ 5000 rpm,250 Nm @ 1600 rpm,FWD
+1309,1309,1248 cc,89 bhp @ 4000 rpm,200 Nm @ 1750 rpm,FWD
+1310,1310,2179 cc,188 bhp @ 3500 rpm,420 Nm @ 1750 rpm,AWD
+1311,1311,1582 cc,126 bhp @ 4000 rpm,260 Nm @ 1900 rpm,FWD
+1312,1312,1999 cc,177 bhp @ 4000 rpm,430 Nm @ 1750 rpm,RWD
+1313,1313,999 cc,124 bhp @ 6000 rpm,,FWD
+1314,1314,2993 cc,244 bhp @ 4000 rpm,600 Nm @ 2000 rpm,AWD
+1315,1315,1197 cc,81 bhp @ 6000 rpm,114 Nm @ 4000 rpm,FWD
+1316,1316,1451 cc,141 bhp @ 5000 rpm,250 Nm @ 1600 rpm,FWD
+1317,1317,1497 cc,117 bhp @ 6600 rpm,145 Nm @ 4600 rpm,FWD
+1318,1318,1086 cc,58 bhp @ 5500 rpm,84 Nm @ 4500 rpm,FWD
+1319,1319,1248 cc,74 bhp @ 4000 rpm,190 Nm @ 2000 rpm,FWD
+1320,1320,1582 cc,126 bhp @ 4000 rpm,260 Nm @ 1900 rpm,FWD
+1321,1321,1198 cc,74 bhp @ 5400 rpm,110 Nm @ 3750 rpm,FWD
+1322,1322,2179 cc,120 bhp @ 4000 rpm,280 Nm @ 1800 rpm,RWD
+1323,1323,2993 cc,225 bhp @ 4000 rpm,689 Nm @ 1800 rpm,RWD
+1324,1324,796 cc,47@6200,62@3000,FWD
+1325,1325,1197 cc,83 bhp @ 6000 rpm,115 Nm @ 4000 rpm,FWD
+1326,1326,2997 cc,254 bhp @ 3600 rpm,619 Nm @ 1600 rpm,AWD
+1327,1327,796 cc,48 bhp @ 6000 rpm,69 Nm @ 3500 rpm,FWD
+1328,1328,2755 cc,174 bhp @ 3400 rpm,450 Nm @ 1600 rpm,AWD
+1329,1329,998 cc,118 bhp @ 6000 rpm,172 Nm @ 1500 rpm,FWD
+1330,1330,1197 cc,81 bhp @ 6000 rpm,114 Nm @ 4000 rpm,FWD
+1331,1331,1198 cc,87 bhp @ 6000 rpm,109 Nm @ 4500 rpm,FWD
+1332,1332,1461 cc,84 bhp @ 3750 rpm,200 Nm @ 1900 rpm,FWD
+1333,1333,1462 cc,103 bhp @ 6000 rpm,138 Nm @ 4400 rpm,FWD
+1334,1334,1968 cc,141 bhp @ 3500 rpm,320 Nm @ 1750 rpm,FWD
+1335,1335,999 cc,124 bhp @ 6000 rpm,,FWD
+1336,1336,2143 cc,170 bhp @ 4200 rpm,400 Nm @ 2800 rpm,RWD
+1337,1337,2755 cc,174 bhp @ 3400 rpm,450 Nm @ 1600 rpm,AWD
+1338,1338,1086 cc,62 bhp @ 5500 rpm,96 Nm @ 3000 rpm,FWD
+1339,1339,1582 cc,126 bhp @ 4000 rpm,265 Nm @ 1900 rpm,FWD
+1340,1340,2393 cc,148 bhp @ 3400 rpm,343 Nm @ 1400 rpm,RWD
+1341,1341,2967 cc,247 bhp @ 4000 rpm,580 Nm @ 1750 rpm,AWD
+1342,1342,1498 cc,98 bhp @ 3600 rpm,200 Nm @ 1750 rpm,FWD
+1343,1343,2967 cc,241 bhp @ 3800 rpm,550 Nm @ 1750 rpm,AWD
+1344,1344,814 cc,55 bhp @ 5500 rpm,75 Nm @ 4000 rpm,FWD
+1345,1345,1968 cc,184 bhp @ 3500 rpm,380 Nm @ 1750 rpm,AWD
+1346,1346,1497 cc,117 bhp @ 6600 rpm,145 Nm @ 4600 rpm,FWD
+1347,1347,1197 cc,85 bhp @ 6000 rpm,114 Nm @ 4000 rpm,FWD
+1348,1348,1498 cc,99 bhp @ 3750 rpm,205 Nm @ 1750 rpm,FWD
+1349,1349,1999 cc,177 bhp @ 4000 rpm,430 Nm @ 1750 rpm,AWD
+1350,1350,1197 cc,82 bhp @ 6000 rpm,115 Nm @ 4000 rpm,FWD
+1351,1351,999 cc,67 bhp @ 5500 rpm,91 Nm @ 4250 rpm,FWD
+1352,1352,1197 cc,81 bhp @ 6000 rpm,114 Nm @ 4000 rpm,FWD
+1353,1353,1598 cc,103 bhp @ 4400 rpm,250 Nm @ 1500 rpm,FWD
+1354,1354,2987 cc,255 bhp @ 3400 rpm,620 Nm @ 1600 rpm,AWD
+1355,1355,2143 cc,168 bhp @ 3000 rpm,400 Nm @ 1400 rpm,AWD
+1356,1356,1353 cc,138 bhp @ 6000 rpm,242 Nm @ 1500 rpm,FWD
+1357,1357,1991 cc,150@4000,320@2000,FWD
+1358,1358,1197 cc,81 bhp @ 6000 rpm,114 Nm @ 4000 rpm,FWD
+1359,1359,1498 cc,99 bhp @ 3750 rpm,205 Nm @ 1750 rpm,FWD
+1360,1360,1248 cc,89 bhp @ 4000 rpm,200 Nm @ 1750 rpm,FWD
+1361,1361,2393 cc,148 bhp @ 3400 rpm,343 Nm @ 1400 rpm,RWD
+1362,1362,1798 cc,178 bhp @ 5100 rpm,250 Nm @ 1250 rpm,FWD
+1363,1363,1248 cc,89 bhp @ 4000 rpm,200 Nm @ 1750 rpm,FWD
+1364,1364,1197 cc,85 bhp @ 6000 rpm,114 Nm @ 4000 rpm,FWD
+1365,1365,998 cc,46 bhp @ 6200 rpm,85 Nm @ 3500 rpm,FWD
+1366,1366,1399 cc,68 bhp @ 4000 rpm,160 Nm @ 2000 rpm,FWD
+1367,1367,814 cc,56@5500,75@4000,FWD
+1368,1368,796 cc,47 bhp @ 6000 rpm,69 Nm @ 3500 rpm,FWD
+1369,1369,1598 cc,103 bhp @ 4400 rpm,250 Nm @ 1500 rpm,FWD
+1370,1370,6592 cc,570 bhp @ 5250 rpm,780 Nm @ 1500 rpm,RWD
+1371,1371,2925 cc,326 bhp @ 3600 rpm,700 Nm @ 1200 rpm,AWD
+1372,1372,1798 cc,177 bhp @ 5100 rpm,250 Nm @ 1250 rpm,FWD
+1373,1373,796 cc,47 bhp @ 6000 rpm,69 Nm @ 3500 rpm,FWD
+1374,1374,1199 cc,84 bhp @ 6000 rpm,114 Nm @ 3500 rpm,FWD
+1375,1375,1199 cc,89 bhp @ 6000 rpm,110 Nm @ 4800 rpm,FWD
+1376,1376,2157 cc,178 bhp @ 4000 rpm,420 Nm @ 1600 rpm,AWD
+1377,1377,2143 cc,203 bhp @ 4200 rpm,500 Nm @ 1600 rpm,AWD
+1378,1378,1798 cc,170 bhp @ 3800 rpm,320 Nm @ 1400 rpm,FWD
+1379,1379,2199 cc,197 bhp @ 3800 rpm,440 Nm @ 1750 rpm,FWD
+1380,1380,1248 cc,89 bhp @ 4000 rpm,200 Nm @ 1750 rpm,FWD
+1381,1381,2143 cc,168 bhp @ 3400 rpm,350 Nm @ 1400 rpm,AWD
+1382,1382,1373 cc,91 bhp @ 6000 rpm,130 Nm @ 4000 rpm,FWD
+1383,1383,1197 cc,81 bhp @ 6000 rpm,114 Nm @ 4000 rpm,FWD
+1384,1384,1086 cc,63@5500,89@3000,FWD
+1385,1385,2179 cc,137 bhp @ 3750 rpm,319 Nm @ 1500 rpm,RWD
+1386,1386,1248 cc,89 bhp @ 4000 rpm,200 Nm @ 1750 rpm,FWD
+1387,1387,1199 cc,84 bhp @ 6000 rpm,114 Nm @ 3500 rpm,FWD
+1388,1388,1995 cc,184 bhp @ 4000 rpm,350 Nm @ 1750 rpm,RWD
+1389,1389,1984 cc,248 bhp @ 5000 rpm,370 Nm @ 1600 rpm,AWD
+1390,1390,998 cc,67 bhp @ 6000 rpm,90 Nm @ 3500 rpm,FWD
+1391,1391,1498 cc,99 bhp @ 3600 rpm,200 Nm @ 1750 rpm,FWD
+1392,1392,2494 cc,101 bhp @ 3600 rpm,200 Nm @ 1200 rpm,RWD
+1393,1393,1595 cc,121 bhp @ 5000 rpm,200 Nm @ 1250 rpm,FWD
+1394,1394,1248 cc,89 bhp @ 4000 rpm,200 Nm @ 1750 rpm,FWD
+1395,1395,999 cc,109 bhp @ 5000 rpm,175 Nm @ 1750 rpm,FWD
+1396,1396,998 cc,67 bhp @ 6000 rpm,90 Nm @ 3500 rpm,FWD
+1397,1397,1799 cc,130 bhp @ 6300 rpm,171.62 Nm @ 4300 rpm,FWD
+1398,1398,999 cc,124 bhp @ 6000 rpm,,FWD
+1399,1399,2993 cc,258 bhp @ 4000 rpm,560 Nm @ 1500 rpm,RWD
+1400,1400,1086 cc,58 bhp @ 5500 rpm,84 Nm @ 4500 rpm,FWD
+1401,1401,1798 cc,177 bhp @ 5100 rpm,250 Nm @ 1250 rpm,FWD
+1402,1402,814 cc,55 bhp @ 5500 rpm,75 Nm @ 4000 rpm,FWD
+1403,1403,1451 cc,141 bhp @ 5000 rpm,250 Nm @ 1600 rpm,FWD
+1404,1404,2993 cc,258 bhp @ 4000 rpm,560 Nm @ 1500 rpm,AWD
+1405,1405,1999 cc,177 bhp @ 4000 rpm,430 Nm @ 1750 rpm,AWD
+1406,1406,998 cc,58 bhp @ 6000 rpm,78 Nm @ 3500 rpm,FWD
+1407,1407,1197 cc,81 bhp @ 6000 rpm,114 Nm @ 4000 rpm,FWD
+1408,1408,1498 cc,99 bhp @ 3750 rpm,215 Nm @ 1750 rpm,FWD
+1409,1409,1197 cc,79 bhp @ 6000 rpm,112.7619 Nm @ 4000 rpm,FWD
+1410,1410,2179 cc,120 bhp @ 4000 rpm,290 Nm @ 1800 rpm,RWD
+1411,1411,1197 cc,85 bhp @ 6000 rpm,114 Nm @ 4000 rpm,FWD
+1412,1412,1995 cc,190 bhp @ 4000 rpm,400 Nm @ 1750 rpm,AWD
+1413,1413,1197 cc,79 bhp @ 6000 rpm,112.7619 Nm @ 4000 rpm,FWD
+1414,1414,998 cc,118 bhp @ 6000 rpm,172 Nm @ 1500 rpm,FWD
+1415,1415,1197 cc,83 bhp @ 6000 rpm,115 Nm @ 4000 rpm,FWD
+1416,1416,1591 cc,122 bhp @ 6400 rpm,154 Nm @ 4850 rpm,FWD
+1417,1417,1248 cc,74 bhp @ 4000 rpm,190 Nm @ 1750 rpm,FWD
+1418,1418,1248 cc,89 bhp @ 4000 rpm,200 Nm @ 1750 rpm,FWD
+1419,1419,2179 cc,153 bhp @ 3750 rpm,360 Nm @ 1750 rpm,FWD
+1420,1420,1984 cc,150 bhp @ 3500 rpm,350 Nm @ 1500 rpm,FWD
+1421,1421,1197 cc,83 bhp @ 6000 rpm,115 Nm @ 4000 rpm,FWD
+1422,1422,1396 cc,89 bhp @ 4000 rpm,224 Nm @ 1500 rpm,FWD
+1423,1423,1598 cc,118 bhp @ 3750 rpm,320 Nm @ 1750 rpm,FWD
+1424,1424,998 cc,67 bhp @ 6000 rpm,90 Nm @ 3500 rpm,FWD
+1425,1425,1396 cc,89 bhp @ 4000 rpm,220 Nm @ 1500 rpm,FWD
+1426,1426,796 cc,47 bhp @ 6000 rpm,69 Nm @ 3500 rpm,FWD
+1427,1427,1991 cc,181 bhp @ 5500 rpm,300 Nm @ 1200 rpm,FWD
+1428,1428,1968 cc,177 bhp @ 3750 rpm,380 Nm @ 1750 rpm,FWD
+1429,1429,2993 cc,258 bhp @ 4000 rpm,560 Nm @ 1500 rpm,RWD
+1430,1430,998 cc,67 bhp @ 6000 rpm,90 Nm @ 3500 rpm,FWD
+1431,1431,1196 cc,73 bhp @ 6000 rpm,101 Nm @ 3000 rpm,RWD
+1432,1432,2393 cc,148 bhp @ 3400 rpm,343 Nm @ 1400 rpm,RWD
+1433,1433,2494 cc,202 bhp @ 5700 rpm,213 Nm @ 4500 rpm,RWD
+1434,1434,1498 cc,99 bhp @ 3600 rpm,200 Nm @ 1750 rpm,FWD
+1435,1435,2179 cc,138 bhp @ 4000 rpm,320 Nm @ 1700 rpm,RWD
+1436,1436,1598 cc,118 bhp @ 3750 rpm,320 Nm @ 1750 rpm,FWD
+1437,1437,1497 cc,117 bhp @ 6600 rpm,145 Nm @ 4600 rpm,FWD
+1438,1438,1197 cc,79 bhp @ 6000 rpm,112.7619 Nm @ 4000 rpm,FWD
+1439,1439,999 cc,124 bhp @ 6000 rpm,,FWD
+1440,1440,998 cc,67 bhp @ 6000 rpm,90 Nm @ 3500 rpm,FWD
+1441,1441,1798 cc,170 bhp @ 3800 rpm,320 Nm @ 1400 rpm,FWD
+1442,1442,2184 cc,130 bhp @ 3750 rpm,300 Nm @ 1600 rpm,AWD
+1443,1443,999 cc,124 bhp @ 6000 rpm,,FWD
+1444,1444,1493 cc,113 bhp @ 4000 rpm,250 Nm @ 1500 rpm,FWD
+1445,1445,2996 cc,385 bhp @ 5500 rpm,520 Nm @ 2500 rpm,AWD
+1446,1446,1997 cc,138 bhp @ 3750 rpm,320 Nm @ 1600 rpm,FWD
+1447,1447,1493 cc,100 bhp @ 3750 rpm,240 Nm @ 1600 rpm,RWD
+1448,1448,1968 cc,188 bhp @ 3800 rpm,400 Nm @ 1750 rpm,AWD
+1449,1449,2184 cc,130 bhp @ 3750 rpm,300 Nm @ 1600 rpm,AWD
+1450,1450,1995 cc,217 bhp @ 4400 rpm,450 Nm @ 1500 rpm,RWD
+1451,1451,1591 cc,122 bhp @ 6400 rpm,154 Nm @ 4850 rpm,FWD
+1452,1452,1950 cc,192 bhp @ 3800 rpm,400 Nm @ 1600 rpm,AWD
+1453,1453,1995 cc,184 bhp @ 4000 rpm,380 Nm @ 1750 rpm,RWD
+1454,1454,2184 cc,130 bhp @ 3750 rpm,300 Nm @ 1600 rpm,AWD
+1455,1455,1396 cc,89 bhp @ 4000 rpm,220 Nm @ 1500 rpm,FWD
+1456,1456,1995 cc,184 bhp @ 4000 rpm,350 Nm @ 1750 rpm,RWD
+1457,1457,2997 cc,254 bhp @ 3600 rpm,619 Nm @ 1600 rpm,AWD
+1458,1458,2143 cc,134 bhp @ 3600 rpm,300 Nm @ 1600 rpm,FWD
+1459,1459,1582 cc,126 bhp @ 4000 rpm,260 Nm @ 1900 rpm,FWD
+1460,1460,2967 cc,245 bhp @ 2910 rpm,600 Nm @ 1500 rpm,AWD
+1461,1461,1396 cc,89 bhp @ 4000 rpm,224 Nm @ 1500 rpm,FWD
+1462,1462,1248 cc,89 bhp @ 4000 rpm,200 Nm @ 1750 rpm,FWD
+1463,1463,998 cc,67 bhp @ 6200 rpm,90 Nm @ 3500 rpm,FWD
+1464,1464,998 cc,59@6200,77@3500,FWD
+1465,1465,1995 cc,188 bhp @ 4000 rpm,400 Nm @ 1750 rpm,FWD
+1466,1466,1995 cc,184 bhp @ 4000 rpm,350 Nm @ 1750 rpm,RWD
+1467,1467,1798 cc,190 bhp @ 4200 rpm,320 Nm @ 1400 rpm,FWD
+1468,1468,1248 cc,89 bhp @ 4000 rpm,200 Nm @ 1750 rpm,FWD
+1469,1469,1497 cc,118@6600,146@4600,FWD
+1470,1470,1497 cc,118@6600,146@4600,FWD
+1471,1471,1498 cc,103 bhp @ 4400 rpm,250 Nm @ 1500 rpm,FWD
+1472,1472,1461 cc,63 bhp @ 4000 rpm,160 Nm @ 2000 rpm,FWD
+1473,1473,1498 cc,99 bhp @ 3600 rpm,200 Nm @ 1750 rpm,FWD
+1474,1474,1995 cc,188 bhp @ 4000 rpm,400 Nm @ 1750 rpm,RWD
+1475,1475,2393 cc,148 bhp @ 3400 rpm,343 Nm @ 1400 rpm,RWD
+1476,1476,1248 cc,74 bhp @ 4000 rpm,190 Nm @ 2000 rpm,FWD
+1477,1477,1197 cc,83 bhp @ 6000 rpm,115 Nm @ 4000 rpm,FWD
+1478,1478,1461 cc,108 bhp @ 3900 rpm,248 Nm @ 2250 rpm,FWD
+1479,1479,1199 cc,84 bhp @ 6000 rpm,114 Nm @ 3500 rpm,FWD
+1480,1480,998 cc,67 bhp @ 6000 rpm,90 Nm @ 3500 rpm,FWD
+1481,1481,1197 cc,82 bhp @ 6000 rpm,113 Nm @ 4200 rpm,FWD
+1482,1482,1968 cc,174 bhp @ 4200 rpm,380 Nm @ 1750 rpm,AWD
+1483,1483,999 cc,109 bhp @ 5000 rpm,175 Nm @ 1750 rpm,FWD
+1484,1484,1197 cc,83 bhp @ 6000 rpm,115 Nm @ 4000 rpm,FWD
+1485,1485,1582 cc,126 bhp @ 4000 rpm,265 Nm @ 1900 rpm,FWD
+1486,1486,2967 cc,245 bhp @ 2910 rpm,600 Nm @ 1500 rpm,AWD
+1487,1487,1591 cc,121 bhp @ 6300 rpm,158 Nm @ 4200 rpm,FWD
+1488,1488,1496 cc,114 bhp @ 4000 rpm,270 Nm @ 1750 rpm,FWD
+1489,1489,1298 cc,87@6000,113@4500,FWD
+1490,1490,1197 cc,80@5200,111@4000,FWD
+1491,1491,1197 cc,81 bhp @ 6000 rpm,114 Nm @ 4000 rpm,FWD
+1492,1492,998 cc,67 bhp @ 6200 rpm,90 Nm @ 3500 rpm,FWD
+1493,1493,1497 cc,116 bhp @ 6600 rpm,146 Nm @ 4800 rpm,FWD
+1494,1494,2143 cc,170 bhp @ 4200 rpm,400 Nm @ 2800 rpm,RWD
+1495,1495,1197 cc,83 bhp @ 6000 rpm,115 Nm @ 4000 rpm,FWD
+1496,1496,1248 cc,74 bhp @ 4000 rpm,190 Nm @ 2000 rpm,FWD
+1497,1497,2487 cc,176 bhp @ 5700 rpm,221 Nm @ 3600 rpm,FWD
+1498,1498,1197 cc,82 bhp @ 6000 rpm,115 Nm @ 4200 rpm,FWD
+1499,1499,999 cc,109 bhp @ 5000 rpm,175 Nm @ 1750 rpm,FWD
+1500,1500,1197 cc,81 bhp @ 6000 rpm,114 Nm @ 4000 rpm,FWD
+1501,1501,1798 cc,177 bhp @ 4500 rpm,250 Nm @ 1250 rpm,FWD
+1502,1502,1991 cc,181 bhp @ 5500 rpm,300 Nm @ 1200 rpm,FWD
+1503,1503,1950 cc,192 bhp @ 3800 rpm,400 Nm @ 1600 rpm,AWD
+1504,1504,1248 cc,89 bhp @ 4000 rpm,200 Nm @ 1750 rpm,FWD
+1505,1505,1197 cc,68 bhp @ 6000 rpm,95 Nm @ 4000 rpm,FWD
+1506,1506,796 cc,39 bhp @ 6200 rpm,54 Nm @ 3000 rpm,FWD
+1507,1507,1199 cc,89 bhp @ 6000 rpm,110 Nm @ 4800 rpm,FWD
+1508,1508,1582 cc,126 bhp @ 4000 rpm,260 Nm @ 1900 rpm,FWD
+1509,1509,2982 cc,169 bhp @ 3600 rpm,343 Nm @ 1400 rpm,AWD
+1510,1510,2179 cc,140 bhp @ 3750 rpm,330 Nm @ 2800 rpm,AWD
+1511,1511,1493 cc,113 bhp @ 4000 rpm,250 Nm @ 1500 rpm,FWD
+1512,1512,2179 cc,120 bhp @ 4000 rpm,290 Nm @ 1800 rpm,RWD
+1513,1513,1197 cc,79 bhp @ 6000 rpm,112.7619 Nm @ 4000 rpm,FWD
+1514,1514,1396 cc,89 bhp @ 4000 rpm,220 Nm @ 1500 rpm,FWD
+1515,1515,2755 cc,174 bhp @ 3400 rpm,450 Nm @ 1600 rpm,AWD
+1516,1516,1582 cc,126 bhp @ 4000 rpm,260 Nm @ 1500 rpm,FWD
+1517,1517,1497 cc,117 bhp @ 6600 rpm,145 Nm @ 4600 rpm,FWD
+1518,1518,1086 cc,67@5500,99@2800,FWD
+1519,1519,1991 cc,150@4000,327@2600,FWD
+1520,1520,2993 cc,262 bhp @ 4000 rpm,620 Nm @ 1500 rpm,AWD
+1521,1521,1969 cc,187 bhp @ 4250 rpm,400 Nm @ 1750 rpm,FWD
+1522,1522,1120 cc,71 bhp @ 4000 rpm,180 Nm @ 1750 rpm,FWD
+1523,1523,1591 cc,121 bhp @ 6300 rpm,158 Nm @ 4200 rpm,FWD
+1524,1524,3198 cc,197 bhp @ 3000 rpm,470 Nm @ 1750 rpm,AWD
+1525,1525,1591 cc,121 bhp @ 6300 rpm,158 Nm @ 4200 rpm,FWD
+1526,1526,1591 cc,122 bhp @ 6400 rpm,151 Nm @ 4850 rpm,FWD
+1527,1527,999 cc,124 bhp @ 6000 rpm,,FWD
+1528,1528,999 cc,124 bhp @ 6000 rpm,,FWD
+1529,1529,1197 cc,79 bhp @ 6000 rpm,112.7619 Nm @ 4000 rpm,FWD
+1530,1530,1798 cc,138 bhp @ 6400 rpm,173 Nm @ 4000 rpm,FWD
+1531,1531,1248 cc,89 bhp @ 4000 rpm,200 Nm @ 1750 rpm,FWD
+1532,1532,1968 cc,141 bhp @ 3500 rpm,320 Nm @ 1750 rpm,FWD
+1533,1533,1197 cc,82 bhp @ 6000 rpm,113 Nm @ 4200 rpm,FWD
+1534,1534,999 cc,124 bhp @ 6000 rpm,,FWD
+1535,1535,1498 cc,89 bhp @ 4200 rpm,230 Nm @ 1500 rpm,FWD
+1536,1536,2143 cc,207@4200,500@1600,RWD
+1537,1537,1198 cc,74 bhp @ 5400 rpm,110 Nm @ 3750 rpm,FWD
+1538,1538,1498 cc,99 bhp @ 3750 rpm,205 Nm @ 1750 rpm,FWD
+1539,1539,999 cc,67 bhp @ 5500 rpm,91 Nm @ 4250 rpm,FWD
+1540,1540,1582 cc,126 bhp @ 4000 rpm,260 Nm @ 1900 rpm,FWD
+1541,1541,2696 cc,184 bhp @ 4000 rpm,402 Nm @ 3000 rpm,AWD
+1542,1542,1995 cc,184 bhp @ 4000 rpm,350 Nm @ 1750 rpm,RWD
+1543,1543,2494 cc,102@5600,200@1400,FWD
+1544,1544,1968 cc,141 bhp @ 3500 rpm,320 Nm @ 1750 rpm,FWD
+1545,1545,1197 cc,89 bhp @ 6000 rpm,113 Nm @ 4400 rpm,FWD
+1546,1546,2967 cc,245 bhp @ 2910 rpm,600 Nm @ 1500 rpm,AWD
+1547,1547,1197 cc,85 bhp @ 6000 rpm,114 Nm @ 4000 rpm,FWD
+1548,1548,1498 cc,109 bhp @ 4000 rpm,250 Nm @ 1500 rpm,FWD
+1549,1549,1498 cc,98 bhp @ 3600 rpm,200 Nm @ 1750 rpm,FWD
+1550,1550,1586 cc,102@5500,145@4200,FWD
+1551,1551,1796 cc,186 bhp @ 5600 rpm,285 Nm @ 4000 rpm,RWD
+1552,1552,1462 cc,103 bhp @ 6000 rpm,138 Nm @ 4400 rpm,FWD
+1553,1553,1956 cc,168 bhp @ 3750 rpm,350 Nm @ 1750 rpm,FWD
+1554,1554,998 cc,68@6200,90@3500,FWD
+1555,1555,1186 cc,74 bhp @ 4000 rpm,190 Nm @ 1750 rpm,FWD
+1556,1556,1197 cc,81 bhp @ 6000 rpm,114 Nm @ 4000 rpm,FWD
+1557,1557,1497 cc,116 bhp @ 6600 rpm,146 Nm @ 4800 rpm,FWD
+1558,1558,1998 cc,248 bhp @ 5200 rpm,350 Nm @ 1450 rpm,RWD
+1559,1559,2982 cc,169 bhp @ 3600 rpm,343 Nm @ 1400 rpm,RWD
+1560,1560,1582 cc,126 bhp @ 4000 rpm,265 Nm @ 1900 rpm,FWD
+1561,1561,1956 cc,168 bhp @ 3750 rpm,350 Nm @ 1750 rpm,FWD
+1562,1562,2494 cc,101 bhp @ 3600 rpm,200 Nm @ 1200 rpm,RWD
+1563,1563,1197 cc,82 bhp @ 6000 rpm,115 Nm @ 4000 rpm,FWD
+1564,1564,1950 cc,192 bhp @ 3800 rpm,400 Nm @ 1600 rpm,RWD
+1565,1565,1373 cc,91 bhp @ 6000 rpm,130 Nm @ 4000 rpm,FWD
+1566,1566,1999 cc,177 bhp @ 4000 rpm,430 Nm @ 1750 rpm,AWD
+1567,1567,2393 cc,148 bhp @ 3400 rpm,360 Nm @ 1400 rpm,RWD
+1568,1568,1373 cc,94 bhp @ 6000 rpm,130 Nm @ 4000 rpm,FWD
+1569,1569,1461 cc,85 bhp @ 3750 rpm,200 Nm @ 2000 rpm,FWD
+1570,1570,1199 cc,89 bhp @ 6000 rpm,110 Nm @ 4800 rpm,FWD
+1571,1571,1198 cc,74 bhp @ 5400 rpm,110 Nm @ 3750 rpm,FWD
+1572,1572,1199 cc,89 bhp @ 6000 rpm,110 Nm @ 4800 rpm,FWD
+1573,1573,1197 cc,81 bhp @ 6000 rpm,114 Nm @ 4000 rpm,FWD
+1574,1574,1498 cc,103 bhp @ 4400 rpm,250 Nm @ 1500 rpm,FWD
+1575,1575,999 cc,124 bhp @ 6000 rpm,,FWD
+1576,1576,1598 cc,103 bhp @ 5250 rpm,153 Nm @ 3800 rpm,FWD
+1577,1577,2999 cc,362 bhp @ 5500 rpm,500 Nm @ 1600 rpm,AWD
+1578,1578,1968 cc,174 bhp @ 4200 rpm,380 Nm @ 1750 rpm,AWD
+1579,1579,1497 cc,117 bhp @ 6600 rpm,145 Nm @ 4600 rpm,FWD
+1580,1580,2967 cc,240@4000,500@1500,FWD
+1581,1581,1197 cc,81 bhp @ 6000 rpm,114 Nm @ 4000 rpm,FWD
+1582,1582,1582 cc,126 bhp @ 4000 rpm,260 Nm @ 1900 rpm,FWD
+1583,1583,1984 cc,188 bhp @ 4200 rpm,320 Nm @ 1500 rpm,AWD
+1584,1584,2143 cc,134 bhp @ 3600 rpm,300 Nm @ 1600 rpm,FWD
+1585,1585,2179 cc,138 bhp @ 3750 rpm,330 Nm @ 1600 rpm,FWD
+1586,1586,1497 cc,118@6600,146@4600,FWD
+1587,1587,1197 cc,79 bhp @ 5600 rpm,104 Nm @ 3100 rpm,FWD
+1588,1588,1995 cc,182 bhp @ 4000 rpm,400 Nm @ 1750 rpm,FWD
+1589,1589,1248 cc,74 bhp @ 4000 rpm,190 Nm @ 2000 rpm,FWD
+1590,1590,1248 cc,74 bhp @ 4000 rpm,190 Nm @ 2000 rpm,FWD
+1591,1591,1086 cc,68 bhp @ 5500 rpm,99.08 Nm @ 4500 rpm,FWD
+1592,1592,1497 cc,115 bhp @ 3750 rpm,300 Nm @ 1500 rpm,FWD
+1593,1593,1396 cc,89 bhp @ 4000 rpm,224 Nm @ 1500 rpm,FWD
+1594,1594,1086 cc,62 bhp @ 5500 rpm,96 Nm @ 3000 rpm,FWD
+1595,1595,2523 cc,63 bhp @ 3200 rpm,195 Nm @ 1400 rpm,RWD
+1596,1596,1498 cc,89 bhp @ 3750 rpm,204 Nm @ 2000 rpm,FWD
+1597,1597,936 cc,58 bhp @ 4000 rpm,150 Nm @ 1750 rpm,FWD
+1598,1598,1969 cc,187 bhp @ 5000 rpm,300 Nm @ 1300 rpm,FWD
+1599,1599,998 cc,67 bhp @ 6200 rpm,90 Nm @ 3500 rpm,FWD
+1600,1600,1248 cc,89 bhp @ 4000 rpm,200 Nm @ 1750 rpm,FWD
+1601,1601,1950 cc,192 bhp @ 3800 rpm,400 Nm @ 1600 rpm,AWD
+1602,1602,1598 cc,118 bhp @ 3750 rpm,320 Nm @ 1750 rpm,FWD
+1603,1603,1373 cc,94 bhp @ 6000 rpm,130 Nm @ 4000 rpm,FWD
+1604,1604,1950 cc,192 bhp @ 3800 rpm,400 Nm @ 1600 rpm,RWD
+1605,1605,1950 cc,192 bhp @ 3800 rpm,400 Nm @ 1600 rpm,AWD
+1606,1606,1968 cc,174 bhp @ 4200 rpm,380 Nm @ 1750 rpm,AWD
+1607,1607,1497 cc,117 bhp @ 6600 rpm,145 Nm @ 4600 rpm,FWD
+1608,1608,1968 cc,141 bhp @ 3500 rpm,320 Nm @ 1750 rpm,FWD
+1609,1609,2354 cc,178 bhp @ 6500 rpm,222 Nm @ 4300 rpm,FWD
+1610,1610,1582 cc,126 bhp @ 4000 rpm,260 Nm @ 1500 rpm,FWD
+1611,1611,1462 cc,103 bhp @ 6000 rpm,138 Nm @ 4400 rpm,FWD
+1612,1612,2993 cc,258 bhp @ 4000 rpm,560 Nm @ 1500 rpm,RWD
+1613,1613,1498 cc,99 bhp @ 3600 rpm,200 Nm @ 1750 rpm,FWD
+1614,1614,1462 cc,103 bhp @ 6000 rpm,138 Nm @ 4400 rpm,FWD
+1615,1615,1248 cc,89 bhp @ 4000 rpm,200 Nm @ 1750 rpm,FWD
+1616,1616,1248 cc,75@4000,190@2000,FWD
+1617,1617,2987 cc,258 bhp @ 3600 rpm,619 Nm @ 1600 rpm,AWD
+1618,1618,1968 cc,177 bhp @ 3750 rpm,380 Nm @ 1750 rpm,FWD
+1619,1619,1396 cc,90@4000,220@1750,FWD
+1620,1620,2523 cc,75 bhp @ 3200 rpm,200 Nm @ 1400 rpm,RWD
+1621,1621,1968 cc,177 bhp @ 4200 rpm,380 Nm @ 1750 rpm,FWD
+1622,1622,814 cc,55 bhp @ 5500 rpm,75 Nm @ 4000 rpm,FWD
+1623,1623,1461 cc,84 bhp @ 3750 rpm,200 Nm @ 1900 rpm,FWD
+1624,1624,1462 cc,103 bhp @ 6000 rpm,138 Nm @ 4400 rpm,FWD
+1625,1625,1950 cc,147 bhp @ 3400 rpm,320 Nm @ 1400 rpm,FWD
+1626,1626,1197 cc,82 bhp @ 6000 rpm,115 Nm @ 4000 rpm,FWD
+1627,1627,1582 cc,126 bhp @ 4000 rpm,260 Nm @ 1500 rpm,FWD
+1628,1628,999 cc,124 bhp @ 6000 rpm,,FWD
+1629,1629,2494 cc,102@5600,200@1400,FWD
+1630,1630,1999 cc,177 bhp @ 4000 rpm,430 Nm @ 1750 rpm,AWD
+1631,1631,799 cc,53 bhp @ 5678 rpm,72 Nm @ 4386 rpm,FWD
+1632,1632,2523 cc,63 bhp @ 3200 rpm,195 Nm @ 1400 rpm,RWD
+1633,1633,1373 cc,94 bhp @ 6000 rpm,130 Nm @ 4000 rpm,FWD
+1634,1634,1197 cc,80@5200,111@4000,FWD
+1635,1635,999 cc,124 bhp @ 6000 rpm,,FWD
+1636,1636,1197 cc,81 bhp @ 6000 rpm,114 Nm @ 4000 rpm,FWD
+1637,1637,2494 cc,100 bhp @ 3600 rpm,200 Nm @ 1400 rpm,RWD
+1638,1638,2987 cc,255 bhp @ 3400 rpm,620 Nm @ 1600 rpm,AWD
+1639,1639,1248 cc,89 bhp @ 4000 rpm,200 Nm @ 1750 rpm,FWD
+1640,1640,1197 cc,89 bhp @ 6000 rpm,113 Nm @ 4400 rpm,FWD
+1641,1641,1198 cc,67 bhp @ 5000 rpm,104 Nm @ 4000 rpm,FWD
+1642,1642,2179 cc,140 bhp @ 3750 rpm,330 Nm @ 2800 rpm,FWD
+1643,1643,1968 cc,141 bhp @ 4200 rpm,320 Nm @ 1750 rpm,FWD
+1644,1644,1373 cc,91 bhp @ 6000 rpm,130 Nm @ 4000 rpm,FWD
+1645,1645,1197 cc,82 bhp @ 6000 rpm,113 Nm @ 4200 rpm,FWD
+1646,1646,998 cc,58 bhp @ 6200 rpm,77 Nm @ 3500 rpm,FWD
+1647,1647,2179 cc,154 bhp @ 4000 rpm,400 Nm @ 1700 rpm,RWD
+1648,1648,2982 cc,169 bhp @ 3600 rpm,343 Nm @ 1400 rpm,AWD
+1649,1649,1248 cc,73 bhp @ 4000 rpm,190 Nm @ 2000 rpm,FWD
+1650,1650,1598 cc,103 bhp @ 5250 rpm,153 Nm @ 3800 rpm,FWD
+1651,1651,998 cc,118 bhp @ 6000 rpm,172 Nm @ 1500 rpm,FWD
+1652,1652,2755 cc,172 bhp @ 3400 rpm,360 Nm @ 1200 rpm,RWD
+1653,1653,1332 cc,161 bhp @ 5500 rpm,250 Nm @ 1620 rpm,FWD
+1654,1654,1497 cc,108 bhp @ 3750 rpm,260 Nm @ 1500 rpm,FWD
+1655,1655,1197 cc,82 bhp @ 6000 rpm,115 Nm @ 4000 rpm,FWD
+1656,1656,1197 cc,79 bhp @ 6000 rpm,112.7619 Nm @ 4000 rpm,FWD
+1657,1657,999 cc,124 bhp @ 6000 rpm,,FWD
+1658,1658,1995 cc,268 bhp @ 5150 rpm,400 Nm @ 3000 rpm,AWD
+1659,1659,1497 cc,115 bhp @ 3750 rpm,300 Nm @ 1500 rpm,FWD
+1660,1660,1364 cc,68 bhp @ 3600 rpm,170 Nm @ 2400 rpm,FWD
+1661,1661,1197 cc,83 bhp @ 6000 rpm,115 Nm @ 4000 rpm,FWD
+1662,1662,1198 cc,87 bhp @ 6000 rpm,109 Nm @ 4500 rpm,FWD
+1663,1663,2179 cc,120 bhp @ 4000 rpm,280 Nm @ 1800 rpm,RWD
+1664,1664,1396 cc,89 bhp @ 4000 rpm,220 Nm @ 1500 rpm,FWD
+1665,1665,998 cc,67 bhp @ 6200 rpm,90 Nm @ 3500 rpm,FWD
+1666,1666,1198 cc,87 bhp @ 6000 rpm,109 Nm @ 4500 rpm,FWD
+1667,1667,1198 cc,74 bhp @ 5400 rpm,110 Nm @ 3750 rpm,FWD
+1668,1668,1956 cc,169 bhp @ 3750 rpm,350 Nm @ 1750 rpm,FWD
+1669,1669,998 cc,58 bhp @ 6200 rpm,77 Nm @ 3500 rpm,FWD
+1670,1670,1197 cc,79 bhp @ 6000 rpm,112.7619 Nm @ 4000 rpm,FWD
+1671,1671,998 cc,67 bhp @ 6000 rpm,90 Nm @ 3500 rpm,FWD
+1672,1672,1248 cc,89 bhp @ 4000 rpm,200 Nm @ 1750 rpm,FWD
+1673,1673,2143 cc,201 bhp @ 3800 rpm,500 Nm @ 1600 rpm,AWD
+1674,1674,1497 cc,118@6600,146@4600,FWD
+1675,1675,1497 cc,113 bhp @ 6300 rpm,144 Nm @ 4500 rpm,FWD
+1676,1676,1197 cc,68 bhp @ 6000 rpm,95 Nm @ 4000 rpm,FWD
+1677,1677,1086 cc,67@5500,99@2800,FWD
+1678,1678,1995 cc,184 bhp @ 4000 rpm,380 Nm @ 1750 rpm,RWD
+1679,1679,2993 cc,258 bhp @ 4000 rpm,560 Nm @ 1500 rpm,RWD
+1680,1680,998 cc,68@6200,90@3500,FWD
+1681,1681,1498 cc,99 bhp @ 3600 rpm,200 Nm @ 1750 rpm,FWD
+1682,1682,1461 cc,84 bhp @ 3750 rpm,200 Nm @ 1900 rpm,FWD
+1683,1683,999 cc,124 bhp @ 6000 rpm,,FWD
+1684,1684,1995 cc,188 bhp @ 4000 rpm,400 Nm @ 1750 rpm,RWD
+1685,1685,1197 cc,85 bhp @ 6000 rpm,114 Nm @ 4000 rpm,FWD
+1686,1686,1995 cc,184 bhp @ 4000 rpm,350 Nm @ 1750 rpm,RWD
+1687,1687,1199 cc,89 bhp @ 6000 rpm,110 Nm @ 4800 rpm,FWD
+1688,1688,2179 cc,188 bhp @ 3500 rpm,420 Nm @ 1750 rpm,AWD
+1689,1689,1968 cc,174 bhp @ 4200 rpm,380 Nm @ 1750 rpm,AWD
+1690,1690,1995 cc,188 bhp @ 4000 rpm,400 Nm @ 1750 rpm,RWD
+1691,1691,2393 cc,148 bhp @ 3400 rpm,343 Nm @ 1400 rpm,RWD
+1692,1692,1499 cc,110 bhp @ 6300 rpm,140 Nm @ 4400 rpm,FWD
+1693,1693,1582 cc,126 bhp @ 4000 rpm,260 Nm @ 1900 rpm,FWD
+1694,1694,1336 cc,89 bhp @ 4000 rpm,219.744 Nm @ 1500 rpm,FWD
+1695,1695,1496 cc,80 bhp @ 5600 rpm,132 Nm @ 3000 rpm,FWD
+1696,1696,1997 cc,150 bhp @ 5000 rpm,300 Nm @ 1250 rpm,AWD
+1697,1697,1248 cc,89 bhp @ 4000 rpm,200 Nm @ 1750 rpm,FWD
+1698,1698,998 cc,67 bhp @ 6000 rpm,90 Nm @ 3500 rpm,FWD
+1699,1699,1086 cc,68 bhp @ 5500 rpm,99.08 Nm @ 4500 rpm,FWD
+1700,1700,2993 cc,271 bhp @ 4000 rpm,600 Nm @ 2000 rpm,RWD
+1701,1701,2179 cc,153 bhp @ 3750 rpm,360 Nm @ 1750 rpm,FWD
+1702,1702,1086 cc,67@5500,99@2800,FWD
+1703,1703,1197 cc,85 bhp @ 6000 rpm,114 Nm @ 4000 rpm,FWD
+1704,1704,1197 cc,83 bhp @ 6000 rpm,113.796 Nm @ 4000 rpm,FWD
+1705,1705,1984 cc,188 bhp @ 4200 rpm,320 Nm @ 1450 rpm,FWD
+1706,1706,1968 cc,177 bhp @ 4200 rpm,380 Nm @ 1750 rpm,FWD
+1707,1707,1248 cc,74 bhp @ 4000 rpm,190 Nm @ 2000 rpm,FWD
+1708,1708,1197 cc,82 bhp @ 6000 rpm,115 Nm @ 4000 rpm,FWD
+1709,1709,998 cc,67 bhp @ 6000 rpm,90 Nm @ 3500 rpm,FWD
+1710,1710,2184 cc,130 bhp @ 3750 rpm,300 Nm @ 1600 rpm,AWD
+1711,1711,1197 cc,82 bhp @ 6000 rpm,113 Nm @ 4200 rpm,FWD
+1712,1712,1996 cc,168 bhp @ 3500 rpm,420 Nm @ 2000 rpm,RWD
+1713,1713,2755 cc,174 bhp @ 3400 rpm,450 Nm @ 1600 rpm,RWD
+1714,1714,1950 cc,192 bhp @ 3800 rpm,400 Nm @ 1600 rpm,RWD
+1715,1715,1197 cc,83 bhp @ 6000 rpm,115 Nm @ 4000 rpm,FWD
+1716,1716,1461 cc,108 bhp @ 3900 rpm,248 Nm @ 2250 rpm,FWD
+1717,1717,998 cc,67 bhp @ 6000 rpm,90 Nm @ 3500 rpm,FWD
+1718,1718,1984 cc,227 bhp @ 5500 rpm,350 Nm @ 1250 rpm,FWD
+1719,1719,1995 cc,188 bhp @ 4000 rpm,400 Nm @ 1750 rpm,RWD
+1720,1720,1199 cc,89 bhp @ 6000 rpm,110 Nm @ 4800 rpm,FWD
+1721,1721,1197 cc,82 bhp @ 6000 rpm,115 Nm @ 4000 rpm,FWD
+1722,1722,1591 cc,122 bhp @ 6400 rpm,154 Nm @ 4850 rpm,FWD
+1723,1723,1582 cc,126 bhp @ 4000 rpm,265 Nm @ 1900 rpm,FWD
+1724,1724,1461 cc,84 bhp @ 3750 rpm,200 Nm @ 1900 rpm,FWD
+1725,1725,4951 cc,396 bhp @ 6500 rpm,515 Nm @ 4250 rpm,RWD
+1726,1726,1493 cc,113 bhp @ 4000 rpm,250 Nm @ 1500 rpm,FWD
+1727,1727,998 cc,67 bhp @ 6000 rpm,90 Nm @ 3500 rpm,FWD
+1728,1728,1950 cc,241 bhp @ 4200 rpm,500 Nm @ 1600 rpm,RWD
+1729,1729,2982 cc,169 bhp @ 3600 rpm,343 Nm @ 1400 rpm,RWD
+1730,1730,1498 cc,99 bhp @ 3600 rpm,200 Nm @ 1750 rpm,FWD
+1731,1731,2755 cc,172 bhp @ 3400 rpm,360 Nm @ 1200 rpm,RWD
+1732,1732,1950 cc,161 bhp @ 4200 rpm,380 Nm @ 1200 rpm,RWD
+1733,1733,796 cc,47@6200,62@3000,FWD
+1734,1734,1497 cc,118@6600,146@4600,FWD
+1735,1735,1968 cc,141 bhp @ 3500 rpm,320 Nm @ 1750 rpm,FWD
+1736,1736,2179 cc,120 bhp @ 4000 rpm,280 Nm @ 1800 rpm,RWD
+1737,1737,998 cc,118 bhp @ 6000 rpm,172 Nm @ 1500 rpm,FWD
+1738,1738,998 cc,67.7 bhp @ 6200 rpm,90 Nm @ 3500 rpm,FWD
+1739,1739,1462 cc,103 bhp @ 6000 rpm,138 Nm @ 4400 rpm,FWD
+1740,1740,1197 cc,85 bhp @ 6000 rpm,114 Nm @ 4000 rpm,FWD
+1741,1741,1248 cc,89 bhp @ 4000 rpm,200 Nm @ 1750 rpm,FWD
+1742,1742,1991 cc,181 bhp @ 5500 rpm,300 Nm @ 1200 rpm,FWD
+1743,1743,2998 cc,335 bhp @ 5500 rpm,450 Nm @ 1500 rpm,AWD
+1744,1744,1591 cc,122 bhp @ 6400 rpm,151 Nm @ 4850 rpm,FWD
+1745,1745,799 cc,53 bhp @ 5678 rpm,72 Nm @ 4386 rpm,FWD
+1746,1746,1591 cc,121 bhp @ 6400 rpm,151 Nm @ 4850 rpm,FWD
+1747,1747,1984 cc,188 bhp @ 4200 rpm,320 Nm @ 1450 rpm,FWD
+1748,1748,1995 cc,184 bhp @ 4000 rpm,380 Nm @ 1750 rpm,RWD
+1749,1749,3198 cc,197 bhp @ 3000 rpm,470 Nm @ 1750 rpm,AWD
+1750,1750,1998 cc,248 bhp @ 5200 rpm,350 Nm @ 1450 rpm,AWD
+1751,1751,1493 cc,84 bhp @ 3750 rpm,230 Nm @ 1500 rpm,RWD
+1752,1752,1999 cc,150 bhp @ 6200 rpm,192 Nm @ 4000 rpm,FWD
+1753,1753,1591 cc,121 bhp @ 6300 rpm,158 Nm @ 4200 rpm,FWD
+1754,1754,999 cc,71 bhp @ 6250 rpm,96 Nm @ 3500 rpm,FWD
+1755,1755,2755 cc,172 bhp @ 3400 rpm,360 Nm @ 1200 rpm,RWD
+1756,1756,1373 cc,91 bhp @ 6000 rpm,130 Nm @ 4000 rpm,FWD
+1757,1757,1591 cc,121 bhp @ 6300 rpm,158 Nm @ 4200 rpm,FWD
+1758,1758,1497 cc,117 bhp @ 6600 rpm,145 Nm @ 4600 rpm,FWD
+1759,1759,2179 cc,120 bhp @ 4000 rpm,290 Nm @ 1800 rpm,RWD
+1760,1760,1197 cc,85 bhp @ 6000 rpm,114 Nm @ 4000 rpm,FWD
+1761,1761,1197 cc,89 bhp @ 6000 rpm,113 Nm @ 4400 rpm,FWD
+1762,1762,2179 cc,154 bhp @ 4000 rpm,400 Nm @ 1750 rpm,RWD
+1763,1763,2179 cc,138 bhp @ 3750 rpm,330 Nm @ 1600 rpm,FWD
+1764,1764,1248 cc,74 bhp @ 4000 rpm,190 Nm @ 2000 rpm,FWD
+1765,1765,1197 cc,81 bhp @ 6000 rpm,114 Nm @ 4000 rpm,FWD
+1766,1766,1969 cc,190 bhp @ 4250 rpm,400 Nm @ 1750 rpm,FWD
+1767,1767,1998 cc,228 bhp @ 5200 rpm,320 Nm @ 1450 rpm,FWD
+1768,1768,1582 cc,126 bhp @ 4000 rpm,260 Nm @ 1500 rpm,FWD
+1769,1769,4663 cc,453 bhp @ 5250 rpm,700 Nm @ 1800 rpm,RWD
+1770,1770,1198 cc,87 bhp @ 6000 rpm,110 Nm @ 4800 rpm,FWD
+1771,1771,1950 cc,241 bhp @ 4200 rpm,500 Nm @ 1600 rpm,AWD
+1772,1772,999 cc,124 bhp @ 6000 rpm,,FWD
+1773,1773,1248 cc,74 bhp @ 4000 rpm,190 Nm @ 2000 rpm,FWD
+1774,1774,1197 cc,85 bhp @ 6000 rpm,114 Nm @ 4000 rpm,FWD
+1775,1775,1451 cc,141 bhp @ 5000 rpm,250 Nm @ 1600 rpm,FWD
+1776,1776,2400 cc,215 bhp @ 4000 rpm,440 Nm @ 1500 rpm,AWD
+1777,1777,1995 cc,190 bhp @ 4000 rpm,400 Nm @ 1750 rpm,AWD
+1778,1778,2523 cc,75 bhp @ 3200 rpm,200 Nm @ 1400 rpm,RWD
+1779,1779,1969 cc,232 bhp @ 4250 rpm,480 Nm @ 1750 rpm,AWD
+1780,1780,1968 cc,190 bhp @ 3800 rpm,400 Nm @ 1750 rpm,FWD
+1781,1781,2143 cc,201 bhp @ 3800 rpm,500 Nm @ 1600 rpm,AWD
+1782,1782,1950 cc,192 bhp @ 3800 rpm,400 Nm @ 1600 rpm,RWD
+1783,1783,999 cc,67 bhp @ 5500 rpm,91 Nm @ 4250 rpm,FWD
+1784,1784,2143 cc,134 bhp @ 3600 rpm,300 Nm @ 1600 rpm,FWD
+1785,1785,1997 cc,150 bhp @ 5000 rpm,320 Nm @ 1500 rpm,AWD
+1786,1786,998 cc,67 bhp @ 6000 rpm,90 Nm @ 3500 rpm,FWD
+1787,1787,796 cc,47 bhp @ 6000 rpm,69 Nm @ 3500 rpm,FWD
+1788,1788,1997 cc,150 bhp @ 5000 rpm,300 Nm @ 1250 rpm,AWD
+1789,1789,1248 cc,89 bhp @ 4000 rpm,200 Nm @ 1750 rpm,FWD
+1790,1790,2477 cc,176 bhp @ 4000 rpm,350 Nm @ 1800 rpm,RWD
+1791,1791,2982 cc,169 bhp @ 3600 rpm,360 Nm @ 1400 rpm,RWD
+1792,1792,1197 cc,81 bhp @ 6000 rpm,114 Nm @ 4000 rpm,FWD
+1793,1793,1582 cc,126 bhp @ 4000 rpm,265 Nm @ 1900 rpm,FWD
+1794,1794,1591 cc,121 bhp @ 6300 rpm,158 Nm @ 4200 rpm,FWD
+1795,1795,2148 cc,170@3700,410@2000,RWD
+1796,1796,1950 cc,192 bhp @ 3800 rpm,400 Nm @ 1600 rpm,RWD
+1797,1797,1493 cc,100 bhp @ 3750 rpm,240 Nm @ 1600 rpm,RWD
+1798,1798,998 cc,67 bhp @ 6000 rpm,90 Nm @ 3500 rpm,FWD
+1799,1799,1956 cc,171 bhp @ 3750 rpm,350 Nm @ 1750 rpm,AWD
+1800,1800,1598 cc,118 bhp @ 3750 rpm,320 Nm @ 1750 rpm,FWD
+1801,1801,793 cc,46 bhp @ 3500 rpm,125 Nm @ 2000 rpm,FWD
+1802,1802,1061 cc,58@6000,77@4500,FWD
+1803,1803,2987 cc,235 bhp @ 4000 rpm,490 Nm @ 1800 rpm,RWD
+1804,1804,2995 cc,335 bhp @ 5300 rpm,450 Nm @ 1340 rpm,AWD
+1805,1805,1197 cc,80 bhp @ 5600 rpm,104 Nm @ 3100 rpm,FWD
+1806,1806,2393 cc,148 bhp @ 3400 rpm,343 Nm @ 1400 rpm,RWD
+1807,1807,1199 cc,89 bhp @ 6000 rpm,110 Nm @ 4800 rpm,FWD
+1808,1808,1248 cc,74 bhp @ 4000 rpm,190 Nm @ 2000 rpm,FWD
+1809,1809,1586 cc,102@5500,145@4200,FWD
+1810,1810,2179 cc,140 bhp @ 3750 rpm,330 Nm @ 2800 rpm,AWD
+1811,1811,1462 cc,103 bhp @ 6000 rpm,138 Nm @ 4400 rpm,FWD
+1812,1812,2179 cc,154 bhp @ 4000 rpm,400 Nm @ 1700 rpm,RWD
+1813,1813,1968 cc,150 bhp @ 3500 rpm,340 Nm @ 1750 rpm,FWD
+1814,1814,1995 cc,188 bhp @ 4000 rpm,400 Nm @ 1750 rpm,FWD
+1815,1815,999 cc,124 bhp @ 6000 rpm,,FWD
+1816,1816,1968 cc,177 bhp @ 4200 rpm,380 Nm @ 1750 rpm,FWD
+1817,1817,1332 cc,161 bhp @ 5500 rpm,250 Nm @ 1620 rpm,FWD
+1818,1818,1248 cc,89 bhp @ 4000 rpm,200 Nm @ 1750 rpm,FWD
+1819,1819,1794 cc,132@6000,170@4200,FWD
+1820,1820,1197 cc,83 bhp @ 6000 rpm,115 Nm @ 4000 rpm,FWD
+1821,1821,1197 cc,83 bhp @ 6000 rpm,115 Nm @ 4000 rpm,FWD
+1822,1822,2494 cc,102@5600,200@3400,FWD
+1823,1823,2179 cc,120 bhp @ 4000 rpm,280 Nm @ 1800 rpm,RWD
+1824,1824,1997 cc,138 bhp @ 3750 rpm,320 Nm @ 1600 rpm,FWD
+1825,1825,1197 cc,83 bhp @ 6000 rpm,115 Nm @ 4000 rpm,FWD
+1826,1826,1199 cc,89 bhp @ 6000 rpm,110 Nm @ 4800 rpm,FWD
+1827,1827,1493 cc,100 bhp @ 3750 rpm,240 Nm @ 1600 rpm,RWD
+1828,1828,1497 cc,118 bhp @ 6600 rpm,145 Nm @ 4600 rpm,FWD
+1829,1829,799 cc,53 bhp @ 5678 rpm,72 Nm @ 4386 rpm,FWD
+1830,1830,1197 cc,83 bhp @ 6000 rpm,115 Nm @ 4000 rpm,FWD
+1831,1831,1968 cc,188 bhp @ 4200 rpm,400 Nm @ 1750 rpm,FWD
+1832,1832,1968 cc,141 bhp @ 4000 rpm,320 Nm @ 1750 rpm,FWD
+1833,1833,1493 cc,113 bhp @ 4000 rpm,250 Nm @ 1500 rpm,FWD
+1834,1834,1493 cc,113 bhp @ 4000 rpm,250 Nm @ 1500 rpm,FWD
+1835,1835,2755 cc,174 bhp @ 3400 rpm,450 Nm @ 1600 rpm,RWD
+1836,1836,1197 cc,81 bhp @ 6000 rpm,114 Nm @ 4000 rpm,FWD
+1837,1837,1968 cc,190 bhp @ 3800 rpm,400 Nm @ 1750 rpm,FWD
+1838,1838,1497 cc,117 bhp @ 6600 rpm,145 Nm @ 4600 rpm,FWD
+1839,1839,2179 cc,153 bhp @ 3750 rpm,360 Nm @ 1750 rpm,FWD
+1840,1840,2993 cc,261 bhp @ 4000 rpm,620 Nm @ 2000 rpm,RWD
+1841,1841,1984 cc,241 bhp @ 5000 rpm,370 Nm @ 1600 rpm,FWD
+1842,1842,1497 cc,113 bhp @ 6300 rpm,144 Nm @ 4500 rpm,FWD
+1843,1843,799 cc,53 bhp @ 5678 rpm,72 Nm @ 4386 rpm,FWD
+1844,1844,1461 cc,84 bhp @ 3750 rpm,200 Nm @ 1900 rpm,FWD
+1845,1845,1598 cc,103 bhp @ 4400 rpm,250 Nm @ 1500 rpm,FWD
+1846,1846,1199 cc,89 bhp @ 6000 rpm,110 Nm @ 4800 rpm,FWD
+1847,1847,1497 cc,108 bhp @ 3750 rpm,260 Nm @ 1500 rpm,FWD
+1848,1848,1396 cc,89 bhp @ 4000 rpm,220 Nm @ 1500 rpm,FWD
+1849,1849,2179 cc,153 bhp @ 3750 rpm,360 Nm @ 1750 rpm,FWD
+1850,1850,1248 cc,89 bhp @ 4000 rpm,200 Nm @ 1750 rpm,FWD
+1851,1851,1582 cc,126 bhp @ 4000 rpm,260 Nm @ 1900 rpm,FWD
+1852,1852,1497 cc,117 bhp @ 6600 rpm,145 Nm @ 4600 rpm,FWD
+1853,1853,1493 cc,84 bhp @ 3750 rpm,230 Nm @ 1500 rpm,RWD
+1854,1854,1248 cc,89 bhp @ 4000 rpm,200 Nm @ 1750 rpm,FWD
+1855,1855,1984 cc,150 bhp @ 3500 rpm,350 Nm @ 1500 rpm,FWD
+1856,1856,998 cc,67 bhp @ 6000 rpm,90 Nm @ 3500 rpm,FWD
+1857,1857,1798 cc,177 bhp @ 5100 rpm,250 Nm @ 1250 rpm,FWD
+1858,1858,1497 cc,118@6600,146@4600,FWD
+1859,1859,1120 cc,71 bhp @ 4000 rpm,180 Nm @ 1750 rpm,FWD
+1860,1860,999 cc,124 bhp @ 6000 rpm,,FWD
+1861,1861,2755 cc,172 bhp @ 3400 rpm,360 Nm @ 1200 rpm,RWD
+1862,1862,1248 cc,75@4000,190@2000,FWD
+1863,1863,1598 cc,104 bhp @ 5250 rpm,153 Nm @ 3800 rpm,FWD
+1864,1864,1591 cc,121 bhp @ 6300 rpm,158 Nm @ 4200 rpm,FWD
+1865,1865,796 cc,47 bhp @ 6000 rpm,69 Nm @ 3500 rpm,FWD
+1866,1866,2993 cc,258 bhp @ 4000 rpm,560 Nm @ 1500 rpm,AWD
+1867,1867,1582 cc,126 bhp @ 4000 rpm,260 Nm @ 1900 rpm,FWD
+1868,1868,1498 cc,99 bhp @ 3750 rpm,215 Nm @ 1750 rpm,FWD
+1869,1869,1496 cc,114 bhp @ 4000 rpm,270 Nm @ 1750 rpm,FWD
+1870,1870,1968 cc,190 bhp @ 3800 rpm,400 Nm @ 1750 rpm,FWD
+1871,1871,1493 cc,113 bhp @ 4000 rpm,250 Nm @ 1500 rpm,FWD
+1872,1872,1493 cc,113 bhp @ 4000 rpm,250 Nm @ 1500 rpm,FWD
+1873,1873,1197 cc,82 bhp @ 6000 rpm,114 Nm @ 4000 rpm,FWD
+1874,1874,2494 cc,101 bhp @ 3600 rpm,200 Nm @ 1200 rpm,RWD
+1875,1875,796 cc,47 bhp @ 6000 rpm,69 Nm @ 3500 rpm,FWD
+1876,1876,796 cc,47 bhp @ 6000 rpm,69 Nm @ 3500 rpm,FWD
+1877,1877,998 cc,67 bhp @ 6200 rpm,90 Nm @ 3500 rpm,FWD
+1878,1878,1582 cc,126 bhp @ 4000 rpm,260 Nm @ 1500 rpm,FWD
+1879,1879,2993 cc,261 bhp @ 4000 rpm,620 Nm @ 2000 rpm,RWD
+1880,1880,998 cc,68@6200,90@3500,FWD
+1881,1881,1498 cc,89 bhp @ 4200 rpm,230 Nm @ 1500 rpm,FWD
+1882,1882,1248 cc,89 bhp @ 4000 rpm,200 Nm @ 1750 rpm,FWD
+1883,1883,1995 cc,190 bhp @ 4000 rpm,400 Nm @ 1750 rpm,AWD
+1884,1884,1968 cc,174 bhp @ 4200 rpm,380 Nm @ 1750 rpm,AWD
+1885,1885,1461 cc,84 bhp @ 3750 rpm,200 Nm @ 1900 rpm,FWD
+1886,1886,814 cc,55 bhp @ 5500 rpm,75 Nm @ 4000 rpm,FWD
+1887,1887,1248 cc,74 bhp @ 4000 rpm,190 Nm @ 2000 rpm,FWD
+1888,1888,2179 cc,120 bhp @ 4000 rpm,280 Nm @ 1800 rpm,RWD
+1889,1889,2143 cc,134 bhp @ 3600 rpm,300 Nm @ 1600 rpm,FWD
+1890,1890,1199 cc,84 bhp @ 6000 rpm,114 Nm @ 3500 rpm,FWD
+1891,1891,2996 cc,362 bhp @ 5250 rpm,500 Nm @ 1800 rpm,RWD
+1892,1892,1997 cc,150 bhp @ 5000 rpm,300 Nm @ 1250 rpm,AWD
+1893,1893,1086 cc,67@5500,99@2800,FWD
+1894,1894,3198 cc,197 bhp @ 3000 rpm,470 Nm @ 1750 rpm,AWD
+1895,1895,998 cc,67 bhp @ 6000 rpm,90 Nm @ 3500 rpm,FWD
+1896,1896,995 cc,62 bhp @ 5400 rpm,90 Nm @ 4200 rpm,FWD
+1897,1897,1197 cc,82 bhp @ 6000 rpm,114 Nm @ 4000 rpm,FWD
+1898,1898,1997 cc,154 bhp @ 6500 rpm,190 Nm @ 4300 rpm,FWD
+1899,1899,999 cc,124 bhp @ 6000 rpm,,FWD
+1900,1900,1197 cc,83 bhp @ 6000 rpm,115 Nm @ 4000 rpm,FWD
+1901,1901,1968 cc,174 bhp @ 4200 rpm,380 Nm @ 1750 rpm,AWD
+1902,1902,796 cc,47 bhp @ 6000 rpm,69 Nm @ 3500 rpm,FWD
+1903,1903,999 cc,67 bhp @ 5500 rpm,91 Nm @ 4250 rpm,FWD
+1904,1904,999 cc,124 bhp @ 6000 rpm,,FWD
+1905,1905,1498 cc,99 bhp @ 3750 rpm,205 Nm @ 1750 rpm,FWD
+1906,1906,1595 cc,120 bhp @ 5000 rpm,200 Nm @ 1250 rpm,FWD
+1907,1907,999 cc,124 bhp @ 6000 rpm,,FWD
+1908,1908,1120 cc,71 bhp @ 4000 rpm,180 Nm @ 1750 rpm,FWD
+1909,1909,1497 cc,117 bhp @ 6600 rpm,145 Nm @ 4600 rpm,FWD
+1910,1910,1591 cc,122 bhp @ 6400 rpm,154 Nm @ 4850 rpm,FWD
+1911,1911,1395 cc,148 bhp @ 5000 rpm,250 Nm @ 1500 rpm,FWD
+1912,1912,1582 cc,126 bhp @ 4000 rpm,260 Nm @ 1900 rpm,FWD
+1913,1913,2925 cc,282 bhp @ 3600 rpm,600 Nm @ 1600 rpm,RWD
+1914,1914,1248 cc,74 bhp @ 4000 rpm,190 Nm @ 2000 rpm,FWD
+1915,1915,2143 cc,204 bhp @ 4200 rpm,500 Nm @ 1600 rpm,RWD
+1916,1916,1968 cc,141 bhp @ 3500 rpm,320 Nm @ 1750 rpm,FWD
+1917,1917,1086 cc,68 bhp @ 5500 rpm,99 Nm @ 4500 rpm,FWD
+1918,1918,1248 cc,89 bhp @ 4000 rpm,200 Nm @ 1750 rpm,FWD
+1919,1919,3198 cc,197 bhp @ 3000 rpm,470 Nm @ 1750 rpm,AWD
+1920,1920,1999 cc,177 bhp @ 4000 rpm,430 Nm @ 1750 rpm,RWD
+1921,1921,2755 cc,174 bhp @ 3400 rpm,450 Nm @ 1600 rpm,AWD
+1922,1922,1798 cc,138 bhp @ 6400 rpm,173 Nm @ 4000 rpm,FWD
+1923,1923,1199 cc,85 bhp @ 6000 rpm,113 Nm @ 3300 rpm,FWD
+1924,1924,1969 cc,190 bhp @ 4000 rpm,400 Nm @ 1750 rpm,AWD
+1925,1925,1462 cc,103 bhp @ 6000 rpm,138 Nm @ 4400 rpm,FWD
+1926,1926,1498 cc,99 bhp @ 3600 rpm,200 Nm @ 1750 rpm,FWD
+1927,1927,1197 cc,80@5200,111@4000,FWD
+1928,1928,1248 cc,74 bhp @ 4000 rpm,190 Nm @ 2000 rpm,FWD
+1929,1929,999 cc,124 bhp @ 6000 rpm,,FWD
+1930,1930,796 cc,47 bhp @ 6000 rpm,69 Nm @ 3500 rpm,FWD
+1931,1931,1582 cc,126 bhp @ 4000 rpm,260 Nm @ 1900 rpm,FWD
+1932,1932,814 cc,55 bhp @ 5500 rpm,75 Nm @ 4000 rpm,FWD
+1933,1933,1968 cc,190 bhp @ 3800 rpm,400 Nm @ 1750 rpm,FWD
+1934,1934,2179 cc,140 bhp @ 3750 rpm,320 Nm @ 1500 rpm,RWD
+1935,1935,998 cc,58 bhp @ 6200 rpm,77 Nm @ 3500 rpm,FWD
+1936,1936,1198 cc,108 bhp @ 5000 rpm,170 Nm @ 1750 rpm,FWD
+1937,1937,1497 cc,78@5500,125@2700,FWD
+1938,1938,998 cc,67 bhp @ 6000 rpm,90 Nm @ 3500 rpm,FWD
+1939,1939,1956 cc,169 bhp @ 3750 rpm,350 Nm @ 1750 rpm,FWD
+1940,1940,1493 cc,70 bhp @ 3600 rpm,195 Nm @ 1400 rpm,RWD
+1941,1941,1582 cc,126 bhp @ 4000 rpm,265 Nm @ 1900 rpm,FWD
+1942,1942,998 cc,58 bhp @ 6200 rpm,77 Nm @ 3500 rpm,FWD
+1943,1943,1198 cc,77 bhp @ 3750 rpm,190 Nm @ 1750 rpm,FWD
+1944,1944,1498 cc,99 bhp @ 3600 rpm,200 Nm @ 1750 rpm,FWD
+1945,1945,1493 cc,70 bhp @ 3600 rpm,195 Nm @ 1400 rpm,RWD
+1946,1946,1582 cc,126 bhp @ 4000 rpm,260 Nm @ 1900 rpm,FWD
+1947,1947,1198 cc,87 bhp @ 6000 rpm,109 Nm @ 4500 rpm,FWD
+1948,1948,998 cc,118 bhp @ 6000 rpm,172 Nm @ 1500 rpm,FWD
+1949,1949,1582 cc,126 bhp @ 4000 rpm,260 Nm @ 1500 rpm,FWD
+1950,1950,1086 cc,67@5500,99@2800,FWD
+1951,1951,1462 cc,103 bhp @ 6000 rpm,138 Nm @ 4400 rpm,FWD
+1952,1952,1373 cc,94 bhp @ 6000 rpm,130 Nm @ 4000 rpm,FWD
+1953,1953,2993 cc,258 bhp @ 4000 rpm,560 Nm @ 1500 rpm,AWD
+1954,1954,999 cc,67 bhp @ 5500 rpm,91 Nm @ 4250 rpm,FWD
+1955,1955,1197 cc,83 bhp @ 6000 rpm,115 Nm @ 4000 rpm,FWD
+1956,1956,1197 cc,82 bhp @ 6000 rpm,115 Nm @ 4000 rpm,FWD
+1957,1957,999 cc,67 bhp @ 5500 rpm,91 Nm @ 4250 rpm,FWD
+1958,1958,2694 cc,164 bhp @ 5200 rpm,245 Nm @ 4000 rpm,RWD
+1959,1959,1498 cc,98 bhp @ 6000 rpm,134 Nm @ 4000 rpm,FWD
+1960,1960,2143 cc,201 bhp @ 3800 rpm,500 Nm @ 1600 rpm,AWD
+1961,1961,1198 cc,87 bhp @ 6000 rpm,109 Nm @ 4500 rpm,FWD
+1962,1962,1248 cc,89 bhp @ 4000 rpm,200 Nm @ 1750 rpm,FWD
+1963,1963,1197 cc,85 bhp @ 6000 rpm,114 Nm @ 4000 rpm,FWD
+1964,1964,998 cc,68@6200,90@3500,FWD
+1965,1965,1248 cc,89 bhp @ 4000 rpm,200 Nm @ 1750 rpm,FWD
+1966,1966,1197 cc,85 bhp @ 6000 rpm,114 Nm @ 4000 rpm,FWD
+1967,1967,2143 cc,136 bhp @ 3200 rpm,300 Nm @ 1400 rpm,FWD
+1968,1968,2184 cc,130 bhp @ 3750 rpm,300 Nm @ 1600 rpm,AWD
+1969,1969,1999 cc,236 bhp @ 5500 rpm,340 Nm @ 1750 rpm,AWD
+1970,1970,1498 cc,89 bhp @ 3750 rpm,204 Nm @ 2000 rpm,FWD
+1971,1971,1950 cc,192 bhp @ 3800 rpm,400 Nm @ 1600 rpm,RWD
+1972,1972,2993 cc,289 bhp @ 4000 rpm,600 Nm @ 2000 rpm,AWD
+1973,1973,2143 cc,201 bhp @ 3800 rpm,500 Nm @ 1600 rpm,AWD
+1974,1974,1991 cc,201 bhp @ 5800 rpm,300 Nm @ 1200 rpm,RWD
+1975,1975,1248 cc,89 bhp @ 4000 rpm,200 Nm @ 1750 rpm,FWD
+1976,1976,1197 cc,82 bhp @ 6000 rpm,113 Nm @ 4200 rpm,FWD
+1977,1977,1498 cc,99 bhp @ 3750 rpm,205 Nm @ 1750 rpm,FWD
+1978,1978,1950 cc,192 bhp @ 3800 rpm,400 Nm @ 1600 rpm,AWD
+1979,1979,1248 cc,75@4000,190@2000,FWD
+1980,1980,2993 cc,258 bhp @ 4000 rpm,560 Nm @ 1500 rpm,AWD
+1981,1981,999 cc,124 bhp @ 6000 rpm,,FWD
+1982,1982,999 cc,67 bhp @ 5500 rpm,91 Nm @ 4250 rpm,FWD
+1983,1983,1598 cc,105 bhp @ 4400 rpm,250 Nm @ 2500 rpm,FWD
+1984,1984,1248 cc,74 bhp @ 4000 rpm,190 Nm @ 2000 rpm,FWD
+1985,1985,1198 cc,87 bhp @ 6000 rpm,109 Nm @ 4500 rpm,FWD
+1986,1986,1197 cc,81 bhp @ 6000 rpm,114 Nm @ 4000 rpm,FWD
+1987,1987,998 cc,58 bhp @ 5500 rpm,78 Nm @ 3500 rpm,FWD
+1988,1988,1498 cc,89 bhp @ 3750 rpm,204 Nm @ 2000 rpm,FWD
+1989,1989,2143 cc,134 bhp @ 3600 rpm,300 Nm @ 1600 rpm,FWD
+1990,1990,998 cc,59@6200,77@3500,FWD
+1991,1991,998 cc,58 bhp @ 6200 rpm,77 Nm @ 3500 rpm,FWD
+1992,1992,2755 cc,174 bhp @ 3400 rpm,450 Nm @ 1600 rpm,AWD
+1993,1993,1998 cc,136@5600,182@4000,FWD
+1994,1994,1248 cc,89 bhp @ 4000 rpm,200 Nm @ 1750 rpm,FWD
+1995,1995,796 cc,47 bhp @ 6000 rpm,69 Nm @ 3500 rpm,FWD
+1996,1996,1120 cc,71 bhp @ 4000 rpm,160 Nm @ 1500 rpm,FWD
+1997,1997,1248 cc,89 bhp @ 4000 rpm,200 Nm @ 1750 rpm,FWD
+1998,1998,1497 cc,116 bhp @ 6600 rpm,146 Nm @ 4800 rpm,FWD
+1999,1999,1373 cc,91 bhp @ 6000 rpm,130 Nm @ 4000 rpm,FWD
+2000,2000,1197 cc,81 bhp @ 6000 rpm,114 Nm @ 4000 rpm,FWD
+2001,2001,1368 cc,161 bhp @ 5500 rpm,250 Nm @ 2500 rpm,FWD
+2002,2002,1956 cc,171 bhp @ 3750 rpm,350 Nm @ 1750 rpm,FWD
+2003,2003,1497 cc,116 bhp @ 6600 rpm,146 Nm @ 4800 rpm,FWD
+2004,2004,1598 cc,103 bhp @ 5250 rpm,153 Nm @ 3800 rpm,FWD
+2005,2005,2987 cc,198@4000,456@1400,RWD
+2006,2006,1197 cc,85 bhp @ 6000 rpm,114 Nm @ 4000 rpm,FWD
+2007,2007,998 cc,67 bhp @ 6000 rpm,90 Nm @ 3500 rpm,FWD
+2008,2008,1950 cc,192 bhp @ 3800 rpm,400 Nm @ 1600 rpm,RWD
+2009,2009,2993 cc,258 bhp @ 4000 rpm,560 Nm @ 1500 rpm,AWD
+2010,2010,999 cc,124 bhp @ 6000 rpm,,FWD
+2011,2011,1395 cc,148 bhp @ 5000 rpm,250 Nm @ 1500 rpm,FWD
+2012,2012,999 cc,67 bhp @ 5500 rpm,91 Nm @ 4250 rpm,FWD
+2013,2013,1995 cc,190 bhp @ 4000 rpm,400 Nm @ 1750 rpm,AWD
+2014,2014,1248 cc,74 bhp @ 4000 rpm,190 Nm @ 2000 rpm,FWD
+2015,2015,1995 cc,112 bhp @,270 Nm @ 1750 rpm,FWD
+2016,2016,2179 cc,153 bhp @ 3750 rpm,360 Nm @ 1750 rpm,FWD
+2017,2017,2179 cc,140 bhp @ 3750 rpm,330 Nm @ 2800 rpm,FWD
+2018,2018,1493 cc,70 bhp @ 3600 rpm,195 Nm @ 1400 rpm,RWD
+2019,2019,1498 cc,89 bhp @ 3750 rpm,204 Nm @ 2000 rpm,FWD
+2020,2020,2993 cc,258 bhp @ 4000 rpm,560 Nm @ 1500 rpm,AWD
+2021,2021,1493 cc,113 bhp @ 4000 rpm,250 Nm @ 1500 rpm,FWD
+2022,2022,2755 cc,174 bhp @ 3400 rpm,420 Nm @ 1600 rpm,RWD
+2023,2023,1353 cc,138 bhp @ 6000 rpm,242 Nm @ 1500 rpm,FWD
+2024,2024,2179 cc,138 bhp @ 3750 rpm,330 Nm @ 1600 rpm,AWD
+2025,2025,2179 cc,138 bhp @ 4000 rpm,320 Nm @ 1700 rpm,RWD
+2026,2026,999 cc,124 bhp @ 6000 rpm,,FWD
+2027,2027,1197 cc,80 bhp @ 5600 rpm,104 Nm @ 3100 rpm,FWD
+2028,2028,814 cc,55 bhp @ 5500 rpm,75 Nm @ 4000 rpm,FWD
+2029,2029,1498 cc,99 bhp @ 3600 rpm,200 Nm @ 1750 rpm,FWD
+2030,2030,1364 cc,67 bhp @ 3800 rpm,170 Nm @ 1800 rpm,FWD
+2031,2031,998 cc,118 bhp @ 6000 rpm,172 Nm @ 1500 rpm,FWD
+2032,2032,1248 cc,74 bhp @ 4000 rpm,190 Nm @ 2000 rpm,FWD
+2033,2033,1997 cc,247 bhp @ 5500 rpm,365 Nm @ 1500 rpm,AWD
+2034,2034,1991 cc,184 bhp @ 5500 rpm,300 Nm @ 1200 rpm,RWD
+2035,2035,1248 cc,74 bhp @ 4000 rpm,190 Nm @ 2000 rpm,FWD
+2036,2036,998 cc,68@6200,90@3500,FWD
+2037,2037,2982 cc,171@3600,343@1400,AWD
+2038,2038,1497 cc,117 bhp @ 6600 rpm,145 Nm @ 4600 rpm,FWD
+2039,2039,1368 cc,160 bhp @ 5500 rpm,250 Nm @ 2500 rpm,FWD
+2040,2040,1595 cc,120 bhp @ 5000 rpm,200 Nm @ 1250 rpm,FWD
+2041,2041,1497 cc,117 bhp @ 6600 rpm,145 Nm @ 4600 rpm,FWD
+2042,2042,2143 cc,168 bhp @ 3000 rpm,400 Nm @ 1400 rpm,RWD
+2043,2043,1199 cc,85 bhp @ 6000 rpm,113 Nm @ 5000 rpm,FWD
+2044,2044,2143 cc,168 bhp @ 3000 rpm,400 Nm @ 1400 rpm,RWD
+2045,2045,1997 cc,197 bhp @ 5000 rpm,380 Nm @ 1750 rpm,FWD
+2046,2046,998 cc,58 bhp @ 6200 rpm,77 Nm @ 3500 rpm,FWD
+2047,2047,1248 cc,89 bhp @ 4000 rpm,200 Nm @ 1750 rpm,FWD
+2048,2048,1497 cc,117 bhp @ 6600 rpm,145 Nm @ 4600 rpm,FWD
+2049,2049,1120 cc,70 bhp @ 4000 rpm,160 Nm @ 1500 rpm,FWD
+2050,2050,2996 cc,329 bhp @ 5250 rpm,480 Nm @ 1600 rpm,AWD
+2051,2051,1591 cc,122 bhp @ 6400 rpm,154 Nm @ 4850 rpm,FWD
+2052,2052,1462 cc,103 bhp @ 6000 rpm,138 Nm @ 4400 rpm,FWD
+2053,2053,1396 cc,90@4000,220@1750,FWD
+2054,2054,1197 cc,85 bhp @ 6000 rpm,113 Nm @ 4500 rpm,FWD
+2055,2055,2179 cc,138 bhp @ 3750 rpm,330 Nm @ 1600 rpm,FWD
+2056,2056,814 cc,55 bhp @ 5500 rpm,75 Nm @ 4000 rpm,FWD
+2057,2057,1196 cc,70 bhp @ 6250 rpm,102 Nm @ 4000 rpm,FWD
+2058,2058,1995 cc,188 bhp @ 4000 rpm,400 Nm @ 1750 rpm,RWD
+2059,2059,1493 cc,70 bhp @ 3600 rpm,195 Nm @ 1400 rpm,RWD
