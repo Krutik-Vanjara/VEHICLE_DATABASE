@@ -1,32 +1,87 @@
- # Information System Project
+ # Car Database Relational Schema
 
-## Overview
+This repository contains the relational schema for a car database. The schema is designed to store information about cars, their features, specifications, dimensions, and ownership details.
 
-This project aims to design, secure, optimize, and automate the management of an Information System (IS) for a used car dataset. The project involves preparing a relational schema, implementing security measures, optimizing queries, and automating tasks. The dataset contains information about used cars, which can be used for various purposes such as price prediction to exemplify the use of linear regression in Machine Learning.
+## Table of Contents
 
-## Dataset Details
+- [Entities and Tables](#entities-and-tables)
+- [Relational Schema Design](#relational-schema-design)
+  - [Cars Table](#cars-table)
+  - [Features Table](#features-table)
+  - [Specifications Table](#specifications-table)
+  - [Dimensions Table](#dimensions-table)
+  - [Ownership Table](#ownership-table)
+- [SQL Commands to Create Tables](#sql-commands-to-create-tables)
+- [Representing in GUI](#representing-in-gui)
+- [Example GUI Layout](#example-gui-layout)
 
-The dataset contains the following columns:
-- `name`
-- `year`
-- `selling_price`
-- `km_driven`
-- `fuel`
-- `seller_type`
-- `transmission`
-- `Owner`
+## Entities and Tables
 
-There are four different CSV files included in this dataset.
+The database is organized into the following entities and tables:
 
-## Project Structure
+1. **Cars**
+2. **Features**
+3. **Specifications**
+4. **Dimensions**
+5. **Ownership**
 
-The project is organized into the following directories:
-- `/data`: Contains the CSV files and any other data-related files.
-- `/sql`: Contains SQL scripts for creating tables, queries, triggers, and procedures.
-- `/docs`: Contains documentation, reports, and any other project-related documents.
-- `/src`: Contains source code for any automation scripts or the graphical interface.
-- `/tests`: Contains test cases and scripts for testing the database and application.
+## Relational Schema Design
 
-## Create Users and Roles:
-   - Create the necessary users for managing your information system (e.g., administrator, manager, regular user).
-   - Assign appropriate privileges to each user according to their role (e.g., read-only, modify, delete).
+### Cars Table
+
+Stores basic information about each car.
+
+- **Columns:**
+  - `CAR_ID` (Primary Key)
+  - `MAKE`
+  - `MODEL`
+  - `PRICE`
+  - `YEAR`
+  - `FUEL_TYPE`
+  - `LOCATION`
+  - `TRANSMISSION`
+
+### Features Table
+
+Stores additional features of each car.
+
+- **Columns:**
+  - `FEATURE_ID` (Primary Key)
+  - `CAR_ID` (Foreign Key)
+  - `COLOR`
+  - `SEATING_CAPACITY`
+  - `FUEL_TANK_CAPACITY`
+
+### Specifications Table
+
+Stores technical specifications of each car.
+
+- **Columns:**
+  - `SPEC_ID` (Primary Key)
+  - `CAR_ID` (Foreign Key)
+  - `ENGINE`
+  - `MAX_POWER`
+  - `MAX_TORQUE`
+  - `DRIVETRAIN`
+
+### Dimensions Table
+
+Stores dimensional details of each car.
+
+- **Columns:**
+  - `DIMENSION_ID` (Primary Key)
+  - `CAR_ID` (Foreign Key)
+  - `LENGTH`
+  - `WIDTH`
+  - `HEIGHT`
+
+### Ownership Table
+
+Stores ownership and seller information of each car.
+
+- **Columns:**
+  - `OWNERSHIP_ID` (Primary Key)
+  - `CAR_ID` (Foreign Key)
+  - `OWNER`
+  - `SELLER_TYPE`
+  - `KILOMETER`
