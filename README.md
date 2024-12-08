@@ -1,6 +1,6 @@
  # Car Database Relational Schema
 
-This repository contains the relational schema for a car database. The schema is designed to store information about cars, their features, specifications, dimensions, and ownership details.
+This Branch contains the relational schema for a car database. The schema is designed to store information about cars, their features, specifications, dimensions, and ownership details.
 
 ## Table of Contents
 
