@@ -29,12 +29,12 @@ GRANT ALL ON CarFeatures TO C##admin_role;
 GRANT ALL ON CarOwnership TO C##admin_role;
 GRANT ALL ON CarDimensions TO C##admin_role;
 
--- Manager Role: Modify access (read, insert, update, delete) but no DDL permissions
-GRANT SELECT, INSERT, UPDATE, DELETE ON CarDetails TO C##manager_role;
-GRANT SELECT, INSERT, UPDATE, DELETE ON CarSpecifications TO C##manager_role;
-GRANT SELECT, INSERT, UPDATE, DELETE ON CarFeatures TO C##manager_role;
-GRANT SELECT, INSERT, UPDATE, DELETE ON CarOwnership TO C##manager_role;
-GRANT SELECT, INSERT, UPDATE, DELETE ON CarDimensions TO C##manager_role;
+-- Manager Role: Modify access (read, insert, update) but no DDL permissions
+GRANT SELECT, INSERT, UPDATE ON CarDetails TO C##manager_role;
+GRANT SELECT, INSERT, UPDATE ON CarSpecifications TO C##manager_role;
+GRANT SELECT, INSERT, UPDATE ON CarFeatures TO C##manager_role;
+GRANT SELECT, INSERT, UPDATE ON CarOwnership TO C##manager_role;
+GRANT SELECT, INSERT, UPDATE ON CarDimensions TO C##manager_role;
 
 -- Regular Role: Read-only access
 GRANT SELECT ON CarDetails TO C##regular_role;
