@@ -11,9 +11,7 @@ This Branch contains the relational schema for a car database. The schema is des
   - [Specifications Table](#specifications-table)
   - [Dimensions Table](#dimensions-table)
   - [Ownership Table](#ownership-table)
-- [SQL Commands to Create Tables](#sql-commands-to-create-tables)
-- [Representing in GUI](#representing-in-gui)
-- [Example GUI Layout](#example-gui-layout)
+
 
 ## Entities and Tables
 
