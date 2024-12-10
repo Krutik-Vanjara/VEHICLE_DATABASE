@@ -1,7 +1,7 @@
 # Features = All chapters
 
 ## This branch contains all code and queries related to the chapters.
-- [Chapter 1: Preparing Your Relational Schema](# chapter-1-preparing-your-relational-schema)
+- [Chapter 1: Preparing Your Relational Schema](#chapter-1-preparing-your-relational-schema)
 - [Chapter 2]()
 - [Chapter 3]()
 - [Chapter 4]()
