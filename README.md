@@ -90,7 +90,40 @@ Columns:
 # A new user C##car_schema is created and granted DBA privileges.
 # The session is set to use the C##car_schema schema for creating tables.
 
-## Constraints
-# Primary keys ensure uniqueness for each record.
-# Foreign keys maintain referential integrity between tables.
-# Check constraints ensure valid data entry for Price and Year.
+Constraints
+ Primary keys ensure uniqueness for each record.
+ Foreign keys maintain referential integrity between tables.
+ Check constraints ensure valid data entry for Price and Year.
+
+
+## Chapter 2
+
+User and Role Management for Car Management System
+Overview
+This section outlines the user and role management for the car management system, ensuring that different users have appropriate access levels to the database tables. The system includes three types of users: admin, manager, and regular users, each with specific roles and permissions.
+
+Users and Roles
+Admin User (C##admin_user)
+
+Role: C##admin_role
+Permissions: Full access to all tables (CarDetails, CarSpecifications, CarFeatures, CarOwnership, CarDimensions).
+Manager User (C##manager_user)
+
+Role: C##manager_role
+Permissions: Modify access (read, insert, update) to all tables, but no Data Definition Language (DDL) permissions.
+Regular User (C##regular_user)
+
+Role: C##regular_role
+Permissions: Read-only access to all tables.
+Role Creation and Privileges
+Admin Role (C##admin_role): Granted full access to all tables.
+Manager Role (C##manager_role): Granted select, insert, and update privileges on all tables.
+Regular Role (C##regular_role): Granted select privileges on all tables.
+Assigning Roles to Users
+C##admin_role is assigned to C##admin_user.
+C##manager_role is assigned to C##manager_user.
+C##regular_role is assigned to C##regular_user.
+Password Policy
+The default profile is altered to set the password lifetime to 90 days, ensuring that passwords expire and need to be changed periodically.
+Views for Restricted Access
+A view CarDetails_View is created to restrict access to only specific columns (Car_ID, Make, Model) for users assigned to the C##regular_role. This ensures that the underlying table remains secure, with access to other columns restricted.
