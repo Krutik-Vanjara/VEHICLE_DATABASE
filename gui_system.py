@@ -1,156 +1,202 @@
 import cx_Oracle
-import customtkinter as ctk
-from tkinter import messagebox
-from tkinter import ttk
-from PIL import Image, ImageTk
-import pandas as pd
+import tkinter as tk
+from tkinter import ttk, messagebox, filedialog
+import csv
 
-# Oracle Database Connection Function
-def connect_to_database():
-    try:
-        # Replace these details with your database credentials
-        connection = cx_Oracle.connect(
-            user="system",
-            password="12345",
-            dsn="localhost/XE"  # Replace with your database host and service name
-        )
-        return connection
-    except cx_Oracle.Error as e:
-        messagebox.showerror("Database Connection Error", str(e))
-        return None
+# Connection parameters
+dsn_tns = cx_Oracle.makedsn('localhost', 1521, service_name='XE')
+connection = cx_Oracle.connect(user='C##admin_user', password='password', dsn=dsn_tns)
 
-# Function to fetch car data from the database
-def fetch_car_data():
-    connection = connect_to_database()
-    if not connection:
-        return []
+# Create a cursor object
+cursor = connection.cursor()
+
+# Execute a query to fetch all car details
+query = """
+    SELECT Car_ID, Make, Model, Price, Year, Fuel_Type, Location, Transmission
+    FROM C##car_schema.CarDetails
+"""
+cursor.execute(query)
+car_details = cursor.fetchall()
+
+# Function to fetch columns for filtering
+def fetch_columns_for_filtering(event=None):
     try:
-        cursor = connection.cursor()
         cursor.execute("""
-            SELECT CAR_ID, MAKE, MODEL, PRICE, YEAR, FUEL_TYPE, LOCATION,TRANSMISSION
-            FROM CARDETAILS  -- Replace with your actual table name
+            SELECT COLUMN_NAME 
+            FROM ALL_TAB_COLUMNS 
+            WHERE TABLE_NAME = 'CARDETAILS' 
+            AND OWNER = 'C##CAR_SCHEMA'
         """)
-        data = cursor.fetchall()  # Fetch all rows from the query result
-        connection.close()
-        return data
-    except cx_Oracle.Error as e:
-        messagebox.showerror("Database Query Error", str(e))
-        return []
+        columns = cursor.fetchall()
+        
+        if not columns:
+            messagebox.showinfo("No Data", "No columns found to fetch.")
+            return
 
-# Function to handle login logic
-def login():
-    role = role_var.get()
-    username = username_entry.get()
-    password = password_entry.get()
-
-    if username == "admin" and password == "password" and role == "Admin":
-        configure_dashboard("Admin")
-    elif username == "manager" and password == "password" and role == "Manager":
-        configure_dashboard("Manager")
-    elif username == "user" and password == "password" and role == "User":
-        configure_dashboard("User")
-    else:
-        messagebox.showerror("Login Error", "Invalid login credentials.")
-
-# Function to reset and show the login page
-def show_login_page():
-    heading_label.configure(text="Car Database")
-    for frame in [admin_dashboard_frame, manager_dashboard_frame, user_dashboard_frame]:
-        frame.pack_forget()
-    login_frame.pack(fill="both", expand=True)
-
-# Function to configure dashboards dynamically
-def configure_dashboard(role):
-    login_frame.pack_forget()
-    heading_label.configure(text=f"{role} Dashboard")
-
-    if role == "Admin":
-        frame = admin_dashboard_frame
-    elif role == "Manager":
-        frame = manager_dashboard_frame
-    else:
-        frame = user_dashboard_frame
-
-    for child in frame.winfo_children():
-        child.destroy()  # Clear previous widgets
-
-    # Add common widgets
-    ctk.CTkButton(frame, text="Search", command=lambda: search_data(frame)).pack(pady=10)
-    search_entry = ctk.CTkEntry(frame, placeholder_text="Search by Make or Model")
-    search_entry.pack(pady=10)
-    create_table_view(frame, ["CAR_ID", "MAKE", "MODEL", "PRICE", "YEAR", "FUEL_TYPE", "LOCATION", "TRANSMISSION"])
-    ctk.CTkButton(frame, text="Generate Report", command=lambda: generate_report(fetch_car_data())).pack(pady=10)
-    ctk.CTkButton(frame, text="Logout", command=show_login_page).pack(pady=10)
-    frame.search_entry = search_entry
-    frame.pack(fill="both", expand=True)
-
-# Function to search and display data in a table
-def search_data(frame):
-    query = frame.search_entry.get().lower()
-    data = fetch_car_data()
-
-    # Filter data based on query
-    filtered_data = [row for row in data if query in row[1].lower() or query in row[2].lower()]
-
-    # Clear previous treeview data
-    for row in frame.tree.get_children():
-        frame.tree.delete(row)
-
-    # Insert new data into treeview
-    for row in filtered_data:
-        frame.tree.insert("", "end", values=row)
-
-# Function to add treeview for displaying data
-def create_table_view(frame, columns):
-    frame.tree = ttk.Treeview(frame, columns=columns, show='headings')
-    for col in columns:
-        frame.tree.heading(col, text=col)
-        frame.tree.column(col, width=150)
-    frame.tree.pack(fill="both", expand=True)
-
-# Function to generate an Excel report
-def generate_report(table_data, filename="Car_Report.xlsx"):
-    df = pd.DataFrame(table_data, columns=["CAR_ID", "MAKE", "MODEL", "PRICE", "YEAR", "FUEL_TYPE", "LOCATION", "TRANSMISSION"])
-    try:
-        df.to_excel(filename, index=False, engine="openpyxl")
-        messagebox.showinfo("Report Generated", f"Report has been saved as {filename}")
+        column_names = [column[0] for column in columns]
+        
+        # Update comboboxes with column names
+        column_filter_combobox_1['values'] = column_names
+        column_filter_combobox_2['values'] = column_names
+        column_filter_combobox_3['values'] = column_names
+        
     except Exception as e:
-        messagebox.showerror("Error", f"Failed to generate report: {e}")
+        messagebox.showerror("Error", f"Failed to fetch columns: {e}")
 
-# Create the main window
-root = ctk.CTk()
-root.title("Car Database System")
-root.geometry("1000x700")
+def fetch_column_values(column_name, value_combobox):
+    try:
+        query = f"SELECT DISTINCT {column_name} FROM C##car_schema.CarDetails"
+        cursor.execute(query)
+        values = cursor.fetchall()
+        
+        value_list = [value[0] for value in values]
+        value_combobox['values'] = value_list
+        value_combobox.set('')
+        
+        if not value_list:
+            messagebox.showinfo("No Data", f"No values found for {column_name}.")
+    
+    except Exception as e:
+        messagebox.showerror("Error", f"Failed to fetch values: {e}")
 
-# Add a heading label for all pages
-heading_label = ctk.CTkLabel(root, text="Car Database", font=("Arial", 24))
-heading_label.pack(pady=20)
+# Function to fetch values automatically when a column is selected for filtering
+def on_column_select(event, column_combobox, value_combobox):
+    selected_column = column_combobox.get()
+    if selected_column:
+        fetch_column_values(selected_column, value_combobox)
 
-# Create a frame for login
-login_frame = ctk.CTkFrame(root)
-login_frame.pack(pady=20, padx=20, fill="both", expand=True)
+# Function to apply filters and fetch filtered data
+def fetch_filtered_data():
+    try:
+        filter_conditions = []
+        
+        # Build filter conditions based on selected values in comboboxes
+        if column_filter_combobox_1.get() and value_filter_combobox_1.get():
+            filter_conditions.append(f"{column_filter_combobox_1.get()} = '{value_filter_combobox_1.get()}'")
+        
+        if column_filter_combobox_2.get() and value_filter_combobox_2.get():
+            filter_conditions.append(f"{column_filter_combobox_2.get()} = '{value_filter_combobox_2.get()}'")
+        
+        if column_filter_combobox_3.get() and value_filter_combobox_3.get():
+            filter_conditions.append(f"{column_filter_combobox_3.get()} = '{value_filter_combobox_3.get()}'")
+        
+        # Construct the WHERE clause for the query based on selected filters
+        where_clause = " AND ".join(filter_conditions) if filter_conditions else ""
+        query = f"""
+            SELECT Car_ID, Make, Model, Price, Year, Fuel_Type, Location, Transmission
+            FROM C##car_schema.CarDetails
+            {"WHERE " + where_clause if where_clause else ""}
+        """
+        
+        cursor.execute(query)
+        filtered_data = cursor.fetchall()
+        
+        # Clear the current treeview
+        for row in treeview.get_children():
+            treeview.delete(row)
+        
+        # Insert the filtered data into the treeview
+        for row in filtered_data:
+            treeview.insert("", "end", values=row)
+        
+        if not filtered_data:
+            messagebox.showinfo("No Data", "No data found for the applied filters.")
+    
+    except Exception as e:
+        messagebox.showerror("Error", f"Failed to fetch filtered data: {e}")
 
-# Login Page Widgets
-ctk.CTkLabel(login_frame, text="Username").grid(row=0, column=0, padx=10, pady=10)
-username_entry = ctk.CTkEntry(login_frame)
-username_entry.grid(row=0, column=1)
+# Function to generate a CSV report
+def generate_report():
+    try:
+        # Ask the user for a location to save the report
+        file_path = filedialog.asksaveasfilename(defaultextension=".csv", filetypes=[("CSV Files", "*.csv")])
+        
+        if not file_path:
+            return  # If no file path is selected, exit the function
+        
+        # Get all rows from the treeview
+        rows = treeview.get_children()
+        
+        # Write the rows to a CSV file
+        with open(file_path, mode="w", newline="") as file:
+            writer = csv.writer(file)
+            
+            # Write the column headings
+            writer.writerow(columns)
+            
+            # Write the data rows
+            for row in rows:
+                writer.writerow(treeview.item(row)["values"])
+        
+        messagebox.showinfo("Report Generated", f"Report has been saved to {file_path}")
+    
+    except Exception as e:
+        messagebox.showerror("Error", f"Failed to generate the report: {e}")
 
-ctk.CTkLabel(login_frame, text="Password").grid(row=1, column=0, padx=10, pady=10)
-password_entry = ctk.CTkEntry(login_frame, show="*")
-password_entry.grid(row=1, column=1)
+# GUI Application
+app = tk.Tk()
+app.title("Car Database Management")
+app.geometry("800x600")
 
-ctk.CTkLabel(login_frame, text="Select Role").grid(row=2, column=0, padx=10, pady=10)
-role_var = ctk.StringVar()
-role_dropdown = ctk.CTkOptionMenu(login_frame, variable=role_var, values=["Admin", "Manager", "User"])
-role_dropdown.grid(row=2, column=1)
+# Grid layout for better structure
+tk.Label(app, text="Select Column 1 to Filter by:").grid(row=0, column=0, padx=10, pady=10)
+column_filter_combobox_1 = ttk.Combobox(app, state="readonly")  # Column filter 1
+column_filter_combobox_1.grid(row=0, column=1, padx=10, pady=10)
 
-login_button = ctk.CTkButton(login_frame, text="Login", command=login)
-login_button.grid(row=3, columnspan=2, pady=20)
+tk.Label(app, text="Select Column 2 to Filter by:").grid(row=0, column=2, padx=10, pady=10)
+column_filter_combobox_2 = ttk.Combobox(app, state="readonly")  # Column filter 2
+column_filter_combobox_2.grid(row=0, column=3, padx=10, pady=10)
 
-# Admin, Manager, and User Dashboard Frames
-admin_dashboard_frame = ctk.CTkFrame(root)
-manager_dashboard_frame = ctk.CTkFrame(root)
-user_dashboard_frame = ctk.CTkFrame(root)
+tk.Label(app, text="Select Column 3 to Filter by:").grid(row=1, column=0, padx=10, pady=10)
+column_filter_combobox_3 = ttk.Combobox(app, state="readonly")  # Column filter 3
+column_filter_combobox_3.grid(row=1, column=1, padx=10, pady=10)
 
-# Start the GUI loop
-root.mainloop()
+# Column filter value comboboxes
+tk.Label(app, text="Select Value for Filter 1:").grid(row=1, column=2, padx=10, pady=10)
+value_filter_combobox_1 = ttk.Combobox(app, state="readonly")
+value_filter_combobox_1.grid(row=1, column=3, padx=10, pady=10)
+
+tk.Label(app, text="Select Value for Filter 2:").grid(row=2, column=0, padx=10, pady=10)
+value_filter_combobox_2 = ttk.Combobox(app, state="readonly")
+value_filter_combobox_2.grid(row=2, column=1, padx=10, pady=10)
+
+tk.Label(app, text="Select Value for Filter 3:").grid(row=2, column=2, padx=10, pady=10)
+value_filter_combobox_3 = ttk.Combobox(app, state="readonly")
+value_filter_combobox_3.grid(row=2, column=3, padx=10, pady=10)
+
+# Fetch Columns Button
+fetch_columns_button = ttk.Button(app, text="Fetch Columns", command=fetch_columns_for_filtering)
+fetch_columns_button.grid(row=3, column=0, columnspan=4, pady=10)
+
+# Apply Filter Button
+filter_button = ttk.Button(app, text="Apply Filter", command=fetch_filtered_data)
+filter_button.grid(row=4, column=0, columnspan=4, pady=10)
+
+# Treeview to show filtered data
+columns = ("Car_ID", "Make", "Model", "Price", "Year", "Fuel_Type", "Location", "Transmission")
+treeview = ttk.Treeview(app, columns=columns, show="headings")
+treeview.grid(row=5, column=0, columnspan=4, padx=10, pady=10)
+
+# Define column headings
+for col in columns:
+    treeview.heading(col, text=col)
+
+# Generate Report Button
+report_button = ttk.Button(app, text="Generate CSV Report", command=generate_report)
+report_button.grid(row=6, column=0, columnspan=4, pady=20)
+
+# Function to bind events for each combobox after they are defined
+def bind_column_filter_events():
+    column_filter_combobox_1.bind("<<ComboboxSelected>>", lambda event: on_column_select(event, column_filter_combobox_1, value_filter_combobox_1))
+    column_filter_combobox_2.bind("<<ComboboxSelected>>", lambda event: on_column_select(event, column_filter_combobox_2, value_filter_combobox_2))
+    column_filter_combobox_3.bind("<<ComboboxSelected>>", lambda event: on_column_select(event, column_filter_combobox_3, value_filter_combobox_3))
+
+# Call the bind function to activate the events after creating the comboboxes
+bind_column_filter_events()
+
+# Run the GUI
+app.mainloop()
+
+# Close the cursor and connection after finishing
+cursor.close()
+connection.close()
