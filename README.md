@@ -19,3 +19,11 @@
 ## Chapter 5: Graphical Interface
 
  -The first version of the GUI created with Python's CustomTkinter is complete, but it is not connected to a database.
+
+## To run this GUI, first install the dependencies:
+
+pip install customtkinter pillow python3
+
+-  Clone these two files:
+-  (# [gui_system.py](https://github.com/Krutik-Vanjara/VEHICLE_DATABASE/blob/Features/gui_system.py))
+-  (# [shopping.ico](https://github.com/Krutik-Vanjara/VEHICLE_DATABASE/blob/Features/shopping.ico))
