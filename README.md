@@ -18,4 +18,4 @@
 
 ## Chapter 5: Graphical Interface
 
- 
+ -The first version of the GUI created with Python's CustomTkinter is complete, but it is not connected to a database.
