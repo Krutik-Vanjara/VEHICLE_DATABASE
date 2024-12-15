@@ -1,10 +1,41 @@
+import cx_Oracle
 import customtkinter as ctk
 from tkinter import messagebox
-from PIL import Image, ImageTk  # To handle images
+from tkinter import ttk
+from PIL import Image, ImageTk
+import pandas as pd
 
-# Initialize CustomTkinter
-ctk.set_appearance_mode("light")  # Modes: "System" (default), "Dark", "Light"
-ctk.set_default_color_theme("dark-blue")  # Themes: "blue" (default), "green", "dark-blue"
+# Oracle Database Connection Function
+def connect_to_database():
+    try:
+        # Replace these details with your database credentials
+        connection = cx_Oracle.connect(
+            user="system",
+            password="12345",
+            dsn="localhost/XE"  # Replace with your database host and service name
+        )
+        return connection
+    except cx_Oracle.Error as e:
+        messagebox.showerror("Database Connection Error", str(e))
+        return None
+
+# Function to fetch car data from the database
+def fetch_car_data():
+    connection = connect_to_database()
+    if not connection:
+        return []
+    try:
+        cursor = connection.cursor()
+        cursor.execute("""
+            SELECT CAR_ID, MAKE, MODEL, PRICE, YEAR, FUEL_TYPE, LOCATION,TRANSMISSION
+            FROM CARDETAILS  -- Replace with your actual table name
+        """)
+        data = cursor.fetchall()  # Fetch all rows from the query result
+        connection.close()
+        return data
+    except cx_Oracle.Error as e:
+        messagebox.showerror("Database Query Error", str(e))
+        return []
 
 # Function to handle login logic
 def login():
@@ -12,82 +43,91 @@ def login():
     username = username_entry.get()
     password = password_entry.get()
 
-    # Simple role-based login
-    if username == "admin" and password == "admin123" and role == "Admin":
-        open_admin_dashboard()
-    elif username == "manager" and password == "manager123" and role == "Manager":
-        open_manager_dashboard()
-    elif username == "user" and password == "user123" and role == "User":
-        open_user_dashboard()
+    if username == "admin" and password == "password" and role == "Admin":
+        configure_dashboard("Admin")
+    elif username == "manager" and password == "password" and role == "Manager":
+        configure_dashboard("Manager")
+    elif username == "user" and password == "password" and role == "User":
+        configure_dashboard("User")
     else:
         messagebox.showerror("Login Error", "Invalid login credentials.")
 
-# Function to open Admin Dashboard
-def open_admin_dashboard():
-    login_frame.pack_forget()  # Hide the login frame
-    heading_label.configure(text="Admin Dashboard")
-    admin_dashboard_frame.pack(fill="both", expand=True)
+# Function to reset and show the login page
+def show_login_page():
+    heading_label.configure(text="Car Database")
+    for frame in [admin_dashboard_frame, manager_dashboard_frame, user_dashboard_frame]:
+        frame.pack_forget()
+    login_frame.pack(fill="both", expand=True)
 
-# Function to open Manager Dashboard
-def open_manager_dashboard():
-    login_frame.pack_forget()  # Hide the login frame
-    heading_label.configure(text="Manager Dashboard")
-    manager_dashboard_frame.pack(fill="both", expand=True)
+# Function to configure dashboards dynamically
+def configure_dashboard(role):
+    login_frame.pack_forget()
+    heading_label.configure(text=f"{role} Dashboard")
 
-# Function to open User Dashboard
-def open_user_dashboard():
-    login_frame.pack_forget()  # Hide the login frame
-    heading_label.configure(text="User Dashboard")
-    user_dashboard_frame.pack(fill="both", expand=True)
+    if role == "Admin":
+        frame = admin_dashboard_frame
+    elif role == "Manager":
+        frame = manager_dashboard_frame
+    else:
+        frame = user_dashboard_frame
 
-# Function to handle logout
-def logout():
-    heading_label.configure(text="Car Database")  # Reset heading label
-    login_frame.pack(fill="both", expand=True)  # Show login frame
+    for child in frame.winfo_children():
+        child.destroy()  # Clear previous widgets
 
-# Admin Dashboard Functions
-def add_user():
-    messagebox.showinfo("Add User", "User added successfully!")
+    # Add common widgets
+    ctk.CTkButton(frame, text="Search", command=lambda: search_data(frame)).pack(pady=10)
+    search_entry = ctk.CTkEntry(frame, placeholder_text="Search by Make or Model")
+    search_entry.pack(pady=10)
+    create_table_view(frame, ["CAR_ID", "MAKE", "MODEL", "PRICE", "YEAR", "FUEL_TYPE", "LOCATION", "TRANSMISSION"])
+    ctk.CTkButton(frame, text="Generate Report", command=lambda: generate_report(fetch_car_data())).pack(pady=10)
+    ctk.CTkButton(frame, text="Logout", command=show_login_page).pack(pady=10)
+    frame.search_entry = search_entry
+    frame.pack(fill="both", expand=True)
 
-def delete_user():
-    messagebox.showinfo("Delete User", "User deleted successfully!")
+# Function to search and display data in a table
+def search_data(frame):
+    query = frame.search_entry.get().lower()
+    data = fetch_car_data()
 
-def generate_sales_report():
-    messagebox.showinfo("Sales Report", "Sales report generated!")
+    # Filter data based on query
+    filtered_data = [row for row in data if query in row[1].lower() or query in row[2].lower()]
 
-# Manager Dashboard Functions
-def add_product():
-    messagebox.showinfo("Add Product", "Product added successfully!")
+    # Clear previous treeview data
+    for row in frame.tree.get_children():
+        frame.tree.delete(row)
 
-def view_orders():
-    messagebox.showinfo("View Orders", "Viewing orders!")
+    # Insert new data into treeview
+    for row in filtered_data:
+        frame.tree.insert("", "end", values=row)
 
-# User Dashboard Functions
-def search_cars():
-    messagebox.showinfo("Search Cars", "Searching cars by name or fuel type!")
+# Function to add treeview for displaying data
+def create_table_view(frame, columns):
+    frame.tree = ttk.Treeview(frame, columns=columns, show='headings')
+    for col in columns:
+        frame.tree.heading(col, text=col)
+        frame.tree.column(col, width=150)
+    frame.tree.pack(fill="both", expand=True)
 
-def view_order_history():
-    messagebox.showinfo("Order History", "Viewing order history!")
+# Function to generate an Excel report
+def generate_report(table_data, filename="Car_Report.xlsx"):
+    df = pd.DataFrame(table_data, columns=["CAR_ID", "MAKE", "MODEL", "PRICE", "YEAR", "FUEL_TYPE", "LOCATION", "TRANSMISSION"])
+    try:
+        df.to_excel(filename, index=False, engine="openpyxl")
+        messagebox.showinfo("Report Generated", f"Report has been saved as {filename}")
+    except Exception as e:
+        messagebox.showerror("Error", f"Failed to generate report: {e}")
 
 # Create the main window
 root = ctk.CTk()
-root.title("System GUI")
-root.geometry("800x600")
+root.title("Car Database System")
+root.geometry("1000x700")
 
 # Add a heading label for all pages
 heading_label = ctk.CTkLabel(root, text="Car Database", font=("Arial", 24))
 heading_label.pack(pady=20)
 
-# Add an image to the login page
-image = Image.open("C:/Users/Krutik/adbm project/shopping.ico")  # Replace with your image path
-image = image.resize((150, 150))  # Resize image as needed
-photo = ImageTk.PhotoImage(image)
-
-image_label = ctk.CTkLabel(root, image=photo, text="")
-image_label.pack()
-
 # Create a frame for login
-login_frame = ctk.CTkFrame(root, border_color="black")
+login_frame = ctk.CTkFrame(root)
 login_frame.pack(pady=20, padx=20, fill="both", expand=True)
 
 # Login Page Widgets
@@ -107,24 +147,10 @@ role_dropdown.grid(row=2, column=1)
 login_button = ctk.CTkButton(login_frame, text="Login", command=login)
 login_button.grid(row=3, columnspan=2, pady=20)
 
-# Admin Dashboard Frame
+# Admin, Manager, and User Dashboard Frames
 admin_dashboard_frame = ctk.CTkFrame(root)
-ctk.CTkButton(admin_dashboard_frame, text="Add User", command=add_user).pack(pady=10)
-ctk.CTkButton(admin_dashboard_frame, text="Delete User", command=delete_user).pack(pady=10)
-ctk.CTkButton(admin_dashboard_frame, text="Generate Sales Report", command=generate_sales_report).pack(pady=10)
-ctk.CTkButton(admin_dashboard_frame, text="Logout", command=lambda: [admin_dashboard_frame.pack_forget(), logout()]).pack(pady=20)
-
-# Manager Dashboard Frame
 manager_dashboard_frame = ctk.CTkFrame(root)
-ctk.CTkButton(manager_dashboard_frame, text="Add Product", command=add_product).pack(pady=10)
-ctk.CTkButton(manager_dashboard_frame, text="View Orders", command=view_orders).pack(pady=10)
-ctk.CTkButton(manager_dashboard_frame, text="Logout", command=lambda: [manager_dashboard_frame.pack_forget(), logout()]).pack(pady=20)
-
-# User Dashboard Frame
 user_dashboard_frame = ctk.CTkFrame(root)
-ctk.CTkButton(user_dashboard_frame, text="Search Cars", command=search_cars).pack(pady=10)
-ctk.CTkButton(user_dashboard_frame, text="View Order History", command=view_order_history).pack(pady=10)
-ctk.CTkButton(user_dashboard_frame, text="Logout", command=lambda: [user_dashboard_frame.pack_forget(), logout()]).pack(pady=20)
 
 # Start the GUI loop
 root.mainloop()
