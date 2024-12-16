@@ -14,14 +14,18 @@
 - [You can see here in details](https://github.com/Krutik-Vanjara/VEHICLE_DATABASE/tree/DATASET)
 ## Chapter 2: Security and User Management
  **Overview** 
-- This section details user and role management in the car management system, ensuring appropriate access levels to database tables for different users. The system accommodates three user types: admin, manager, and regular users, each with distinct roles and permissions.
- **Users and Roles**  
+This section details user and role management in the car management system, ensuring appropriate access levels to database tables for different users. The system accommodates three user types: admin, manager, and regular users, each with distinct roles and permissions.
+  
+ **Users and Roles**
+  
 **1.Admin User (C##admin_user)**
   **Role:** C##admin_role  
-  **Permissions:** Full access to all tables (CarDetails, CarSpecifications, CarFeatures, CarOwnership, CarDimensions).  
+  **Permissions:** Full access to all tables (CarDetails, CarSpecifications, CarFeatures, CarOwnership, CarDimensions). 
+  
 **2.Manager User (C##manager_user)**  
   **Role:** C##manager_role  
   **Permissions:** Modify access (read, insert, update) to all tables, with no Data Definition Language (DDL) permissions.  
+  
 **3.Regular User (C##regular_user)**  
   **Role:** C##regular_role  
   **Permissions:** Read-only access to all tables.  
