@@ -48,11 +48,16 @@ This section presents SQL queries to retrieve and analyze data from the car mana
 ## Chapter 5: Graphical Interface
 
  - [Gui1](Bonus.py)This GUI application combines Python's cx_Oracle library with Tkinter to manage a car database. Users can input multiple locations and fuel types, retrieve the count of cars matching their criteria, and view the results in an intuitive interface. It also offers a feature to generate and save detailed reports as CSV files, utilizing Oracle SQL for dynamic data retrieval and visualization.
-- [GUI2](gui_system.py)The Car Database Management System is a GUI-based application built with Tkinter for managing and filtering car details stored in an Oracle database. It offers a user-friendly interface where users can dynamically select up to three columns for filtering data, with column names fetched directly from the database schema. Upon selecting a column, the application retrieves and displays distinct values in dropdown menus, enabling precise filtering. The filtered results are displayed in a table within the application, powered by dynamically constructed SQL queries. Additionally, users can export the filtered data as a CSV file for further analysis or sharing. The system leverages the cx_Oracle library for database connectivity, ensuring smooth interaction with the Oracle database. Designed for car inventory management, the GUI simplifies complex filtering and data management processes, making it accessible even for users without SQL expertise. With features like real-time query construction, dynamic value fetching, and CSV export, this application provides an efficient and intuitive solution for managing car records.
+- [GUI2](gui_system.py) The Car Database Management System is a Tkinter-based GUI application for managing and filtering car details stored in an Oracle database. It features a user-friendly interface that allows users to dynamically select up to three columns for data filtering, with column names sourced directly from the database schema. Upon selection, the application retrieves and displays distinct values in dropdown menus for precise filtering. Results are shown in a table, supported by dynamically constructed SQL queries. Users can also export the filtered data as a CSV file for further analysis or sharing. Utilizing the cx_Oracle library for database connectivity, the system ensures smooth interaction with the Oracle database. Designed for car inventory management, the GUI simplifies complex filtering and data management processes, making it accessible to users without SQL expertise. With real-time query construction, dynamic value fetching, and CSV export, this application offers an efficient and intuitive solution for managing car records.
 ## To run this GUI, first install the dependencies:
 
-'''python 
-pip install customtkinter cx_Oracle python3 csv '''
+## Installation Instructions
+
+To install the required dependencies, run the following command in your terminal:
+
+```python
+pip install tkinter cx_Oracle csv 
+```
 
 -  Clone these two files:
 -  (# [gui_system.py](gui_system.py))
