@@ -18,7 +18,7 @@ This section details user and role management in the car management system, ensu
   
  **Users and Roles**
   
-`**1. Admin User (C##admin_user)**`
+**`1. Admin User (C##admin_user)`**
   **Role:** C##admin_role  
   **Permissions:** Full access to all tables (CarDetails, CarSpecifications, CarFeatures, CarOwnership, CarDimensions). 
   
