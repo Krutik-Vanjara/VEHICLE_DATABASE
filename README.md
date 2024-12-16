@@ -24,7 +24,7 @@ The project is organized into the following branches:
 - `DATASETS :` This branch contains all the .csv files used to create this database.
 - `Features:`  This branch contains all chapter-wise sections along with related SQL queries, code, and other documents.
 
-## Chapter 1
+ <!--## Chapter 1
 
 Database Schema for Car Management System
 Overview
@@ -357,4 +357,4 @@ DECLARE
 BEGIN
     get_car_count_by_location('Pune', 'Petrol', count_result);
     DBMS_OUTPUT.PUT_LINE('Number of cars in Pune with Petrol: ' || count_result);
-END;
+END;-->
