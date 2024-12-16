@@ -83,3 +83,50 @@ Stores ownership and seller information of each car.
   - `OWNER`
   - `SELLER_TYPE`
   - `KILOMETER`
+ 
+  ## Table Constraints
+
+1. `**CHK_PRICE**`
+   - **Constraint Type:** Check
+   - **Search Condition:** Price >= 0
+
+2. `**CHK_YEAR**`
+   - **Constraint Type:** Check
+   - **Search Condition:** Year BETWEEN 1886 AND 9999
+
+3. `**SYS_C008363**`
+   - **Constraint Type:** Primary Key
+   - **Search Condition:** (null)
+
+4. `**SYS_C008364**`
+   - **Constraint Type:** Check
+   - **Search Condition:** "CAR_ID" IS NOT NULL
+
+5. `**SYS_C008365**`
+   - **Constraint Type:** Check
+   - **Search Condition:** "MAKE" IS NOT NULL
+
+6. `**SYS_C008366**`
+   - **Constraint Type:** Check
+   - **Search Condition:** "MODEL" IS NOT NULL
+
+7. `**SYS_C008367**`
+   - **Constraint Type:** Check
+   - **Search Condition:** "PRICE" IS NOT NULL
+
+8. `**SYS_C008368**`
+   - **Constraint Type:** Check
+   - **Search Condition:** "YEAR" IS NOT NULL
+
+9. `**SYS_C008369**`
+   - **Constraint Type:** Check
+   - **Search Condition:** "FUEL_TYPE" IS NOT NULL
+
+10. `**SYS_C008370**`
+    - **Constraint Type:** Check
+    - **Search Condition:** "LOCATION" IS NOT NULL
+
+11. `**SYS_C008371**`
+    - **Constraint Type:** Check
+    - **Search Condition:** "TRANSMISSION" IS NOT NULL
+
