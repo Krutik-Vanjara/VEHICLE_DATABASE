@@ -9,7 +9,9 @@
 
 
 ## Chapter 1: Preparing Your Relational Schema
+- This database schema manages comprehensive information about cars, covering specifications, features, ownership, and dimensions. It includes five tables: CarDetails, CarSpecifications, CarFeatures, CarOwnership, and CarDimensions. 
 
+- [You can see here in details](#https://github.com/Krutik-Vanjara/VEHICLE_DATABASE/tree/DATASET)
 ## Chapter 2: Security and User Management
 
 ## Chapter 3: Queries and Optimization
