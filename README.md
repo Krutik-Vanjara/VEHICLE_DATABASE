@@ -19,31 +19,38 @@ This section details user and role management in the car management system, ensu
  **Users and Roles**
   
 **`1. Admin User (C##admin_user)`**
-  **Role:** C##admin_role  
-  **Permissions:** Full access to all tables (CarDetails, CarSpecifications, CarFeatures, CarOwnership, CarDimensions). 
+
+  - **Role:** C##admin_role  
+  - **Permissions:** Full access to all tables (CarDetails, CarSpecifications, CarFeatures, CarOwnership, CarDimensions). 
   
-`**2.Manager User (C##manager_user)**`  
-  **Role:** C##manager_role  
-  **Permissions:** Modify access (read, insert, update) to all tables, with no Data Definition Language (DDL) permissions.  
+**`2.Manager User (C##manager_user)`**  
+
+  - **Role:** C##manager_role  
+  - **Permissions:** Modify access (read, insert, update) to all tables, with no Data Definition Language (DDL) permissions.  
   
-`**3.Regular User (C##regular_user)** ` 
-  **Role:** C##regular_role  
-  **Permissions:** Read-only access to all tables.
+**`3.Regular User (C##regular_user)`** 
+
+  - **Role:** C##regular_role  
+  - **Permissions:** Read-only access to all tables.
   
-`**Role Creation and Privileges**`  
-  **Admin Role (C##admin_role):** Full access to all tables.  
-  **Manager Role (C##manager_role):** Select, insert, and update privileges on all tables.  
-  **Regular Role (C##regular_role):** Select privileges on all tables.  
+**`Role Creation and Privileges`**
+
+  - **Admin Role (C##admin_role):** Full access to all tables.  
+  - **Manager Role (C##manager_role):** Select, insert, and update privileges on all tables.  
+  - **Regular Role (C##regular_role):** Select privileges on all tables.  
   
-`**Assigning Roles to Users** ` 
-  C##admin_role is assigned to C##admin_user.  
-  C##manager_role is assigned to C##manager_user.  
-  C##regular_role is assigned to C##regular_user. 
+**`Assigning Roles to Users`** 
+
+ -  C##admin_role is assigned to C##admin_user.  
+ -  C##manager_role is assigned to C##manager_user.  
+ -  C##regular_role is assigned to C##regular_user. 
   
-`**Password Policy**`  
+**`Password Policy`**  
+
   The default profile is modified to set a 90-day password lifetime, requiring periodic password changes.  
   
-`**Views for Restricted Access**`  
+**`Views for Restricted Access`**
+
 A view, CarDetails_View, is created to limit access to specific columns (Car_ID, Make, Model) for users with the C##regular_role, ensuring the underlying table remains secure by restricting access to other columns.
 
 ## Chapter 3: Queries and Optimization
@@ -55,6 +62,7 @@ This section presents SQL queries to retrieve and analyze data from the car mana
 Optimize query results here. : [`QUERY`](Optimized_result.pdf)
 
 ## Chapter 4: Automation of the Information System
+
 **Overview**
 -This section describes the triggers, functions, and procedures implemented to manage and automate various operations within the car management system. These include logging deletions, restricting user actions, calculating total car values, updating car prices, and counting cars based on specific criteria.
 
