@@ -38,17 +38,22 @@
 **Views for Restricted Access**  
 A view, CarDetails_View, is created to limit access to specific columns (Car_ID, Make, Model) for users with the C##regular_role, ensuring the underlying table remains secure by restricting access to other columns.
 ## Chapter 3: Queries and Optimization
-
+**Overview**
+This section presents SQL queries to retrieve and analyze data from the car management system, including car listings with specifications, average price calculations, price rankings, and query performance optimization.
 ## Chapter 4: Automation of the Information System
-
+**Overview**
+-This section describes the triggers, functions, and procedures implemented to manage and automate various operations within the car management system. These include logging deletions, restricting user actions, calculating total car values, updating car prices, and counting cars based on specific criteria.
+**Triggers**
+-Trigger to Print Message on New Record Insertion
 ## Chapter 5: Graphical Interface
 
- -The first version of the GUI created with Python's CustomTkinter is complete, but it is not connected to a database.
-
+ - [Gui1](Bonus.py)This GUI application combines Python's cx_Oracle library with Tkinter to manage a car database. Users can input multiple locations and fuel types, retrieve the count of cars matching their criteria, and view the results in an intuitive interface. It also offers a feature to generate and save detailed reports as CSV files, utilizing Oracle SQL for dynamic data retrieval and visualization.
+- [GUI2](gui_system.py)The Car Database Management System is a GUI-based application built with Tkinter for managing and filtering car details stored in an Oracle database. It offers a user-friendly interface where users can dynamically select up to three columns for filtering data, with column names fetched directly from the database schema. Upon selecting a column, the application retrieves and displays distinct values in dropdown menus, enabling precise filtering. The filtered results are displayed in a table within the application, powered by dynamically constructed SQL queries. Additionally, users can export the filtered data as a CSV file for further analysis or sharing. The system leverages the cx_Oracle library for database connectivity, ensuring smooth interaction with the Oracle database. Designed for car inventory management, the GUI simplifies complex filtering and data management processes, making it accessible even for users without SQL expertise. With features like real-time query construction, dynamic value fetching, and CSV export, this application provides an efficient and intuitive solution for managing car records.
 ## To run this GUI, first install the dependencies:
 
-pip install customtkinter pillow python3
+'''python 
+pip install customtkinter cx_Oracle python3 csv '''
 
 -  Clone these two files:
--  (# [gui_system.py](https://github.com/Krutik-Vanjara/VEHICLE_DATABASE/blob/Features/gui_system.py))
--  (# [shopping.ico](https://github.com/Krutik-Vanjara/VEHICLE_DATABASE/blob/Features/shopping.ico))
+-  (# [gui_system.py](gui_system.py))
+-  (# [Bonus](Bonus.py))
