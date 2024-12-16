@@ -114,19 +114,19 @@ Stores ownership and seller information of each car.
    - **Constraint Type:** Check
    - **Search Condition:** "PRICE" IS NOT NULL
 
-8. `**SYS_C008368**`
+8. **`SYS_C008368`**
    - **Constraint Type:** Check
    - **Search Condition:** "YEAR" IS NOT NULL
 
-9. `**SYS_C008369**`
+9. **`SYS_C008369`**
    - **Constraint Type:** Check
    - **Search Condition:** "FUEL_TYPE" IS NOT NULL
 
-10. `**SYS_C008370**`
+10. **`SYS_C008370`**
     - **Constraint Type:** Check
     - **Search Condition:** "LOCATION" IS NOT NULL
 
-11. `**SYS_C008371**`
+11. **`SYS_C008371`**
     - **Constraint Type:** Check
     - **Search Condition:** "TRANSMISSION" IS NOT NULL
 
