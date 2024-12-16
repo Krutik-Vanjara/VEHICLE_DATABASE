@@ -26,7 +26,7 @@ The project is organized into the following branches:
 - [`Features:`](https://github.com/Krutik-Vanjara/VEHICLE_DATABASE/tree/Features) This branch contains all chapter-wise sections along with related SQL queries, code, and other documents.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
- # Car Database Relational Schema
+<!-- # Car Database Relational Schema
 
 This Branch contains the relational schema for a car database. The schema is designed to store information about cars, their features, specifications, dimensions, and ownership details.
 
@@ -205,7 +205,7 @@ pip install tkinter cx_Oracle csv python3
 
 ## GUI SCREENSHOOTS
 ![G1](g1.jpg)
-![G2](g2.jpg)
+![G2](g2.jpg)-->
   
  <!--## Chapter 1
 
