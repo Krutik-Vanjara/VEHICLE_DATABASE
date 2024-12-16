@@ -86,31 +86,31 @@ Stores ownership and seller information of each car.
  
   ## Table Constraints
 
-1. `**CHK_PRICE**`
+1. **`CHK_PRICE`**
    - **Constraint Type:** Check
    - **Search Condition:** Price >= 0
 
-2. `**CHK_YEAR**`
+2. **`CHK_YEAR`**
    - **Constraint Type:** Check
    - **Search Condition:** Year BETWEEN 1886 AND 9999
 
-3. `**SYS_C008363**`
+3. **`SYS_C008363`**
    - **Constraint Type:** Primary Key
    - **Search Condition:** (null)
 
-4. `**SYS_C008364**`
+4. **`SYS_C008364`**
    - **Constraint Type:** Check
    - **Search Condition:** "CAR_ID" IS NOT NULL
 
-5. `**SYS_C008365**`
+5. **`SYS_C008365`**
    - **Constraint Type:** Check
    - **Search Condition:** "MAKE" IS NOT NULL
 
-6. `**SYS_C008366**`
+6. **`SYS_C008366`**
    - **Constraint Type:** Check
    - **Search Condition:** "MODEL" IS NOT NULL
 
-7. `**SYS_C008367**`
+7. **`SYS_C008367`**
    - **Constraint Type:** Check
    - **Search Condition:** "PRICE" IS NOT NULL
 
