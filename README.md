@@ -56,7 +56,7 @@ This section presents SQL queries to retrieve and analyze data from the car mana
 To install the required dependencies, run the following command in your terminal:
 
 ```python
-pip install tkinter cx_Oracle csv 
+pip install tkinter cx_Oracle csv python3
 ```
 
 -  Clone these two files:
