@@ -64,5 +64,5 @@ pip install tkinter cx_Oracle csv python3
 -  (# [Bonus](Bonus.py))
 
 ## GUI SCREENSHOOTS
-[G1](g1.jpg)
-[G2](g2.jpg)
+![G1](g1.jpg)
+![G2](g2.jpg)
