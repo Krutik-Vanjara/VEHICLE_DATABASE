@@ -62,3 +62,7 @@ pip install tkinter cx_Oracle csv python3
 -  Clone these two files:
 -  (# [gui_system.py](gui_system.py))
 -  (# [Bonus](Bonus.py))
+
+## GUI SCREENSHOOTS
+[G1](g1.jpg)
+[G2](g2.jpg)
