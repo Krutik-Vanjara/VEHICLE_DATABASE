@@ -37,9 +37,14 @@
   The default profile is modified to set a 90-day password lifetime, requiring periodic password changes.  
 **Views for Restricted Access**  
 A view, CarDetails_View, is created to limit access to specific columns (Car_ID, Make, Model) for users with the C##regular_role, ensuring the underlying table remains secure by restricting access to other columns.
+
 ## Chapter 3: Queries and Optimization
 **Overview**
+
 This section presents SQL queries to retrieve and analyze data from the car management system, including car listings with specifications, average price calculations, price rankings, and query performance optimization.
+
+Optimize query results here. : [`QUERY`](Optimized_result.pdf)
+
 ## Chapter 4: Automation of the Information System
 **Overview**
 -This section describes the triggers, functions, and procedures implemented to manage and automate various operations within the car management system. These include logging deletions, restricting user actions, calculating total car values, updating car prices, and counting cars based on specific criteria.
