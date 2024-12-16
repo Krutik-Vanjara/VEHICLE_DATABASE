@@ -21,8 +21,8 @@ There are five different CSV files included in this dataset.
 ## Project Structure
 
 The project is organized into the following branches:
-- `DATASETS :` This branch contains all the .csv files used to create this database.
-- `Features:`  This branch contains all chapter-wise sections along with related SQL queries, code, and other documents.
+- [`DATASETS :`](https://github.com/Krutik-Vanjara/VEHICLE_DATABASE/tree/DATASET)This branch contains all the .csv files used to create this database.
+- [`Features:`](https://github.com/Krutik-Vanjara/VEHICLE_DATABASE/tree/Features) This branch contains all chapter-wise sections along with related SQL queries, code, and other documents.
 
  <!--## Chapter 1
 
