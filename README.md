@@ -24,6 +24,10 @@ There are five different CSV files included in this dataset.
 The project is organized into the following branches:
 - [`DATASETS :`](https://github.com/Krutik-Vanjara/VEHICLE_DATABASE/tree/DATASET)This branch contains all the .csv files used to create this database.
 - [`Features:`](https://github.com/Krutik-Vanjara/VEHICLE_DATABASE/tree/Features) This branch contains all chapter-wise sections along with related SQL queries, code, and other documents.
+
+  <a href="www.linkedin.com/in/krutik-vanjara" target="_blank">
+    <img src="https://instagram.com/johndoe.png" alt="Linkdin" width="50">
+</a>
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <!-- # Car Database Relational Schema
