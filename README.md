@@ -25,8 +25,8 @@ The project is organized into the following branches:
 - [`DATASETS :`](https://github.com/Krutik-Vanjara/VEHICLE_DATABASE/tree/DATASET)This branch contains all the .csv files used to create this database.
 - [`Features:`](https://github.com/Krutik-Vanjara/VEHICLE_DATABASE/tree/Features) This branch contains all chapter-wise sections along with related SQL queries, code, and other documents.
 
-  <a href="www.linkedin.com/in/krutik-vanjara" target="_blank">
-    <img src="linkdin.png" alt="Linkdin" width="50">
+  <a href="https://www.linkedin.com/in/krutik-vanjara" target="_blank">
+    <img src="linkdin.png" alt="Linkedin" width="50">
 </a>
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
