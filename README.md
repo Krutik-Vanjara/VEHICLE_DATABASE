@@ -31,7 +31,7 @@ The project is organized into the following branches:
     <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="50" style="margin-right: 10px;">
     LinkedIn
 </a>
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 <!-- # Car Database Relational Schema
 
