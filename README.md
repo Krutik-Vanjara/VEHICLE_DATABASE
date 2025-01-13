@@ -27,10 +27,10 @@ The project is organized into the following branches:
 
 # Group member 
 
- <a href="https://www.linkedin.com/in/krutik-vanjara" target="_blank" style="display: flex; align-items: center; text-decoration: none; color: inherit;">
+[Krutik]( <a href="https://www.linkedin.com/in/krutik-vanjara" target="_blank" style="display: flex; align-items: center; text-decoration: none; color: inherit;">
     <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="50" style="margin-right: 10px;">
     LinkedIn
-</a>
+</a>)
 
 
 <!-- # Car Database Relational Schema
