@@ -26,7 +26,7 @@ The project is organized into the following branches:
 - [`Features:`](https://github.com/Krutik-Vanjara/VEHICLE_DATABASE/tree/Features) This branch contains all chapter-wise sections along with related SQL queries, code, and other documents.
 
   <a href="www.linkedin.com/in/krutik-vanjara" target="_blank">
-    <img src="https://instagram.com/johndoe.png" alt="Linkdin" width="50">
+    <img src="linkdin.png" alt="Linkdin" width="50">
 </a>
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
