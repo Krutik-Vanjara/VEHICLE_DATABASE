@@ -27,8 +27,9 @@ The project is organized into the following branches:
 
 # Group member 
 
-  <a href="https://www.linkedin.com/in/krutik-vanjara" target="_blank">
-    <img src="linkdin.png" alt="Linkedin" width="50" tittle="Krutik Vanjara" >
+ <a href="https://www.linkedin.com/in/krutik-vanjara" target="_blank" style="display: flex; align-items: center; text-decoration: none; color: inherit;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="50" style="margin-right: 10px;">
+    LinkedIn
 </a>
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
